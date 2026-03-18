@@ -1,0 +1,23 @@
+{
+    "createdBy": 34,
+    "createdDate": "2025-05-12T02:19:55.000+0000",
+    "fields": {
+        "date1": "2025-01-31",
+        "date2": "2025-07-31",
+        "description": "顧客情報を一元管理し、営業活動の効率化と顧客満足度の向上を図ること",
+        "name": "Duplicate of サンプル(顧客管理システム)",
+        "projectGroup": 296,
+        "projectKey": "TT2_2",
+        "projectManager": 34,
+        "statusId": 298,
+        "text1": "- 顧客情報の一元管理を実現\n- 営業活動の効率化\n- 顧客満足度の向上\n- データの一貫性と正確性の確保\n- レポート機能によるデータ分析の強化\n",
+        "user1": 34
+    },
+    "id": 184,
+    "isFolder": false,
+    "modifiedBy": 34,
+    "modifiedDate": "2025-05-12T02:19:55.000+0000",
+    "parent": 156,
+    "projectKey": "TT2_2",
+    "type": "projects"
+}

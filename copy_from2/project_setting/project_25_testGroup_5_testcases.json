@@ -1,0 +1,303 @@
+[
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:48:12.000+0000",
+        "documentKey": "CL3-VER-29",
+        "fields": {
+            "description": "<p>In a focus group of 10 patients with iOS devices, rate device application at least 7/10.</p>\n",
+            "documentKey": "CL3-VER-29",
+            "globalId": "GID-54205",
+            "name": "iOS Validation",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Patient A rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient B rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient C rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient D rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient E rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient F rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient G rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient H rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient I rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient J rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54205",
+        "id": 2872,
+        "itemType": 89,
+        "lastActivityDate": "2017-07-13T21:00:46.000+0000",
+        "location": {
+            "globalSortOrder": 6039,
+            "parent": {
+                "item": 7123
+            },
+            "sequence": "3.2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2015-09-28T18:49:13.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:00:46.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-30T10:29:41.000+0000",
+        "documentKey": "CL3-SVER-15",
+        "fields": {
+            "description": "",
+            "documentKey": "CL3-SVER-15",
+            "globalId": "GID-54226",
+            "name": "iOS Games",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Ensure game sounds play back within the appropriate range",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54226",
+        "id": 2950,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-14T19:27:05.000+0000",
+        "location": {
+            "globalSortOrder": 18091,
+            "parent": {
+                "item": 7132
+            },
+            "sequence": "4.1.2.3.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:06:04.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-30T10:29:41.000+0000",
+        "documentKey": "CL3-SVER-16",
+        "fields": {
+            "description": "",
+            "documentKey": "CL3-SVER-16",
+            "globalId": "GID-54227",
+            "name": "iOS Music",
+            "status": 292,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "Ensure music plays back within the appropriate range",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Ensure music sound controls work",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54227",
+        "id": 2951,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-14T19:30:30.000+0000",
+        "location": {
+            "globalSortOrder": 18092,
+            "parent": {
+                "item": 7132
+            },
+            "sequence": "4.1.2.3.9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:06:04.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-30T10:29:41.000+0000",
+        "documentKey": "CL3-SVER-14",
+        "fields": {
+            "description": "",
+            "documentKey": "CL3-SVER-14",
+            "globalId": "GID-54225",
+            "name": "iOS Phone Call",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Dial phone and ensure touchtones are heard within the appropriate range",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Ensure audio feedback that tells the user a call is going through is heard within the appropriate range",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Ensure voices are heard within the appropriate range",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54225",
+        "id": 2949,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-14T19:30:14.000+0000",
+        "location": {
+            "globalSortOrder": 18090,
+            "parent": {
+                "item": 7132
+            },
+            "sequence": "4.1.2.3.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:06:04.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "createdBy": 14,
+    "createdDate": "2022-09-13T08:43:01.000+0000",
+    "fields": {
+        "description": "",
+        "name": "PROJ1-2",
+        "projectGroup": 296,
+        "projectKey": "POJ112",
+        "projectManager": 14,
+        "statusId": 298,
+        "text1": "",
+        "user1": 14
+    },
+    "id": 136,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2022-09-13T08:43:01.000+0000",
+    "parent": 114,
+    "projectKey": "POJ112",
+    "type": "projects"
+}

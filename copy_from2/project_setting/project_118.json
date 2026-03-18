@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2021-12-03T04:07:56.000+0000",
+    "fields": {
+        "description": "",
+        "name": "PROJ4",
+        "projectGroup": 296,
+        "projectKey": "PROJ4",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 118,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2021-12-03T04:07:56.000+0000",
+    "parent": 125,
+    "projectKey": "PROJ4",
+    "type": "projects"
+}

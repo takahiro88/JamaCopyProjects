@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2024-10-07T10:27:58.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Duplicate of ASE_TEST_1",
+        "projectGroup": 296,
+        "projectKey": "ASET12",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 168,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2024-10-07T10:27:58.000+0000",
+    "parent": 125,
+    "projectKey": "ASET12",
+    "type": "projects"
+}

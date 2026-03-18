@@ -1,0 +1,72 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "E9FFFF",
+        "default": true,
+        "description": "",
+        "id": 694,
+        "infotip": "",
+        "name": "実施前",
+        "pickList": 397,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF9933",
+        "default": false,
+        "description": "",
+        "id": 696,
+        "infotip": "",
+        "name": "実施済み",
+        "pickList": 397,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "F7C0FF",
+        "default": false,
+        "description": "",
+        "id": 697,
+        "infotip": "",
+        "name": "レビュー",
+        "pickList": 397,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "CCFFCC",
+        "default": false,
+        "description": "",
+        "id": 695,
+        "infotip": "",
+        "name": "承認済み",
+        "pickList": 397,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFF800",
+        "default": false,
+        "description": "",
+        "id": 698,
+        "infotip": "",
+        "name": "差し戻し",
+        "pickList": 397,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

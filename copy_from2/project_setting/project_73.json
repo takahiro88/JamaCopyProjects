@@ -1,0 +1,19 @@
+{
+    "createdBy": 5,
+    "createdDate": "2015-08-19T16:35:09.000+0000",
+    "fields": {
+        "description": "",
+        "name": "MedicalDevice Test Sample",
+        "projectGroup": 296,
+        "projectKey": "ASE36",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 73,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2019-11-21T17:36:53.000+0000",
+    "parent": 10,
+    "projectKey": "ASE36",
+    "type": "projects"
+}

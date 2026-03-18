@@ -1,0 +1,1321 @@
+[
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2025-02-19T08:18:19.000+0000",
+        "documentKey": "HT-SET-1",
+        "fields": {
+            "documentKey": "HT-SET-1",
+            "globalId": "GID-84721",
+            "name": "ATest1",
+            "setKey": "AIT"
+        },
+        "globalId": "GID-84721",
+        "id": 198610,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-19T08:18:19.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 180
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-02-19T08:18:19.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-02-19T08:18:48.000+0000",
+        "documentKey": "HT-AIT-1",
+        "fields": {
+            "description2$139": "<table align=\"\" bgcolor=\"#ffffcc\" border=\"1\" cellpadding=\"10\" cellspacing=\"1\" style=\"border-width:1px; font-size:13px; width:544px\" summary=\"\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">As a</span></td>\n\t\t\t<td style=\"padding:10px\">(user role)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">I can</span></td>\n\t\t\t<td style=\"padding:10px\">(activity)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">So that</span></td>\n\t\t\t<td style=\"padding:10px\">(business value)</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+            "documentKey": "HT-AIT-1",
+            "globalId": "GID-84722",
+            "name": "特殊機能"
+        },
+        "globalId": "GID-84722",
+        "id": 198611,
+        "itemType": 139,
+        "lastActivityDate": "2025-02-19T08:18:48.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 198610
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-02-23T12:40:55.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-02-19T08:18:48.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-03-27T06:25:31.000+0000",
+        "documentKey": "HT-AIT-36",
+        "fields": {
+            "description": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:228px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:25px; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap; width:72px\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">　</span></span></span></span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap; width:72px\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">面積</span></span></span></span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap; width:84px\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">人口</span></span></span></span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">東京</span></span></span></span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">2,194 km²</span></span></span></span></span></span></td>\n\t\t\t<td align=\"right\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">13,940,000</span></span></span></span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">神奈川</span></span></span></span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">2,416 km²</span></span></span></span></span></span></td>\n\t\t\t<td align=\"right\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">9170000</span></span></span></span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">埼玉</span></span></span></span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">3,798 km²</span></span></span></span></span></span></td>\n\t\t\t<td align=\"right\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; padding-left:1px; padding-right:1px; padding-top:1px; vertical-align:middle; white-space:nowrap\"><span style=\"font-size:15px\"><span style=\"color:black\"><span><span><span><span style=\"font-family:游ゴシック,monospace\">7330000</span></span></span></span></span></span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+            "documentKey": "HT-AIT-36",
+            "globalId": "GID-84842",
+            "name": "関東地方"
+        },
+        "globalId": "GID-84842",
+        "id": 198793,
+        "itemType": 139,
+        "lastActivityDate": "2025-03-27T06:25:50.000+0000",
+        "location": {
+            "globalSortOrder": 3754,
+            "parent": {
+                "item": 198610
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2025-03-27T06:26:25.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-03-27T06:25:50.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2025-02-19T08:37:22.000+0000",
+        "documentKey": "HT-SET-2",
+        "fields": {
+            "documentKey": "HT-SET-2",
+            "globalId": "GID-84723",
+            "name": "ATest2",
+            "setKey": "AIT"
+        },
+        "globalId": "GID-84723",
+        "id": 198612,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-19T08:37:22.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "project": 180
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-02-19T08:37:22.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-04-08T07:51:43.000+0000",
+        "documentKey": "HT-AIT-37",
+        "fields": {
+            "documentKey": "HT-AIT-37",
+            "globalId": "GID-84872",
+            "name": "FuncA"
+        },
+        "globalId": "GID-84872",
+        "id": 198836,
+        "itemType": 139,
+        "lastActivityDate": "2025-04-08T07:51:43.000+0000",
+        "location": {
+            "globalSortOrder": 21459,
+            "parent": {
+                "item": 198612
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 38,
+        "modifiedDate": "2025-04-08T07:51:43.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-04-08T07:51:44.000+0000",
+        "documentKey": "HT-AIT-38",
+        "fields": {
+            "documentKey": "HT-AIT-38",
+            "globalId": "GID-84873",
+            "name": "FuncB"
+        },
+        "globalId": "GID-84873",
+        "id": 198837,
+        "itemType": 139,
+        "lastActivityDate": "2025-04-08T07:51:44.000+0000",
+        "location": {
+            "globalSortOrder": 22532,
+            "parent": {
+                "item": 198612
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 38,
+        "modifiedDate": "2025-04-08T07:51:44.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-04-08T07:51:44.000+0000",
+        "documentKey": "HT-AIT-39",
+        "fields": {
+            "documentKey": "HT-AIT-39",
+            "globalId": "GID-84874",
+            "name": "特殊機能"
+        },
+        "globalId": "GID-84874",
+        "id": 198838,
+        "itemType": 139,
+        "lastActivityDate": "2025-04-08T07:51:44.000+0000",
+        "location": {
+            "globalSortOrder": 23605,
+            "parent": {
+                "item": 198612
+            },
+            "sequence": "2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 38,
+        "modifiedDate": "2025-04-08T07:51:44.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-04-08T07:51:45.000+0000",
+        "documentKey": "HT-AIT-40",
+        "fields": {
+            "documentKey": "HT-AIT-40",
+            "globalId": "GID-84875",
+            "name": " 補正機能"
+        },
+        "globalId": "GID-84875",
+        "id": 198839,
+        "itemType": 139,
+        "lastActivityDate": "2025-04-08T07:51:45.000+0000",
+        "location": {
+            "globalSortOrder": 24678,
+            "parent": {
+                "item": 198612
+            },
+            "sequence": "2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 38,
+        "modifiedDate": "2025-04-08T07:51:45.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-04-08T07:51:45.000+0000",
+        "documentKey": "HT-AIT-41",
+        "fields": {
+            "documentKey": "HT-AIT-41",
+            "globalId": "GID-84876",
+            "name": " 補助機能"
+        },
+        "globalId": "GID-84876",
+        "id": 198840,
+        "itemType": 139,
+        "lastActivityDate": "2025-04-08T07:51:45.000+0000",
+        "location": {
+            "globalSortOrder": 25751,
+            "parent": {
+                "item": 198612
+            },
+            "sequence": "2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 38,
+        "modifiedDate": "2025-04-08T07:51:45.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-04-09T02:29:41.000+0000",
+        "documentKey": "HT-AIT-62",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>東京</td>\n      <td>2,194 km²</td>\n      <td>13940000</td>\n    </tr>\n    <tr>\n      <td>神奈川</td>\n      <td>2,416 km²</td>\n      <td>9170000</td>\n    </tr>\n    <tr>\n      <td>埼玉</td>\n      <td>3,798 km²</td>\n      <td>7330000</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-62",
+            "globalId": "GID-85041",
+            "name": "関東地方"
+        },
+        "globalId": "GID-85041",
+        "id": 199037,
+        "itemType": 139,
+        "lastActivityDate": "2025-04-09T02:29:41.000+0000",
+        "location": {
+            "globalSortOrder": 26824,
+            "parent": {
+                "item": 198612
+            },
+            "sequence": "2.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 38,
+        "modifiedDate": "2025-04-09T02:29:41.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2025-04-09T08:59:24.000+0000",
+        "documentKey": "HT-SET-3",
+        "fields": {
+            "documentKey": "HT-SET-3",
+            "globalId": "GID-85059",
+            "name": "Lesson3",
+            "setKey": "AIT"
+        },
+        "globalId": "GID-85059",
+        "id": 199061,
+        "itemType": 31,
+        "lastActivityDate": "2025-04-09T08:59:24.000+0000",
+        "location": {
+            "globalSortOrder": 27897,
+            "parent": {
+                "project": 180
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-04-09T08:59:24.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:33:26.000+0000",
+        "documentKey": "HT-AIT-113",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>東京</td>\n      <td>2,194 km²</td>\n      <td>13940000</td>\n    </tr>\n    <tr>\n      <td>神奈川</td>\n      <td>2,416 km²</td>\n      <td>9170000</td>\n    </tr>\n    <tr>\n      <td>埼玉</td>\n      <td>3,798 km²</td>\n      <td>D</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-113",
+            "globalId": "GID-85457",
+            "name": "関東地方"
+        },
+        "globalId": "GID-85457",
+        "id": 199721,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 28970,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:33:28.000+0000",
+        "documentKey": "HT-AIT-114",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>滋賀</td>\n      <td>1,822 km²</td>\n      <td>1413610</td>\n    </tr>\n    <tr>\n      <td>京都</td>\n      <td>4,576 km²</td>\n      <td>2578087</td>\n    </tr>\n    <tr>\n      <td>大阪</td>\n      <td>2,019 km²</td>\n      <td>8837685</td>\n    </tr>\n    <tr>\n      <td>和歌山</td>\n      <td>2,706 km²</td>\n      <td>1086133</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-114",
+            "globalId": "GID-85458",
+            "name": "関西地方"
+        },
+        "globalId": "GID-85458",
+        "id": 199722,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 30043,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:33:29.000+0000",
+        "documentKey": "HT-AIT-115",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>福岡</td>\n      <td>7,968 km²</td>\n      <td>5135214</td>\n    </tr>\n    <tr>\n      <td>佐賀</td>\n      <td>2,387 km²</td>\n      <td>811442</td>\n    </tr>\n    <tr>\n      <td>長崎</td>\n      <td>4,187 km²</td>\n      <td>1312317</td>\n    </tr>\n    <tr>\n      <td>鹿児島</td>\n      <td>9,192 km²</td>\n      <td>1588256</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-115",
+            "globalId": "GID-85459",
+            "name": "九州地方"
+        },
+        "globalId": "GID-85459",
+        "id": 199723,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 31116,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:35:42.000+0000",
+        "documentKey": "HT-AIT-116",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>東京</td>\n      <td>2,194 km²</td>\n      <td>13940000</td>\n    </tr>\n    <tr>\n      <td>神奈川</td>\n      <td>2,416 km²</td>\n      <td>9170000</td>\n    </tr>\n    <tr>\n      <td>埼玉</td>\n      <td>3,798 km²</td>\n      <td>D</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-116",
+            "globalId": "GID-85460",
+            "name": "関東地方"
+        },
+        "globalId": "GID-85460",
+        "id": 199724,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 32189,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:35:44.000+0000",
+        "documentKey": "HT-AIT-117",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>滋賀</td>\n      <td>1,822 km²</td>\n      <td>1413610</td>\n    </tr>\n    <tr>\n      <td>京都</td>\n      <td>4,576 km²</td>\n      <td>2578087</td>\n    </tr>\n    <tr>\n      <td>大阪</td>\n      <td>2,019 km²</td>\n      <td>8837685</td>\n    </tr>\n    <tr>\n      <td>和歌山</td>\n      <td>2,706 km²</td>\n      <td>1086133</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-117",
+            "globalId": "GID-85461",
+            "name": "関西地方"
+        },
+        "globalId": "GID-85461",
+        "id": 199725,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 33262,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:35:46.000+0000",
+        "documentKey": "HT-AIT-118",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>福岡</td>\n      <td>7,968 km²</td>\n      <td>5135214</td>\n    </tr>\n    <tr>\n      <td>佐賀</td>\n      <td>2,387 km²</td>\n      <td>811442</td>\n    </tr>\n    <tr>\n      <td>長崎</td>\n      <td>4,187 km²</td>\n      <td>1312317</td>\n    </tr>\n    <tr>\n      <td>鹿児島</td>\n      <td>9,192 km²</td>\n      <td>1588256</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-118",
+            "globalId": "GID-85462",
+            "name": "九州地方"
+        },
+        "globalId": "GID-85462",
+        "id": 199726,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 34335,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:37:50.000+0000",
+        "documentKey": "HT-AIT-119",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>東京</td>\n      <td>2,194 km²</td>\n      <td>13940000</td>\n    </tr>\n    <tr>\n      <td>神奈川</td>\n      <td>2,416 km²</td>\n      <td>9170000</td>\n    </tr>\n    <tr>\n      <td>埼玉</td>\n      <td>3,798 km²</td>\n      <td>D</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-119",
+            "globalId": "GID-85463",
+            "name": "関東地方"
+        },
+        "globalId": "GID-85463",
+        "id": 199727,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 35408,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:37:51.000+0000",
+        "documentKey": "HT-AIT-120",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>滋賀</td>\n      <td>1,822 km²</td>\n      <td>1413610</td>\n    </tr>\n    <tr>\n      <td>京都</td>\n      <td>4,576 km²</td>\n      <td>2578087</td>\n    </tr>\n    <tr>\n      <td>大阪</td>\n      <td>2,019 km²</td>\n      <td>8837685</td>\n    </tr>\n    <tr>\n      <td>和歌山</td>\n      <td>2,706 km²</td>\n      <td>1086133</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-120",
+            "globalId": "GID-85464",
+            "name": "関西地方"
+        },
+        "globalId": "GID-85464",
+        "id": 199728,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 36481,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:37:51.000+0000",
+        "documentKey": "HT-AIT-121",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>福岡</td>\n      <td>7,968 km²</td>\n      <td>5135214</td>\n    </tr>\n    <tr>\n      <td>佐賀</td>\n      <td>2,387 km²</td>\n      <td>811442</td>\n    </tr>\n    <tr>\n      <td>長崎</td>\n      <td>4,187 km²</td>\n      <td>1312317</td>\n    </tr>\n    <tr>\n      <td>鹿児島</td>\n      <td>9,192 km²</td>\n      <td>1588256</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-121",
+            "globalId": "GID-85465",
+            "name": "九州地方"
+        },
+        "globalId": "GID-85465",
+        "id": 199729,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 37554,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:42:11.000+0000",
+        "documentKey": "HT-AIT-122",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>東京</td>\n      <td>2,194 km²</td>\n      <td>13940000</td>\n    </tr>\n    <tr>\n      <td>神奈川</td>\n      <td>2,416 km²</td>\n      <td>9170000</td>\n    </tr>\n    <tr>\n      <td>埼玉</td>\n      <td>3,798 km²</td>\n      <td>D</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-122",
+            "globalId": "GID-85466",
+            "name": "関東地方"
+        },
+        "globalId": "GID-85466",
+        "id": 199730,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 38627,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.10",
+            "sortOrder": 9
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:42:12.000+0000",
+        "documentKey": "HT-AIT-123",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>滋賀</td>\n      <td>1,822 km²</td>\n      <td>1413610</td>\n    </tr>\n    <tr>\n      <td>京都</td>\n      <td>4,576 km²</td>\n      <td>2578087</td>\n    </tr>\n    <tr>\n      <td>大阪</td>\n      <td>2,019 km²</td>\n      <td>8837685</td>\n    </tr>\n    <tr>\n      <td>和歌山</td>\n      <td>2,706 km²</td>\n      <td>1086133</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-123",
+            "globalId": "GID-85467",
+            "name": "関西地方"
+        },
+        "globalId": "GID-85467",
+        "id": 199731,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 39700,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.11",
+            "sortOrder": 10
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:42:13.000+0000",
+        "documentKey": "HT-AIT-124",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>福岡</td>\n      <td>7,968 km²</td>\n      <td>5135214</td>\n    </tr>\n    <tr>\n      <td>佐賀</td>\n      <td>2,387 km²</td>\n      <td>811442</td>\n    </tr>\n    <tr>\n      <td>長崎</td>\n      <td>4,187 km²</td>\n      <td>1312317</td>\n    </tr>\n    <tr>\n      <td>鹿児島</td>\n      <td>9,192 km²</td>\n      <td>1588256</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-124",
+            "globalId": "GID-85468",
+            "name": "九州地方"
+        },
+        "globalId": "GID-85468",
+        "id": 199732,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 40773,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.12",
+            "sortOrder": 11
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:43:32.000+0000",
+        "documentKey": "HT-AIT-125",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>東京</td>\n      <td>2,194 km²</td>\n      <td>13940000</td>\n    </tr>\n    <tr>\n      <td>神奈川</td>\n      <td>2,416 km²</td>\n      <td>9170000</td>\n    </tr>\n    <tr>\n      <td>埼玉</td>\n      <td>3,798 km²</td>\n      <td>D</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-125",
+            "globalId": "GID-85469",
+            "name": "関東地方"
+        },
+        "globalId": "GID-85469",
+        "id": 199733,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 41846,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.13",
+            "sortOrder": 12
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:43:33.000+0000",
+        "documentKey": "HT-AIT-126",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>滋賀</td>\n      <td>1,822 km²</td>\n      <td>1413610</td>\n    </tr>\n    <tr>\n      <td>京都</td>\n      <td>4,576 km²</td>\n      <td>2578087</td>\n    </tr>\n    <tr>\n      <td>大阪</td>\n      <td>2,019 km²</td>\n      <td>8837685</td>\n    </tr>\n    <tr>\n      <td>和歌山</td>\n      <td>2,706 km²</td>\n      <td>1086133</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-126",
+            "globalId": "GID-85470",
+            "name": "関西地方"
+        },
+        "globalId": "GID-85470",
+        "id": 199734,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 42919,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.14",
+            "sortOrder": 13
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 38,
+        "createdDate": "2025-05-12T10:43:34.000+0000",
+        "documentKey": "HT-AIT-127",
+        "fields": {
+            "description": "<table border=\"1\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>面積</th>\n      <th>人口</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>福岡</td>\n      <td>7,968 km²</td>\n      <td>5135214</td>\n    </tr>\n    <tr>\n      <td>佐賀</td>\n      <td>2,387 km²</td>\n      <td>811442</td>\n    </tr>\n    <tr>\n      <td>長崎</td>\n      <td>4,187 km²</td>\n      <td>1312317</td>\n    </tr>\n    <tr>\n      <td>鹿児島</td>\n      <td>9,192 km²</td>\n      <td>1588256</td>\n    </tr>\n  </tbody>\n</table>",
+            "documentKey": "HT-AIT-127",
+            "globalId": "GID-85471",
+            "name": "九州地方"
+        },
+        "globalId": "GID-85471",
+        "id": 199735,
+        "itemType": 139,
+        "lastActivityDate": "2025-05-12T15:12:30.000+0000",
+        "location": {
+            "globalSortOrder": 43992,
+            "parent": {
+                "item": 199061
+            },
+            "sequence": "3.15",
+            "sortOrder": 14
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-05-12T15:12:30.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-14T14:10:52.000+0000",
+        "documentKey": "HT-CMP-1",
+        "fields": {
+            "documentKey": "HT-CMP-1",
+            "globalId": "GID-86427",
+            "name": "BLCPYTST"
+        },
+        "globalId": "GID-86427",
+        "id": 202043,
+        "itemType": 30,
+        "lastActivityDate": "2025-08-14T14:10:52.000+0000",
+        "location": {
+            "globalSortOrder": 45065,
+            "parent": {
+                "project": 180
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-14T14:10:52.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2025-08-14T14:11:06.000+0000",
+        "documentKey": "HT-SET-4",
+        "fields": {
+            "documentKey": "HT-SET-4",
+            "globalId": "GID-86428",
+            "name": "ATest",
+            "setKey": "AIT"
+        },
+        "globalId": "GID-86428",
+        "id": 202044,
+        "itemType": 31,
+        "lastActivityDate": "2025-08-14T14:11:06.000+0000",
+        "location": {
+            "globalSortOrder": 46138,
+            "parent": {
+                "item": 202043
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-24T13:40:11.000+0000",
+            "locked": true,
+            "lockedBy": 38
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-14T14:11:06.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-14T14:11:48.000+0000",
+        "documentKey": "HT-AIT-128",
+        "fields": {
+            "description": "<p>This is Item A ver 3</p>\n",
+            "description2$139": "<table align=\"\" bgcolor=\"#ffffcc\" border=\"1\" cellpadding=\"10\" cellspacing=\"1\" style=\"border-width:1px; font-size:13px; width:544px\" summary=\"\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">As a</span></td>\n\t\t\t<td style=\"padding:10px\">(user role)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">I can</span></td>\n\t\t\t<td style=\"padding:10px\">(activity)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">So that</span></td>\n\t\t\t<td style=\"padding:10px\">(business value)</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+            "documentKey": "HT-AIT-128",
+            "globalId": "GID-86431",
+            "name": "Item A"
+        },
+        "globalId": "GID-86431",
+        "id": 202047,
+        "itemType": 139,
+        "lastActivityDate": "2025-08-14T14:40:41.000+0000",
+        "location": {
+            "globalSortOrder": 46674,
+            "parent": {
+                "item": 202044
+            },
+            "sequence": "4.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-14T14:40:42.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-14T14:40:41.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2025-08-14T14:11:17.000+0000",
+        "documentKey": "HT-SET-5",
+        "fields": {
+            "documentKey": "HT-SET-5",
+            "globalId": "GID-86429",
+            "name": "ATest2",
+            "setKey": "AIT"
+        },
+        "globalId": "GID-86429",
+        "id": 202045,
+        "itemType": 31,
+        "lastActivityDate": "2025-08-14T14:11:17.000+0000",
+        "location": {
+            "globalSortOrder": 47211,
+            "parent": {
+                "item": 202043
+            },
+            "sequence": "4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-14T14:11:17.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2025-08-14T14:11:29.000+0000",
+        "documentKey": "HT-FLD-1",
+        "fields": {
+            "documentKey": "HT-FLD-1",
+            "globalId": "GID-86430",
+            "name": "FLD1"
+        },
+        "globalId": "GID-86430",
+        "id": 202046,
+        "itemType": 32,
+        "lastActivityDate": "2025-08-14T14:11:29.000+0000",
+        "location": {
+            "globalSortOrder": 48284,
+            "parent": {
+                "item": 202045
+            },
+            "sequence": "4.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-14T14:11:29.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-14T14:12:07.000+0000",
+        "documentKey": "HT-AIT-129",
+        "fields": {
+            "description": "<p>This is item B ver 3</p>\n",
+            "description2$139": "<table align=\"\" bgcolor=\"#ffffcc\" border=\"1\" cellpadding=\"10\" cellspacing=\"1\" style=\"border-width:1px; font-size:13px; width:544px\" summary=\"\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">As a</span></td>\n\t\t\t<td style=\"padding:10px\">(user role)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">I can</span></td>\n\t\t\t<td style=\"padding:10px\">(activity)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"padding:10px\"><span style=\"font-style:inherit; font-weight:700 !important\">So that</span></td>\n\t\t\t<td style=\"padding:10px\">(business value)</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+            "documentKey": "HT-AIT-129",
+            "globalId": "GID-86432",
+            "name": "Item B"
+        },
+        "globalId": "GID-86432",
+        "id": 202048,
+        "itemType": 139,
+        "lastActivityDate": "2025-08-14T14:40:48.000+0000",
+        "location": {
+            "globalSortOrder": 1073765965,
+            "parent": {
+                "item": 202046
+            },
+            "sequence": "4.2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-14T14:40:49.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-14T14:40:48.000+0000",
+        "project": 180,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    }
+]

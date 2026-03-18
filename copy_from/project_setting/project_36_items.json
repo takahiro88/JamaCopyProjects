@@ -1,0 +1,1788 @@
+[
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-4",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-4",
+            "globalId": "GID-38614",
+            "name": "Requirements Management"
+        },
+        "globalId": "GID-38614",
+        "id": 6124,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 2001,
+            "parent": {
+                "project": 36
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-2",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-2",
+            "globalId": "GID-38617",
+            "name": "Requirements"
+        },
+        "globalId": "GID-38617",
+        "id": 6127,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 3002,
+            "parent": {
+                "item": 6124
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-TXT-8",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-TXT-8",
+            "globalId": "GID-38628",
+            "name": "Requirements Classification"
+        },
+        "globalId": "GID-38628",
+        "id": 6138,
+        "itemType": 33,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 3003,
+            "parent": {
+                "item": 6127
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 65,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-1",
+        "fields": {
+            "description": "<p><span style=\"color:#0000FF\"><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\"><span style=\"font-style:inherit; font-weight:700 !important\">Business requirements</span>: statements of goals, objectives, and outcomes that describe why a change has been initiated. They can apply to the whole of an enterprise, a business area, or a specific initiative.</span></span></p>\n\n<p><span style=\"color:#0000FF\"><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\">(</span><span style=\"font-family:helvetica; font-size:12px\">IIBA&nbsp;</span><span style=\"font-family:helvetica; font-size:12px\">BABOK&reg; Guide</span><span style=\"font-family:helvetica; font-size:12px\">&nbsp;v3</span><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\">, section 2.3)</span></span></p>\n",
+            "documentKey": "BABK2-SET-1",
+            "globalId": "GID-38629",
+            "name": "Business Requirements",
+            "setKey": "BR"
+        },
+        "globalId": "GID-38629",
+        "id": 6139,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 4004,
+            "parent": {
+                "item": 6127
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 45,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-39",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-39",
+            "globalId": "GID-38630",
+            "name": "Stakeholder Requirements",
+            "setKey": "SREQ"
+        },
+        "globalId": "GID-38630",
+        "id": 6140,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 5005,
+            "parent": {
+                "item": 6127
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-3",
+        "fields": {
+            "description": "<p><span style=\"color:rgb(0, 0, 255)\"><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\"><span style=\"font-style:inherit; font-weight:700 !important\">Solution requirements:</span>&nbsp;describe the capabilities and qualities of a solution that meets the stakeholder requirements. They provide the appropriate level of detail to allow for the development and implementation of the solution. Solution requirements can be divided into two sub-categories: Functional and Non-Functional (or Quality of Service requirements).</span></span></p>\n\n<p><span style=\"color:rgb(0, 0, 255)\">(</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">IIBA&nbsp;</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">BABOK&reg; Guide</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">&nbsp;v3</span><span style=\"color:rgb(0, 0, 255)\">, section 2.3)</span></p>\n",
+            "documentKey": "BABK2-CMP-3",
+            "globalId": "GID-38631",
+            "name": "Solution Requirements"
+        },
+        "globalId": "GID-38631",
+        "id": 6141,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 6006,
+            "parent": {
+                "item": 6127
+            },
+            "sequence": "1.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-3",
+        "fields": {
+            "description": "<p><span style=\"color:rgb(0, 0, 255)\"><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\"><span style=\"font-style:inherit; font-weight:700 !important\">Functional requirements:</span>&nbsp;describe the capabilities that a solution must have in terms of the behavior and information that the solution will manage.</span></span></p>\n\n<p><span style=\"color:rgb(0, 0, 255)\">(</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">IIBA&nbsp;</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">BABOK&reg; Guide</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">&nbsp;v3</span><span style=\"color:rgb(0, 0, 255)\">, section 2.3)</span></p>\n",
+            "documentKey": "BABK2-SET-3",
+            "globalId": "GID-38654",
+            "name": "Functional Requirements",
+            "setKey": "FR"
+        },
+        "globalId": "GID-38654",
+        "id": 6164,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 7007,
+            "parent": {
+                "item": 6141
+            },
+            "sequence": "1.1.4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 68,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-4",
+        "fields": {
+            "description": "<p><span style=\"color:rgb(0, 0, 255)\"><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\"><span style=\"font-style:inherit; font-weight:700 !important\">Non-Functional requirements or Quality of Service requirements:</span>&nbsp;do not relate directly to the behavior of functionality of the solution, but rather describe conditions under which a solution must remain effective or qualities that a solution must have.</span></span></p>\n\n<p><span style=\"color:rgb(0, 0, 255)\">(</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">IIBA&nbsp;</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">BABOK&reg; Guide</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">&nbsp;v3</span><span style=\"color:rgb(0, 0, 255)\">, section 2.3)</span></p>\n",
+            "documentKey": "BABK2-SET-4",
+            "globalId": "GID-38655",
+            "name": "Non-Functional Requirements",
+            "setKey": "NFR"
+        },
+        "globalId": "GID-38655",
+        "id": 6165,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 8008,
+            "parent": {
+                "item": 6141
+            },
+            "sequence": "1.1.4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 69,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-5",
+        "fields": {
+            "description": "<p><span style=\"color:rgb(0, 0, 255)\"><span style=\"font-family:helvetica; font-size:12px; font-stretch:normal\"><span style=\"font-style:inherit; font-weight:700 !important\">Transition requirements:</span>&nbsp;describe the capabilities that the solution must have and the conditions the solution must meet to facilitate transition from the current state to the future state, but which are not needed once the change is complete. They are differentiated from other requirements types because they are of a temporary nature. Transition requirements address topics such as data conversion, training, and business continuity.</span></span></p>\n\n<p><span style=\"color:rgb(0, 0, 255)\">(</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">IIBA&nbsp;</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">BABOK&reg; Guide</span><span style=\"color:rgb(0, 0, 255); font-family:helvetica; font-size:12px\">&nbsp;v3</span><span style=\"color:rgb(0, 0, 255)\">, section 2.3)</span></p>\n",
+            "documentKey": "BABK2-SET-5",
+            "globalId": "GID-38632",
+            "name": "Transition Requirements",
+            "setKey": "TR"
+        },
+        "globalId": "GID-38632",
+        "id": 6142,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 9009,
+            "parent": {
+                "item": 6127
+            },
+            "sequence": "1.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 28,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-6",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-6",
+            "globalId": "GID-38618",
+            "name": "Change Requests",
+            "setKey": "CR"
+        },
+        "globalId": "GID-38618",
+        "id": 6128,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 10010,
+            "parent": {
+                "item": 6124
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-5",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-5",
+            "globalId": "GID-38615",
+            "name": "Test Management"
+        },
+        "globalId": "GID-38615",
+        "id": 6125,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 11011,
+            "parent": {
+                "project": 36
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-8",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-8",
+            "globalId": "GID-38619",
+            "name": "Test Cases",
+            "setKey": "TC"
+        },
+        "globalId": "GID-38619",
+        "id": 6129,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 12012,
+            "parent": {
+                "item": 6125
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 27,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-9",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-9",
+            "globalId": "GID-38620",
+            "name": "Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-38620",
+        "id": 6130,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 13013,
+            "parent": {
+                "item": 6125
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-1",
+            "globalId": "GID-38616",
+            "name": "BABOK Analysis Techniques Library"
+        },
+        "globalId": "GID-38616",
+        "id": 6126,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 14014,
+            "parent": {
+                "project": 36
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-6",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-6",
+            "globalId": "GID-38621",
+            "name": "Item Tracking"
+        },
+        "globalId": "GID-38621",
+        "id": 6131,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 15015,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 70,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-14",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-14",
+            "globalId": "GID-38633",
+            "name": "Actions",
+            "setKey": "ACT"
+        },
+        "globalId": "GID-38633",
+        "id": 6143,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 16016,
+            "parent": {
+                "item": 6131
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 70,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-15",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-15",
+            "globalId": "GID-38634",
+            "name": "Assumptions",
+            "setKey": "ASMPT"
+        },
+        "globalId": "GID-38634",
+        "id": 6144,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 17017,
+            "parent": {
+                "item": 6131
+            },
+            "sequence": "3.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 70,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-16",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-16",
+            "globalId": "GID-38635",
+            "name": "Constraints",
+            "setKey": "CSTR"
+        },
+        "globalId": "GID-38635",
+        "id": 6145,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 18018,
+            "parent": {
+                "item": 6131
+            },
+            "sequence": "3.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 70,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-17",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-17",
+            "globalId": "GID-38636",
+            "name": "Dependencies",
+            "setKey": "DPND"
+        },
+        "globalId": "GID-38636",
+        "id": 6146,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 19019,
+            "parent": {
+                "item": 6131
+            },
+            "sequence": "3.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 70,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-18",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-18",
+            "globalId": "GID-38637",
+            "name": "Enhancements",
+            "setKey": "ENH"
+        },
+        "globalId": "GID-38637",
+        "id": 6147,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 20020,
+            "parent": {
+                "item": 6131
+            },
+            "sequence": "3.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 70,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-19",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-19",
+            "globalId": "GID-38638",
+            "name": "Issues",
+            "setKey": "ISS"
+        },
+        "globalId": "GID-38638",
+        "id": 6148,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 21021,
+            "parent": {
+                "item": 6131
+            },
+            "sequence": "3.1.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-9",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-9",
+            "globalId": "GID-38622",
+            "name": "Analysis"
+        },
+        "globalId": "GID-38622",
+        "id": 6132,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 22022,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 71,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-10",
+        "fields": {
+            "description": "<p><span style=\"color:#0000FF\">A group or individual with a relationship to the change, the need, or the solution.</span></p>\n\n<p><span style=\"color:#0000FF\">Stakeholders are often defined in terms of interest in, impact on, and influence over the change. Stakeholders are grouped based on their relationship to the needs, changes, and solutions.&nbsp;</span></p>\n\n<p><span style=\"color:#0000FF\">(IIBA BABOK v3, table 2.1.1)</span></p>\n",
+            "documentKey": "BABK2-SET-10",
+            "globalId": "GID-38639",
+            "name": "Stakeholders",
+            "setKey": "SH"
+        },
+        "globalId": "GID-38639",
+        "id": 6149,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 23023,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 84,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-38",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-38",
+            "globalId": "GID-38640",
+            "name": "Business Rules",
+            "setKey": "BRULE"
+        },
+        "globalId": "GID-38640",
+        "id": 6150,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 24024,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 74,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-22",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-22",
+            "globalId": "GID-38641",
+            "name": "Document Analysis",
+            "setKey": "DOCS"
+        },
+        "globalId": "GID-38641",
+        "id": 6151,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 25025,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 76,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-25",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-25",
+            "globalId": "GID-38642",
+            "name": "Data Dictionary",
+            "setKey": "DDICT"
+        },
+        "globalId": "GID-38642",
+        "id": 6152,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 26026,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 79,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-30",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-30",
+            "globalId": "GID-38643",
+            "name": "Key Performance Indicators (KPIs - Metrics)",
+            "setKey": "KPI"
+        },
+        "globalId": "GID-38643",
+        "id": 6153,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 27027,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 80,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-34",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-34",
+            "globalId": "GID-38644",
+            "name": "Root Cause Analysis",
+            "setKey": "ROOT"
+        },
+        "globalId": "GID-38644",
+        "id": 6154,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 28028,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 80,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-35",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-35",
+            "globalId": "GID-38645",
+            "name": "SWOT Analysis",
+            "setKey": "SWOT"
+        },
+        "globalId": "GID-38645",
+        "id": 6155,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 29029,
+            "parent": {
+                "item": 6132
+            },
+            "sequence": "3.2.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-7",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-7",
+            "globalId": "GID-38623",
+            "name": "Risk Analysis and Management"
+        },
+        "globalId": "GID-38623",
+        "id": 6133,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 30030,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 72,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-20",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-20",
+            "globalId": "GID-38646",
+            "name": "Risks",
+            "setKey": "RSK"
+        },
+        "globalId": "GID-38646",
+        "id": 6156,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 31031,
+            "parent": {
+                "item": 6133
+            },
+            "sequence": "3.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-CMP-8",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-CMP-8",
+            "globalId": "GID-38624",
+            "name": "Models"
+        },
+        "globalId": "GID-38624",
+        "id": 6134,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 32032,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-23",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-23",
+            "globalId": "GID-38647",
+            "name": "Business Model Canvas",
+            "setKey": "MDL_BMC"
+        },
+        "globalId": "GID-38647",
+        "id": 6157,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 33033,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-24",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-24",
+            "globalId": "GID-38648",
+            "name": "Data Models",
+            "setKey": "MDL_DT"
+        },
+        "globalId": "GID-38648",
+        "id": 6158,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 34034,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-26",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-26",
+            "globalId": "GID-38649",
+            "name": "Data Flow Diagrams",
+            "setKey": "MDL_DFLW"
+        },
+        "globalId": "GID-38649",
+        "id": 6159,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 35035,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-27",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-27",
+            "globalId": "GID-38650",
+            "name": "Decision Models",
+            "setKey": "MDL_DEC"
+        },
+        "globalId": "GID-38650",
+        "id": 6160,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 36036,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-31",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-31",
+            "globalId": "GID-38651",
+            "name": "Mind Maps",
+            "setKey": "MDL_MMAP"
+        },
+        "globalId": "GID-38651",
+        "id": 6161,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 37037,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-32",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-32",
+            "globalId": "GID-38652",
+            "name": "Organization Models",
+            "setKey": "MDL_ORG"
+        },
+        "globalId": "GID-38652",
+        "id": 6162,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 38038,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 75,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:01.000+0000",
+        "documentKey": "BABK2-SET-33",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-33",
+            "globalId": "GID-38653",
+            "name": "Process Models",
+            "setKey": "MDL_PRC"
+        },
+        "globalId": "GID-38653",
+        "id": 6163,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:01.000+0000",
+        "location": {
+            "globalSortOrder": 39039,
+            "parent": {
+                "item": 6134
+            },
+            "sequence": "3.4.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:01.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 73,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-21",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-21",
+            "globalId": "GID-38625",
+            "name": "Glossary",
+            "setKey": "GTRM"
+        },
+        "globalId": "GID-38625",
+        "id": 6135,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 40040,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 77,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-28",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-28",
+            "globalId": "GID-38626",
+            "name": "Interviews Notes",
+            "setKey": "INTVW"
+        },
+        "globalId": "GID-38626",
+        "id": 6136,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 41041,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 78,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:00.000+0000",
+        "documentKey": "BABK2-SET-29",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK2-SET-29",
+            "globalId": "GID-38627",
+            "name": "Lessons Learned",
+            "setKey": "LLRN"
+        },
+        "globalId": "GID-38627",
+        "id": 6137,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:00.000+0000",
+        "location": {
+            "globalSortOrder": 42042,
+            "parent": {
+                "item": 6126
+            },
+            "sequence": "3.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:00.000+0000",
+        "project": 36,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

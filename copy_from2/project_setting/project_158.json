@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2024-05-24T04:23:58.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Automotive Integrated System ",
+        "projectGroup": 296,
+        "projectKey": "AID",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 158,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2024-05-24T04:23:58.000+0000",
+    "parent": 110,
+    "projectKey": "AID",
+    "type": "projects"
+}

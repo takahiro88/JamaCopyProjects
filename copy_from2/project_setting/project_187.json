@@ -1,0 +1,19 @@
+{
+    "createdBy": 26,
+    "createdDate": "2025-05-27T05:42:30.000+0000",
+    "fields": {
+        "description": "",
+        "name": "MS4",
+        "projectGroup": 296,
+        "projectKey": "MS4",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 187,
+    "isFolder": false,
+    "modifiedBy": 26,
+    "modifiedDate": "2025-05-27T05:42:30.000+0000",
+    "parent": 127,
+    "projectKey": "MS4",
+    "type": "projects"
+}

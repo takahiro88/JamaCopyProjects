@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2024-10-08T02:00:20.000+0000",
+    "fields": {
+        "description": "",
+        "name": "機種B",
+        "projectGroup": 296,
+        "projectKey": "TYPB",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 172,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2024-10-08T02:00:20.000+0000",
+    "parent": 170,
+    "projectKey": "TYPB",
+    "type": "projects"
+}

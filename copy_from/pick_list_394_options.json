@@ -1,0 +1,58 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "00CC66",
+        "default": false,
+        "description": "",
+        "id": 683,
+        "infotip": "",
+        "name": "Acceptable",
+        "pickList": 394,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFF66",
+        "default": false,
+        "description": "",
+        "id": 684,
+        "infotip": "",
+        "name": "Acceptable",
+        "pickList": 394,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCC66",
+        "default": false,
+        "description": "",
+        "id": 685,
+        "infotip": "",
+        "name": "Unacceptable",
+        "pickList": 394,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF0000",
+        "default": false,
+        "description": "",
+        "id": 686,
+        "infotip": "",
+        "name": "Unacceptable",
+        "pickList": 394,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

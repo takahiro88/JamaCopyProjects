@@ -1,0 +1,18 @@
+{
+    "createdBy": 25,
+    "createdDate": "2023-07-07T10:59:10.000+0000",
+    "fields": {
+        "description": "",
+        "name": "DataExchangeTest",
+        "projectGroup": 296,
+        "projectKey": "DXT",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 146,
+    "isFolder": false,
+    "modifiedBy": 25,
+    "modifiedDate": "2023-07-07T10:59:10.000+0000",
+    "projectKey": "DXT",
+    "type": "projects"
+}

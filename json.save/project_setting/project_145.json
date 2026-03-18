@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2023-04-18T15:41:56.000+0000",
+    "fields": {
+        "description": "",
+        "name": "ASE_TEST_2",
+        "projectGroup": 296,
+        "projectKey": "AT122",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 145,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2023-04-18T15:42:45.000+0000",
+    "parent": 125,
+    "projectKey": "AT122",
+    "type": "projects"
+}

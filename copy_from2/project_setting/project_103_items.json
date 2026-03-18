@@ -1,0 +1,475 @@
+[
+    {
+        "childItemType": 27,
+        "createdBy": 22,
+        "createdDate": "2021-11-09T09:25:30.000+0000",
+        "documentKey": "KS1-SET-80",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-SET-80",
+            "globalId": "GID-60934",
+            "name": "Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-60934",
+        "id": 17967,
+        "itemType": 31,
+        "lastActivityDate": "2021-11-09T09:25:30.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 103
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-09T09:25:30.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-11-09T09:26:01.000+0000",
+        "documentKey": "KS1-BUG-18",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-BUG-18",
+            "globalId": "GID-60935",
+            "name": "test1",
+            "priority": 302
+        },
+        "globalId": "GID-60935",
+        "id": 17972,
+        "itemType": 27,
+        "lastActivityDate": "2021-11-09T10:05:46.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 17967
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2021-11-09T09:54:24.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-09T09:54:21.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-11-09T09:26:18.000+0000",
+        "documentKey": "KS1-BUG-19",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-BUG-19",
+            "globalId": "GID-60936",
+            "name": "test1-1",
+            "priority": 301
+        },
+        "globalId": "GID-60936",
+        "id": 17973,
+        "itemType": 27,
+        "lastActivityDate": "2021-11-09T10:05:46.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 17972
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2021-11-09T09:54:09.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-09T09:54:05.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 127,
+        "createdBy": 22,
+        "createdDate": "2021-11-10T02:08:41.000+0000",
+        "documentKey": "KS1-SET-81",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-SET-81",
+            "globalId": "GID-60937",
+            "name": "Functions",
+            "setKey": "FN"
+        },
+        "globalId": "GID-60937",
+        "id": 17976,
+        "itemType": 31,
+        "lastActivityDate": "2021-11-10T02:08:41.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "project": 103
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-10T02:08:41.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-11-10T02:11:04.000+0000",
+        "documentKey": "KS1-FN-3",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-FN-3",
+            "globalId": "GID-60940",
+            "name": "State Machine "
+        },
+        "globalId": "GID-60940",
+        "id": 17979,
+        "itemType": 127,
+        "lastActivityDate": "2021-11-10T02:11:04.000+0000",
+        "location": {
+            "globalSortOrder": 6973,
+            "parent": {
+                "item": 17976
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-10T02:11:04.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-11-10T02:11:48.000+0000",
+        "documentKey": "KS1-FN-4",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-FN-4",
+            "globalId": "GID-60941",
+            "name": "State A"
+        },
+        "globalId": "GID-60941",
+        "id": 17982,
+        "itemType": 127,
+        "lastActivityDate": "2021-11-10T02:11:48.000+0000",
+        "location": {
+            "globalSortOrder": 8046,
+            "parent": {
+                "item": 17979
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-10T02:11:48.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-11-10T02:12:06.000+0000",
+        "documentKey": "KS1-FN-5",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-FN-5",
+            "globalId": "GID-60942",
+            "name": "State B"
+        },
+        "globalId": "GID-60942",
+        "id": 17983,
+        "itemType": 127,
+        "lastActivityDate": "2021-11-10T02:12:06.000+0000",
+        "location": {
+            "globalSortOrder": 9119,
+            "parent": {
+                "item": 17979
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-11-10T02:12:06.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 22,
+        "createdDate": "2021-12-01T06:37:28.000+0000",
+        "documentKey": "KS1-SET-92",
+        "fields": {
+            "description": "",
+            "documentKey": "KS1-SET-92",
+            "globalId": "GID-61231",
+            "name": "Requirements",
+            "setKey": "REQ"
+        },
+        "globalId": "GID-61231",
+        "id": 18452,
+        "itemType": 31,
+        "lastActivityDate": "2021-12-01T06:37:29.000+0000",
+        "location": {
+            "globalSortOrder": 10192,
+            "parent": {
+                "project": 103
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2021-12-01T06:37:28.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-12-01T06:41:34.000+0000",
+        "documentKey": "KS1-REQ-21",
+        "fields": {
+            "createdBy": 22,
+            "description": "",
+            "documentKey": "KS1-REQ-21",
+            "globalId": "GID-61232",
+            "name": "test1",
+            "priority": 302,
+            "status": 292
+        },
+        "globalId": "GID-61232",
+        "id": 18453,
+        "itemType": 24,
+        "lastActivityDate": "2022-07-15T09:56:15.000+0000",
+        "location": {
+            "globalSortOrder": 11265,
+            "parent": {
+                "item": 18452
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2022-06-08T05:09:36.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2022-06-08T05:09:35.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2021-12-01T06:52:16.000+0000",
+        "documentKey": "KS1-REQ-22",
+        "fields": {
+            "createdBy": 22,
+            "description": "",
+            "documentKey": "KS1-REQ-22",
+            "globalId": "GID-61233",
+            "name": "test2",
+            "priority": 301,
+            "status": 292
+        },
+        "globalId": "GID-61233",
+        "id": 18454,
+        "itemType": 24,
+        "lastActivityDate": "2022-06-08T05:09:11.000+0000",
+        "location": {
+            "globalSortOrder": 12338,
+            "parent": {
+                "item": 18452
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2022-06-08T05:09:12.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2022-06-08T05:09:11.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 22,
+        "createdDate": "2022-06-07T11:01:34.000+0000",
+        "documentKey": "KS1-REQ-23",
+        "fields": {
+            "createdBy": 22,
+            "description": "",
+            "documentKey": "KS1-REQ-23",
+            "globalId": "GID-62913",
+            "name": "test3",
+            "priority": 301,
+            "status": 292
+        },
+        "globalId": "GID-62913",
+        "id": 20669,
+        "itemType": 24,
+        "lastActivityDate": "2022-06-07T11:01:41.000+0000",
+        "location": {
+            "globalSortOrder": 12874,
+            "parent": {
+                "item": 18452
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2022-06-07T11:01:41.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 22,
+        "modifiedDate": "2022-06-07T11:01:41.000+0000",
+        "project": 103,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 450,
+        "name": "S0 No Injuries",
+        "pickList": 174,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 464,
+        "name": "S1 Light to moderate injuries",
+        "pickList": 174,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 465,
+        "name": "S2 Severe to life-threatening (survival probable) injuries",
+        "pickList": 174,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 466,
+        "name": "S3 Life-threatening (survival uncertain) to fatal injuries",
+        "pickList": 174,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 687,
+        "name": "Unassigned",
+        "pickList": 395,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 688,
+        "infotip": "",
+        "name": "Customer A",
+        "pickList": 395,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFF800",
+        "default": false,
+        "description": "",
+        "id": 689,
+        "infotip": "",
+        "name": "Customer B ",
+        "pickList": 395,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "32ABD6",
+        "default": false,
+        "description": "",
+        "id": 690,
+        "infotip": "",
+        "name": "Customer C",
+        "pickList": 395,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

@@ -1,0 +1,661 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:47:39.000+0000",
+        "documentKey": "SPRJ1-CMP-1",
+        "fields": {
+            "documentKey": "SPRJ1-CMP-1",
+            "globalId": "GID-86632",
+            "name": "User Requirements"
+        },
+        "globalId": "GID-86632",
+        "id": 202513,
+        "itemType": 30,
+        "lastActivityDate": "2025-08-27T16:47:39.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 195
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:47:39.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 173,
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:49:07.000+0000",
+        "documentKey": "SPRJ1-SET-1",
+        "fields": {
+            "documentKey": "SPRJ1-SET-1",
+            "globalId": "GID-86635",
+            "name": "User Requirement",
+            "setKey": "S_UR"
+        },
+        "globalId": "GID-86635",
+        "id": 202516,
+        "itemType": 31,
+        "lastActivityDate": "2025-08-27T16:49:07.000+0000",
+        "location": {
+            "globalSortOrder": 2681,
+            "parent": {
+                "item": 202513
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:49:07.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:50:15.000+0000",
+        "documentKey": "SPRJ1-S_UR-1",
+        "fields": {
+            "description": "<p>車線逸脱防止システムに必要な車線を、昼夜・雨天でも正しく認識できること。</p>\n",
+            "documentKey": "SPRJ1-S_UR-1",
+            "globalId": "GID-86638",
+            "name": "車線認識"
+        },
+        "globalId": "GID-86638",
+        "id": 202519,
+        "itemType": 173,
+        "lastActivityDate": "2025-08-27T17:13:31.000+0000",
+        "location": {
+            "globalSortOrder": 2949,
+            "parent": {
+                "item": 202516
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:50:15.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:50:44.000+0000",
+        "documentKey": "SPRJ1-S_UR-2",
+        "fields": {
+            "description": "<p>走行中に歩行者や自転車を確実に検出し、警告や自動ブレーキにつなげられること。</p>\n",
+            "documentKey": "SPRJ1-S_UR-2",
+            "globalId": "GID-86639",
+            "name": "走行安全機能"
+        },
+        "globalId": "GID-86639",
+        "id": 202520,
+        "itemType": 173,
+        "lastActivityDate": "2025-08-27T17:13:57.000+0000",
+        "location": {
+            "globalSortOrder": 3083,
+            "parent": {
+                "item": 202516
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:50:44.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:51:13.000+0000",
+        "documentKey": "SPRJ1-S_UR-3",
+        "fields": {
+            "description": "<p>半導体の消費電力が低く、車載ECUの熱設計に負担をかけないこと。</p>\n",
+            "documentKey": "SPRJ1-S_UR-3",
+            "globalId": "GID-86640",
+            "name": "発熱量"
+        },
+        "globalId": "GID-86640",
+        "id": 202521,
+        "itemType": 173,
+        "lastActivityDate": "2025-08-27T17:14:22.000+0000",
+        "location": {
+            "globalSortOrder": 3150,
+            "parent": {
+                "item": 202516
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:51:13.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 173,
+        "createdBy": 14,
+        "createdDate": "2025-08-27T17:23:58.000+0000",
+        "documentKey": "SPRJ1-SET-4",
+        "fields": {
+            "documentKey": "SPRJ1-SET-4",
+            "globalId": "GID-86649",
+            "name": "非公開User Requirement",
+            "setKey": "S_UR"
+        },
+        "globalId": "GID-86649",
+        "id": 202532,
+        "itemType": 31,
+        "lastActivityDate": "2025-08-27T17:23:58.000+0000",
+        "location": {
+            "globalSortOrder": 3184,
+            "parent": {
+                "item": 202513
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T17:23:58.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:47:58.000+0000",
+        "documentKey": "SPRJ1-CMP-2",
+        "fields": {
+            "documentKey": "SPRJ1-CMP-2",
+            "globalId": "GID-86633",
+            "name": "System Specifications"
+        },
+        "globalId": "GID-86633",
+        "id": 202514,
+        "itemType": 30,
+        "lastActivityDate": "2025-08-27T16:47:58.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "project": 195
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:47:58.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 174,
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:49:21.000+0000",
+        "documentKey": "SPRJ1-SET-2",
+        "fields": {
+            "documentKey": "SPRJ1-SET-2",
+            "globalId": "GID-86636",
+            "name": "System Specification",
+            "setKey": "SSS"
+        },
+        "globalId": "GID-86636",
+        "id": 202517,
+        "itemType": 31,
+        "lastActivityDate": "2025-08-27T16:49:21.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 202514
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:49:21.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:54:24.000+0000",
+        "documentKey": "SPRJ1-SSS-1",
+        "fields": {
+            "description": "<p>カメラ入力は 1920×1080 @ 60fps に対応し、遅延は 50ms 以下で画像処理を完了すること。</p>\n",
+            "documentKey": "SPRJ1-SSS-1",
+            "globalId": "GID-86641",
+            "name": "画像処理速度"
+        },
+        "globalId": "GID-86641",
+        "id": 202522,
+        "itemType": 174,
+        "lastActivityDate": "2025-08-27T17:15:00.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 202517
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:54:24.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:54:41.000+0000",
+        "documentKey": "SPRJ1-SSS-2",
+        "fields": {
+            "description": "<p>動作温度範囲は -40℃ ～ +125℃ を保証し、AEC-Q100 Grade 1 に適合すること。</p>\n",
+            "documentKey": "SPRJ1-SSS-2",
+            "globalId": "GID-86642",
+            "name": "動作温度範囲"
+        },
+        "globalId": "GID-86642",
+        "id": 202523,
+        "itemType": 174,
+        "lastActivityDate": "2025-08-27T17:13:57.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 202517
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:54:41.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:55:03.000+0000",
+        "documentKey": "SPRJ1-SSS-3",
+        "fields": {
+            "description": "<p>SoC の最大消費電力は 3W 以下とし、車載12V電源に直結される条件で安定動作すること。</p>\n",
+            "documentKey": "SPRJ1-SSS-3",
+            "globalId": "GID-86643",
+            "name": "消費電力"
+        },
+        "globalId": "GID-86643",
+        "id": 202524,
+        "itemType": 174,
+        "lastActivityDate": "2025-08-27T17:14:22.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "item": 202517
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-27T16:55:05.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:55:03.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:48:54.000+0000",
+        "documentKey": "SPRJ1-CMP-3",
+        "fields": {
+            "documentKey": "SPRJ1-CMP-3",
+            "globalId": "GID-86634",
+            "name": "System Regulatory Requirements"
+        },
+        "globalId": "GID-86634",
+        "id": 202515,
+        "itemType": 30,
+        "lastActivityDate": "2025-08-27T16:48:54.000+0000",
+        "location": {
+            "globalSortOrder": 536874398,
+            "parent": {
+                "project": 195
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:48:54.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 175,
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:49:35.000+0000",
+        "documentKey": "SPRJ1-SET-3",
+        "fields": {
+            "documentKey": "SPRJ1-SET-3",
+            "globalId": "GID-86637",
+            "name": "System Regulatory Requirements",
+            "setKey": "SRR"
+        },
+        "globalId": "GID-86637",
+        "id": 202518,
+        "itemType": 31,
+        "lastActivityDate": "2025-08-27T16:49:35.000+0000",
+        "location": {
+            "globalSortOrder": 536875471,
+            "parent": {
+                "item": 202515
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:49:35.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:55:29.000+0000",
+        "documentKey": "SPRJ1-SRR-1",
+        "fields": {
+            "description": "<p>UNECE R46（車両周辺視界補助装置）に準拠し、カメラ映像が死角低減要件を満たすこと。</p>\n",
+            "documentKey": "SPRJ1-SRR-1",
+            "globalId": "GID-86644",
+            "name": "UNECE R46（車両周辺視界補助装置"
+        },
+        "globalId": "GID-86644",
+        "id": 202525,
+        "itemType": 175,
+        "lastActivityDate": "2025-08-27T17:15:00.000+0000",
+        "location": {
+            "globalSortOrder": 536876544,
+            "parent": {
+                "item": 202518
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:55:29.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:55:44.000+0000",
+        "documentKey": "SPRJ1-SRR-2",
+        "fields": {
+            "description": "<p>ISO 21434（自動車サイバーセキュリティ規格）に基づき、外部からの不正アクセスに対して暗号化通信を行うこと。</p>\n",
+            "documentKey": "SPRJ1-SRR-2",
+            "globalId": "GID-86645",
+            "name": "ISO 21434（自動車サイバーセキュリティ規格）"
+        },
+        "globalId": "GID-86645",
+        "id": 202526,
+        "itemType": 175,
+        "lastActivityDate": "2025-08-27T17:17:48.000+0000",
+        "location": {
+            "globalSortOrder": 536877617,
+            "parent": {
+                "item": 202518
+            },
+            "sequence": "3.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:55:44.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-08-27T16:55:55.000+0000",
+        "documentKey": "SPRJ1-SRR-3",
+        "fields": {
+            "description": "<p>RoHS 指令に準拠し、鉛・水銀など有害物質の含有を規制値以下とすること。</p>\n",
+            "documentKey": "SPRJ1-SRR-3",
+            "globalId": "GID-86646",
+            "name": "RoHS 指令"
+        },
+        "globalId": "GID-86646",
+        "id": 202527,
+        "itemType": 175,
+        "lastActivityDate": "2025-08-27T16:55:55.000+0000",
+        "location": {
+            "globalSortOrder": 1342180632,
+            "parent": {
+                "item": 202518
+            },
+            "sequence": "3.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-27T16:55:56.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-08-27T16:55:55.000+0000",
+        "project": 195,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

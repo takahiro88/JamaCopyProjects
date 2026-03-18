@@ -1,0 +1,50 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 613,
+        "name": "シス検",
+        "pickList": 378,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 614,
+        "name": "AS",
+        "pickList": 378,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 615,
+        "name": "CV",
+        "pickList": 378,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 616,
+        "name": "1A",
+        "pickList": 378,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

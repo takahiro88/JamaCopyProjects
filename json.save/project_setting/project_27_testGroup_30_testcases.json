@@ -1,0 +1,630 @@
+[
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-30T23:22:13.000+0000",
+        "documentKey": "AIS-VAL-19",
+        "fields": {
+            "description": "<p>To simulate dynamic acceleration during driving on a curve, the sensor is checked by gravitational acceleration under static conditions. The method involves positioning the vehicle on a transverse ramp with known angle of inclination and comparing the acceleration force measured by the lateral-acceleration sensor with a preset sensor value determined on the basis of the angle of inclination of the ramp.</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" height=\"125\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/307/Screen%20Shot%202017-10-30%20at%204.44.16%20PM.png\" width=\"300\" /></p>",
+            "documentKey": "AIS-VAL-19",
+            "globalId": "GID-55557",
+            "name": "Detect accurate lateral acceleration",
+            "status": 293,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "positioning the vehicle on a transverse ramp with known angle of inclination",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "compare acceleration force measured by the lateral-acceleration sensor with the preset sensor value",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55557",
+        "id": 7616,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29167,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2022-10-18T09:31:19.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 15
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-30T23:50:38.000+0000",
+        "documentKey": "AIS-VAL-20",
+        "fields": {
+            "description": "<p>The formula for calculating breaking speed is derived from the motion equation:</p>\n\n<p>&nbsp;</p>\n\n<p><img align=\"middle\" alt=\"v squared minus v subscript 0 superscript 2 equals 2 a d\" class=\"Wirisformula\" data-mathml=\"&laquo;math xmlns=&uml;http://www.w3.org/1998/Math/MathML&uml;&raquo;&laquo;msup&raquo;&laquo;mi&raquo;v&laquo;/mi&raquo;&laquo;mn&raquo;2&laquo;/mn&raquo;&laquo;/msup&raquo;&laquo;mo&raquo;-&laquo;/mo&raquo;&laquo;msubsup&raquo;&laquo;mi&raquo;v&laquo;/mi&raquo;&laquo;mn&raquo;0&laquo;/mn&raquo;&laquo;mn&raquo;2&laquo;/mn&raquo;&laquo;/msubsup&raquo;&laquo;mo&raquo;=&laquo;/mo&raquo;&laquo;mn&raquo;2&laquo;/mn&raquo;&laquo;mi&raquo;a&laquo;/mi&raquo;&laquo;mi&raquo;d&laquo;/mi&raquo;&laquo;/math&raquo;\" role=\"math\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/308/equation_20171030235655.png\" /></p>\n\n<p>v is the final speed of the vehicle which will be zero, vo will be the initial speed of the vehicle, a is the acceleration (or deceleration) of the vehicle and d is the breaking distance.</p>\n\n<p>&nbsp;</p>\n\n<p><img align=\"middle\" alt=\"d equals fraction numerator negative v squared over denominator 2 a end fraction\" class=\"Wirisformula\" data-mathml=\"&laquo;math xmlns=&uml;http://www.w3.org/1998/Math/MathML&uml;&raquo;&laquo;mi&raquo;d&laquo;/mi&raquo;&laquo;mo&raquo;=&laquo;/mo&raquo;&laquo;mfrac&raquo;&laquo;mrow&raquo;&laquo;mo&raquo;-&laquo;/mo&raquo;&laquo;msup&raquo;&laquo;mi&raquo;v&laquo;/mi&raquo;&laquo;mn&raquo;2&laquo;/mn&raquo;&laquo;/msup&raquo;&laquo;/mrow&raquo;&laquo;mrow&raquo;&laquo;mn&raquo;2&laquo;/mn&raquo;&laquo;mi&raquo;a&laquo;/mi&raquo;&laquo;/mrow&raquo;&laquo;/mfrac&raquo;&laquo;/math&raquo;\" role=\"math\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/309/equation_20171030235721.png\" /></p>",
+            "documentKey": "AIS-VAL-20",
+            "globalId": "GID-55558",
+            "name": "Detect accurate acceleration",
+            "status": 293,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "accelerate to 10 mph",
+                    "expectedResult": "sensor reads 10 mph",
+                    "notes": ""
+                },
+                {
+                    "action": "fully break to 0 mph",
+                    "expectedResult": "sensor reads 0 pmh",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55558",
+        "id": 7637,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29168,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 11
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-30T23:24:13.000+0000",
+        "documentKey": "AIS-VAL-21",
+        "fields": {
+            "description": "<p>To simulate dynamic angular velocity of a rolling automobile, the sensor is checked by the&nbsp;acceleration vector&nbsp;under static conditions. The acceleration vector of a fixed reference point on the automobile, moving within an inertial frame, consists of the acceleration of the origin of the body-fixed reference frame and the tangential and centripetal accelerations at the reference point arising from rotation of the the automobile</p>\n\n<p>&nbsp;</p>\n\n<p><img align=\"middle\" alt=\"begin mathsize 16px style stack A subscript p with rightwards arrow on top equals stack A subscript 0 with rightwards arrow on top plus omega with rightwards arrow on top cross times open parentheses omega with rightwards arrow on top cross times stack r subscript p with rightwards arrow on top close parentheses plus stack omega with times on top with rightwards arrow on top cross times r subscript p end style\" class=\"Wirisformula\" data-mathml=\"&laquo;math xmlns=&uml;http://www.w3.org/1998/Math/MathML&uml;&raquo;&laquo;mstyle mathsize=&uml;16px&uml;&raquo;&laquo;mrow&raquo;&laquo;mover&raquo;&laquo;msub&raquo;&laquo;mi&raquo;A&laquo;/mi&raquo;&laquo;mi&raquo;p&laquo;/mi&raquo;&laquo;/msub&raquo;&laquo;mo&raquo;&sect;#8594;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;mo&raquo;=&laquo;/mo&raquo;&laquo;mover&raquo;&laquo;msub&raquo;&laquo;mi&raquo;A&laquo;/mi&raquo;&laquo;mn&raquo;0&laquo;/mn&raquo;&laquo;/msub&raquo;&laquo;mo&raquo;&sect;#8594;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;mo&raquo;+&laquo;/mo&raquo;&laquo;mover&raquo;&laquo;mi&raquo;&sect;#969;&laquo;/mi&raquo;&laquo;mo&raquo;&sect;#8594;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;mo&raquo;&sect;#215;&laquo;/mo&raquo;&laquo;mfenced&raquo;&laquo;mrow&raquo;&laquo;mover&raquo;&laquo;mi&raquo;&sect;#969;&laquo;/mi&raquo;&laquo;mo&raquo;&sect;#8594;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;mo&raquo;&sect;#215;&laquo;/mo&raquo;&laquo;mover&raquo;&laquo;msub&raquo;&laquo;mi&raquo;r&laquo;/mi&raquo;&laquo;mi&raquo;p&laquo;/mi&raquo;&laquo;/msub&raquo;&laquo;mo&raquo;&sect;#8594;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;/mrow&raquo;&laquo;/mfenced&raquo;&laquo;mo&raquo;+&laquo;/mo&raquo;&laquo;mover&raquo;&laquo;mover&raquo;&laquo;mi&raquo;&sect;#969;&laquo;/mi&raquo;&laquo;mo&raquo;&sect;#183;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;mo&raquo;&sect;#8594;&laquo;/mo&raquo;&laquo;/mover&raquo;&laquo;mo&raquo;&sect;#215;&laquo;/mo&raquo;&laquo;msub&raquo;&laquo;mi&raquo;r&laquo;/mi&raquo;&laquo;mi&raquo;p&laquo;/mi&raquo;&laquo;/msub&raquo;&laquo;/mrow&raquo;&laquo;/mstyle&raquo;&laquo;/math&raquo;\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/306/equation_20171030233735.png\" /></p>",
+            "documentKey": "AIS-VAL-21",
+            "globalId": "GID-55559",
+            "name": "Detect accurate angular velocity",
+            "status": 293,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "positioning the vehicle on a flat surface",
+                    "expectedResult": "check against known static conditions are unchanged",
+                    "notes": ""
+                },
+                {
+                    "action": "rotate the vehicle by 10 degrees",
+                    "expectedResult": "compare acceleration force measured by the angular velocity sensor with the preset sensor value. A change should be noted",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55559",
+        "id": 7622,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29169,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 12
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-31T17:42:16.000+0000",
+        "documentKey": "AIS-VAL-22",
+        "fields": {
+            "description": "<p>Each sensor is part of a two sensor system. If their is a failure in a sensor due to power outage or other anomalies, the other sensor will continue to work. When both sensors are functional, each sensor checks itself against the other with a variance of 1ms.</p>\n\n<p>&nbsp;</p>\n\n<p>If a sensor has a failure, a dashboard warning should be set notifying the driver to have the vehicle checked.&nbsp;</p>",
+            "documentKey": "AIS-VAL-22",
+            "globalId": "GID-55560",
+            "name": "Detect accurate response from impact sensors",
+            "status": 293,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "turn of sensor 1",
+                    "expectedResult": "dashboard warning should be visible",
+                    "notes": ""
+                },
+                {
+                    "action": "turn off both sensors",
+                    "expectedResult": "dashboard warning should be visible",
+                    "notes": ""
+                },
+                {
+                    "action": "turn on both sensors",
+                    "expectedResult": "no dashboard warning visible",
+                    "notes": ""
+                },
+                {
+                    "action": "conduct front bumper impact with both sensors active",
+                    "expectedResult": "response from sensors should have a variance of 1ms or less",
+                    "notes": ""
+                },
+                {
+                    "action": "conduct rear bumper impact with both sensors active",
+                    "expectedResult": "response from sensors should have a variance of 1ms or less",
+                    "notes": ""
+                },
+                {
+                    "action": "conduct driver side impact with both sensors active",
+                    "expectedResult": "response from sensors should have a variance of 1ms or less",
+                    "notes": ""
+                },
+                {
+                    "action": "conduct passenger side impact with both sensors active",
+                    "expectedResult": "response from sensors should have a variance of 1ms or less",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55560",
+        "id": 7645,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29170,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 9
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-31T17:42:35.000+0000",
+        "documentKey": "AIS-VAL-23",
+        "fields": {
+            "description": "<p>Each sensor is part of a two sensor system. If their is a failure in a sensor due to power outage or other anomalies, the other sensor will continue to work. When both sensors are functional, each sensor checks itself against the other with a variance of 1ms.</p>\n\n<p>&nbsp;</p>\n\n<p>If a sensor has a failure, a dashboard warning should be set notifying the driver to have the vehicle checked.&nbsp;</p>",
+            "documentKey": "AIS-VAL-23",
+            "globalId": "GID-55561",
+            "name": "Detect failure in impact sensors",
+            "status": 293,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "cut electrical to one front impact sensor",
+                    "expectedResult": "dashboard warning should be visible. secondary sensor should still give impact reading",
+                    "notes": ""
+                },
+                {
+                    "action": "cut electrical to both front impact sensors",
+                    "expectedResult": "dashboard warning should be visible.",
+                    "notes": ""
+                },
+                {
+                    "action": "remove one front impact sensor",
+                    "expectedResult": "dashboard warning should be visible. secondary sensor should still give impact reading",
+                    "notes": ""
+                },
+                {
+                    "action": "remove both front impact sensors",
+                    "expectedResult": "dashboard warning should be visible.",
+                    "notes": ""
+                },
+                {
+                    "action": "cut electrical to one rear impact sensor",
+                    "expectedResult": "dashboard warning should be visible. secondary sensor should still give impact reading",
+                    "notes": ""
+                },
+                {
+                    "action": "cut electrical to both rear impact sensors",
+                    "expectedResult": "dashboard warning should be visible.",
+                    "notes": ""
+                },
+                {
+                    "action": "remove one rear impact sensor",
+                    "expectedResult": "dashboard warning should be visible. secondary sensor should still give impact reading",
+                    "notes": ""
+                },
+                {
+                    "action": "remove both rear impact sensors",
+                    "expectedResult": "dashboard warning should be visible.",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55561",
+        "id": 7646,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29171,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 8
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-31T17:50:45.000+0000",
+        "documentKey": "AIS-VAL-24",
+        "fields": {
+            "description": "<p>The rear safety child seat sensor should accurately detect a child sitting in a child seat in the back passenger seats.</p>\n\n<p>&nbsp;</p>\n\n<p>This measure should be based on a weight of more than 10 lbs and less than 50 lbs.</p>\n\n<p>&nbsp;</p>\n\n<p>The sensor should automatically disable the rear airbag and enable dashboard warning of child in.</p>",
+            "documentKey": "AIS-VAL-24",
+            "globalId": "GID-55562",
+            "name": "Detect child in safety seat rear passenger side seat",
+            "status": 293,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "put 5 lb safety certified child seat in rear passenger side seat",
+                    "expectedResult": "airbag remains on. dashboard warning remains off",
+                    "notes": ""
+                },
+                {
+                    "action": "put 10 lb sand bag in safety seat",
+                    "expectedResult": "airbag turns off. warning light turns on.",
+                    "notes": ""
+                },
+                {
+                    "action": "put 20 lb sand bag in safety seat",
+                    "expectedResult": "airbag turns off. warning light turns on.",
+                    "notes": ""
+                },
+                {
+                    "action": "put 50 lbs sand bag in safety seat",
+                    "expectedResult": "airbag stays on. No warning light on dashboard",
+                    "notes": ""
+                },
+                {
+                    "action": "put 4 lbs sand bag in safety seat",
+                    "expectedResult": "airbag stays off. warning light does not appear.",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55562",
+        "id": 7647,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29172,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 10
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-31T17:51:46.000+0000",
+        "documentKey": "AIS-VAL-25",
+        "fields": {
+            "description": "<p>The rear safety child seat sensor should accurately detect a child sitting in a child seat in the back driver side seats.</p>\n\n<p>&nbsp;</p>\n\n<p>This measure should be based on a weight of more than 10 lbs and less than 50 lbs.</p>\n\n<p>&nbsp;</p>\n\n<p>The sensor should automatically disable the rear airbag and enable dashboard warning of child in.</p>",
+            "documentKey": "AIS-VAL-25",
+            "globalId": "GID-55563",
+            "name": "Detect child in safety seat rear driver side seat",
+            "status": 293,
+            "testCaseStatus": "BLOCKED",
+            "testCaseSteps": [
+                {
+                    "action": "put 5 lb safety certified child seat in rear driver side side seat",
+                    "expectedResult": "airbag remains on. dashboard warning remains off",
+                    "notes": ""
+                },
+                {
+                    "action": "put 10 lb sand bag in safety seat",
+                    "expectedResult": "airbag turns off. warning light turns on.",
+                    "notes": ""
+                },
+                {
+                    "action": "put 20 lb sand bag in safety seat",
+                    "expectedResult": "airbag turns off. warning light turns on.",
+                    "notes": ""
+                },
+                {
+                    "action": "put 50 lbs sand bag in safety seat",
+                    "expectedResult": "airbag stays on. No warning light on dashboard",
+                    "notes": ""
+                },
+                {
+                    "action": "put 4 lbs sand bag in safety seat",
+                    "expectedResult": "airbag stays off. warning light does not appear.",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 1,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55563",
+        "id": 7651,
+        "itemType": 88,
+        "lastActivityDate": "2019-07-24T17:47:10.000+0000",
+        "location": {
+            "globalSortOrder": 29173,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:10.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 8
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2017-10-31T17:51:56.000+0000",
+        "documentKey": "AIS-VAL-26",
+        "fields": {
+            "description": "<p>The rear safety child seat sensor should accurately detect a child sitting in a child seat in the front passenger seat.</p>\n\n<p>&nbsp;</p>\n\n<p>This measure should be based on a weight of more than 10 lbs and less than 50 lbs.</p>\n\n<p>&nbsp;</p>\n\n<p>The sensor should automatically disable the rear airbag and enable dashboard warning of child in.</p>",
+            "documentKey": "AIS-VAL-26",
+            "globalId": "GID-55564",
+            "name": "Detect child in safety seat front passenger seat",
+            "status": 293,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "put 5 lb safety certified child seat in front passenger seat",
+                    "expectedResult": "airbag remains on. dashboard warning remains off",
+                    "notes": ""
+                },
+                {
+                    "action": "put 10 lb sand bag in safety seat",
+                    "expectedResult": "airbag turns off. warning light turns on.",
+                    "notes": ""
+                },
+                {
+                    "action": "put 20 lb sand bag in safety seat",
+                    "expectedResult": "airbag turns off. warning light turns on.",
+                    "notes": ""
+                },
+                {
+                    "action": "put 50 lbs sand bag in safety seat",
+                    "expectedResult": "airbag stays on. No warning light on dashboard",
+                    "notes": ""
+                },
+                {
+                    "action": "put 4 lbs sand bag in safety seat",
+                    "expectedResult": "airbag stays off. warning light does not appear.",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-55564",
+        "id": 7652,
+        "itemType": 88,
+        "lastActivityDate": "2019-04-22T13:34:39.000+0000",
+        "location": {
+            "globalSortOrder": 29174,
+            "parent": {
+                "item": 7618
+            },
+            "sequence": "7.4.2.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "lastLockedDate": "2019-04-22T13:34:39.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-04-22T13:34:39.000+0000",
+        "project": 27,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 9
+    }
+]

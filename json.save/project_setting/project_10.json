@@ -1,0 +1,16 @@
+{
+    "createdBy": 5,
+    "createdDate": "2015-04-29T05:10:06.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Standard Sample Sets",
+        "projectGroup": 296,
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 10,
+    "isFolder": true,
+    "modifiedBy": 5,
+    "modifiedDate": "2016-04-19T09:20:11.000+0000",
+    "type": "projects"
+}

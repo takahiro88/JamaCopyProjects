@@ -1,0 +1,18 @@
+{
+    "createdBy": 25,
+    "createdDate": "2023-07-24T04:45:25.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Reqtify Test Project",
+        "projectGroup": 296,
+        "projectKey": "REQTIFY",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 147,
+    "isFolder": false,
+    "modifiedBy": 25,
+    "modifiedDate": "2023-07-24T04:45:25.000+0000",
+    "projectKey": "REQTIFY",
+    "type": "projects"
+}

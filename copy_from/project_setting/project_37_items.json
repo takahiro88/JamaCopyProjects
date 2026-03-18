@@ -1,0 +1,1963 @@
+[
+    {
+        "childItemType": 43,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-26",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-26",
+            "globalId": "GID-38656",
+            "name": "INFORMATION",
+            "setKey": "INFO"
+        },
+        "globalId": "GID-38656",
+        "id": 6166,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 2001,
+            "parent": {
+                "project": 37
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-CMP-24",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-24",
+            "globalId": "GID-38657",
+            "name": "Market Input"
+        },
+        "globalId": "GID-38657",
+        "id": 6167,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 3002,
+            "parent": {
+                "project": 37
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 45,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-77",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-77",
+            "globalId": "GID-38660",
+            "name": "Stakeholder Requirements",
+            "setKey": "PS"
+        },
+        "globalId": "GID-38660",
+        "id": 6170,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 4003,
+            "parent": {
+                "item": 6167
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 44,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-78",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-78",
+            "globalId": "GID-38661",
+            "name": "Use Cases",
+            "setKey": "E_UC"
+        },
+        "globalId": "GID-38661",
+        "id": 6171,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 5004,
+            "parent": {
+                "item": 6167
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 88,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-147",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-147",
+            "globalId": "GID-38662",
+            "name": "Validation Cases",
+            "setKey": "VAL"
+        },
+        "globalId": "GID-38662",
+        "id": 6172,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 6005,
+            "parent": {
+                "item": 6167
+            },
+            "sequence": "2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-CMP-25",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-25",
+            "globalId": "GID-38658",
+            "name": "System"
+        },
+        "globalId": "GID-38658",
+        "id": 6168,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 7006,
+            "parent": {
+                "project": 37
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-166",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-166",
+            "globalId": "GID-38663",
+            "name": "System Requirements",
+            "setKey": "SS"
+        },
+        "globalId": "GID-38663",
+        "id": 6173,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 8007,
+            "parent": {
+                "item": 6168
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SS-1",
+        "fields": {
+            "SubsysReqStat$86": "0%",
+            "description": "<p>The system shall include wifi functionality to enable remote control of the thermostat.</p>",
+            "documentKey": "SYS-SS-1",
+            "globalId": "GID-38669",
+            "name": "Wifi-Enabled",
+            "status": 293
+        },
+        "globalId": "GID-38669",
+        "id": 6179,
+        "itemType": 86,
+        "lastActivityDate": "2019-07-24T17:46:58.000+0000",
+        "location": {
+            "globalSortOrder": 8008,
+            "parent": {
+                "item": 6173
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:46:58.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:46:58.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SS-2",
+        "fields": {
+            "SubsysReqStat$86": "0%",
+            "description": "<p>The system shall be built on top of a rotating base to allow for adjustment of temperature by turning clockwise (increase in temp) and counter-clockwise (decrease in temp).</p>",
+            "documentKey": "SYS-SS-2",
+            "globalId": "GID-38670",
+            "name": "Rotating Base",
+            "status": 294
+        },
+        "globalId": "GID-38670",
+        "id": 6180,
+        "itemType": 86,
+        "lastActivityDate": "2019-07-24T17:46:58.000+0000",
+        "location": {
+            "globalSortOrder": 8009,
+            "parent": {
+                "item": 6173
+            },
+            "sequence": "3.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:46:58.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:46:58.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SS-3",
+        "fields": {
+            "SubsysReqStat$86": "0%",
+            "description": "<p>The software solution shall allow for weekly scheduling of on/off and temperature ranges.</p>",
+            "documentKey": "SYS-SS-3",
+            "globalId": "GID-38671",
+            "name": "Manual Scheduling",
+            "status": 293
+        },
+        "globalId": "GID-38671",
+        "id": 6181,
+        "itemType": 86,
+        "lastActivityDate": "2019-07-24T17:47:04.000+0000",
+        "location": {
+            "globalSortOrder": 8010,
+            "parent": {
+                "item": 6173
+            },
+            "sequence": "3.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:04.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:04.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SS-6",
+        "fields": {
+            "SubsysReqStat$86": "0%",
+            "description": "<p>The system shall monitor ambient temperature and relative humidity</p>",
+            "documentKey": "SYS-SS-6",
+            "globalId": "GID-38672",
+            "name": "Climate Monitoring",
+            "status": 294
+        },
+        "globalId": "GID-38672",
+        "id": 6182,
+        "itemType": 86,
+        "lastActivityDate": "2019-07-24T17:47:04.000+0000",
+        "location": {
+            "globalSortOrder": 8011,
+            "parent": {
+                "item": 6173
+            },
+            "sequence": "3.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:04.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:04.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SS-7",
+        "fields": {
+            "SubsysReqStat$86": "0%",
+            "description": "<p>The system shall monitor user interactions with temperature adjustments,&nbsp;heating/cooling power functions, and schedule changes.</p>",
+            "documentKey": "SYS-SS-7",
+            "globalId": "GID-38673",
+            "name": "User Interaction Monitoring",
+            "status": 293
+        },
+        "globalId": "GID-38673",
+        "id": 6183,
+        "itemType": 86,
+        "lastActivityDate": "2019-07-24T17:47:04.000+0000",
+        "location": {
+            "globalSortOrder": 8012,
+            "parent": {
+                "item": 6173
+            },
+            "sequence": "3.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "lastLockedDate": "2019-07-24T17:47:04.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-07-24T17:47:04.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 58,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-82",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-82",
+            "globalId": "GID-38664",
+            "name": "System Architecture",
+            "setKey": "D_DESC"
+        },
+        "globalId": "GID-38664",
+        "id": 6174,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 9013,
+            "parent": {
+                "item": 6168
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 58,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-83",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-83",
+            "globalId": "GID-38665",
+            "name": "Interface Specification",
+            "setKey": "D_DESC"
+        },
+        "globalId": "GID-38665",
+        "id": 6175,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 10014,
+            "parent": {
+                "item": 6168
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-157",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-157",
+            "globalId": "GID-38666",
+            "name": "Verification Cases",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38666",
+        "id": 6176,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 11015,
+            "parent": {
+                "item": 6168
+            },
+            "sequence": "3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-CMP-26",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-26",
+            "globalId": "GID-38667",
+            "name": "Hardware"
+        },
+        "globalId": "GID-38667",
+        "id": 6177,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 12016,
+            "parent": {
+                "item": 6168
+            },
+            "sequence": "3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-27",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-27",
+            "globalId": "GID-38674",
+            "name": "Hardware Top"
+        },
+        "globalId": "GID-38674",
+        "id": 6184,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 13017,
+            "parent": {
+                "item": 6177
+            },
+            "sequence": "3.5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-167",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-167",
+            "globalId": "GID-38681",
+            "name": "Subsystem Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38681",
+        "id": 6191,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 14018,
+            "parent": {
+                "item": 6184
+            },
+            "sequence": "3.5.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-169",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-169",
+            "globalId": "GID-38682",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38682",
+        "id": 6192,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 15019,
+            "parent": {
+                "item": 6184
+            },
+            "sequence": "3.5.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-158",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-158",
+            "globalId": "GID-38683",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38683",
+        "id": 6193,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 16020,
+            "parent": {
+                "item": 6184
+            },
+            "sequence": "3.5.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-28",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-28",
+            "globalId": "GID-38675",
+            "name": "Thermostat Display"
+        },
+        "globalId": "GID-38675",
+        "id": 6185,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 17021,
+            "parent": {
+                "item": 6177
+            },
+            "sequence": "3.5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-171",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-171",
+            "globalId": "GID-38684",
+            "name": "Hardware Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38684",
+        "id": 6194,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 18022,
+            "parent": {
+                "item": 6185
+            },
+            "sequence": "3.5.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-170",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-170",
+            "globalId": "GID-38685",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38685",
+        "id": 6195,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 19023,
+            "parent": {
+                "item": 6185
+            },
+            "sequence": "3.5.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-159",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-159",
+            "globalId": "GID-38686",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38686",
+        "id": 6196,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 20024,
+            "parent": {
+                "item": 6185
+            },
+            "sequence": "3.5.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-29",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-29",
+            "globalId": "GID-38676",
+            "name": "Temperature and Humidity Sensor"
+        },
+        "globalId": "GID-38676",
+        "id": 6186,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 21025,
+            "parent": {
+                "item": 6177
+            },
+            "sequence": "3.5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-172",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-172",
+            "globalId": "GID-38687",
+            "name": "Hardware Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38687",
+        "id": 6197,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 22026,
+            "parent": {
+                "item": 6186
+            },
+            "sequence": "3.5.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-173",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-173",
+            "globalId": "GID-38688",
+            "name": "Hardware Architecture",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38688",
+        "id": 6198,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 23027,
+            "parent": {
+                "item": 6186
+            },
+            "sequence": "3.5.3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-160",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-160",
+            "globalId": "GID-38689",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38689",
+        "id": 6199,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 24028,
+            "parent": {
+                "item": 6186
+            },
+            "sequence": "3.5.3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-36",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-36",
+            "globalId": "GID-38677",
+            "name": "Motion Detector"
+        },
+        "globalId": "GID-38677",
+        "id": 6187,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 25029,
+            "parent": {
+                "item": 6177
+            },
+            "sequence": "3.5.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-174",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-174",
+            "globalId": "GID-38690",
+            "name": "Hardware Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38690",
+        "id": 6200,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 26030,
+            "parent": {
+                "item": 6187
+            },
+            "sequence": "3.5.4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-175",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-175",
+            "globalId": "GID-38691",
+            "name": "Hardware Architecture",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38691",
+        "id": 6201,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 27031,
+            "parent": {
+                "item": 6187
+            },
+            "sequence": "3.5.4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-161",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-161",
+            "globalId": "GID-38692",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38692",
+        "id": 6202,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 28032,
+            "parent": {
+                "item": 6187
+            },
+            "sequence": "3.5.4.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-37",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-37",
+            "globalId": "GID-38678",
+            "name": "Hardware Block 4"
+        },
+        "globalId": "GID-38678",
+        "id": 6188,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 29033,
+            "parent": {
+                "item": 6177
+            },
+            "sequence": "3.5.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-177",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-177",
+            "globalId": "GID-38693",
+            "name": "Hardware Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38693",
+        "id": 6203,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 30034,
+            "parent": {
+                "item": 6188
+            },
+            "sequence": "3.5.5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-176",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-176",
+            "globalId": "GID-38694",
+            "name": "Hardware Architecture",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38694",
+        "id": 6204,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 31035,
+            "parent": {
+                "item": 6188
+            },
+            "sequence": "3.5.5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-162",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-162",
+            "globalId": "GID-38695",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38695",
+        "id": 6205,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 32036,
+            "parent": {
+                "item": 6188
+            },
+            "sequence": "3.5.5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-CMP-30",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-30",
+            "globalId": "GID-38668",
+            "name": "Software"
+        },
+        "globalId": "GID-38668",
+        "id": 6178,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 33037,
+            "parent": {
+                "item": 6168
+            },
+            "sequence": "3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-34",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-34",
+            "globalId": "GID-38679",
+            "name": "Mobile App"
+        },
+        "globalId": "GID-38679",
+        "id": 6189,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 34038,
+            "parent": {
+                "item": 6178
+            },
+            "sequence": "3.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-179",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-179",
+            "globalId": "GID-38696",
+            "name": "Software Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38696",
+        "id": 6206,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 35039,
+            "parent": {
+                "item": 6189
+            },
+            "sequence": "3.6.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-137",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-137",
+            "globalId": "GID-38697",
+            "name": "Software Stories",
+            "setKey": "STY"
+        },
+        "globalId": "GID-38697",
+        "id": 6207,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 36040,
+            "parent": {
+                "item": 6189
+            },
+            "sequence": "3.6.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-164",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-164",
+            "globalId": "GID-38698",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38698",
+        "id": 6208,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 37041,
+            "parent": {
+                "item": 6189
+            },
+            "sequence": "3.6.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-CMP-35",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-CMP-35",
+            "globalId": "GID-38680",
+            "name": "Software Component 2"
+        },
+        "globalId": "GID-38680",
+        "id": 6190,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 38042,
+            "parent": {
+                "item": 6178
+            },
+            "sequence": "3.6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-180",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-180",
+            "globalId": "GID-38699",
+            "name": "Software Requirements",
+            "setKey": "SUBSS"
+        },
+        "globalId": "GID-38699",
+        "id": 6209,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 39043,
+            "parent": {
+                "item": 6190
+            },
+            "sequence": "3.6.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-138",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-138",
+            "globalId": "GID-38700",
+            "name": "Software Stories",
+            "setKey": "STY"
+        },
+        "globalId": "GID-38700",
+        "id": 6210,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 40044,
+            "parent": {
+                "item": 6190
+            },
+            "sequence": "3.6.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:35.000+0000",
+        "documentKey": "SYS-SET-165",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-165",
+            "globalId": "GID-38701",
+            "name": "Subsystem Verification Cases",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38701",
+        "id": 6211,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 41045,
+            "parent": {
+                "item": 6190
+            },
+            "sequence": "3.6.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:35.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 27,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:39:34.000+0000",
+        "documentKey": "SYS-SET-80",
+        "fields": {
+            "description": "",
+            "documentKey": "SYS-SET-80",
+            "globalId": "GID-38659",
+            "name": "Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-38659",
+        "id": 6169,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:39:34.000+0000",
+        "location": {
+            "globalSortOrder": 42046,
+            "parent": {
+                "project": 37
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:39:34.000+0000",
+        "project": 37,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

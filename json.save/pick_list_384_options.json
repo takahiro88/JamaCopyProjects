@@ -1,0 +1,30 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF3399",
+        "default": false,
+        "description": "",
+        "id": 643,
+        "infotip": "",
+        "name": "pick A",
+        "pickList": 384,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": "1"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "0066CC",
+        "default": false,
+        "description": "",
+        "id": 644,
+        "infotip": "",
+        "name": "pick B",
+        "pickList": 384,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "2"
+    }
+]

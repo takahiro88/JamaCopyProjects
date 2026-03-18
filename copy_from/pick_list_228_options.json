@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "9BDFFF",
+        "default": true,
+        "description": "",
+        "id": 508,
+        "name": "Software",
+        "pickList": 228,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCC66",
+        "default": false,
+        "description": "",
+        "id": 509,
+        "name": "Hardware",
+        "pickList": 228,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

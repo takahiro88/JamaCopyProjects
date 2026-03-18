@@ -1,0 +1,230 @@
+[
+    {
+        "createdBy": 8,
+        "createdDate": "2015-10-05T10:32:21.000+0000",
+        "documentKey": "SAFE-TC-1",
+        "fields": {
+            "description": "<p><strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Goal of Test Case:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">The goal of this test case is to ensure users can import and invite their friends on Facebook.</span><br />\n<br />\n<strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Pre-Conditions:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">User has logged into the mobile applicatoin</span></p>\n",
+            "documentKey": "SAFE-TC-1",
+            "globalId": "GID-15401",
+            "name": "Connect with Facebook",
+            "priority": 301,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "click Facebook icon",
+                    "expectedResult": "Facebook login appears",
+                    "notes": ""
+                },
+                {
+                    "action": "enter username and password",
+                    "expectedResult": "Friends list pops up",
+                    "notes": ""
+                },
+                {
+                    "action": "import friends",
+                    "expectedResult": "Friend list screen pops up",
+                    "notes": ""
+                },
+                {
+                    "action": "verify that friends list is populated",
+                    "expectedResult": "All of your friends should now show up in the list and you should be able to click on each one to invite them to join the service",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 2,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-15401",
+        "id": 3016,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-05T11:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 20115,
+            "parent": {
+                "item": 3032
+            },
+            "sequence": "7.5.4.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-05T10:44:18.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-05T11:26:39.000+0000",
+        "project": 26,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 8,
+        "createdDate": "2015-10-05T10:39:45.000+0000",
+        "documentKey": "SAFE-TC-3",
+        "fields": {
+            "description": "<p><strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Goal of Test Case:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">The goal of this test case is to ensure users can import and invite their friends on </span>Instagram<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">.</span><br />\n<br />\n<strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Pre-Conditions:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">User has logged into the mobile applicatoin</span></p>\n",
+            "documentKey": "SAFE-TC-3",
+            "globalId": "GID-15404",
+            "name": "Connect with Instagram",
+            "priority": 301,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "click Instagram icon",
+                    "expectedResult": "Instagram login appears",
+                    "notes": ""
+                },
+                {
+                    "action": "enter username and password",
+                    "expectedResult": "Friends list pops up",
+                    "notes": ""
+                },
+                {
+                    "action": "import friends",
+                    "expectedResult": "Friend list screen pops up",
+                    "notes": ""
+                },
+                {
+                    "action": "verify that friends list is populated",
+                    "expectedResult": "All of your friends should now show up in the list and you should be able to click on each one to invite them to join the service",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-15404",
+        "id": 3020,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-28T14:59:40.000+0000",
+        "location": {
+            "globalSortOrder": 20117,
+            "parent": {
+                "item": 3032
+            },
+            "sequence": "7.5.4.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-05T10:40:56.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2015-10-28T14:59:40.000+0000",
+        "project": 26,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 8,
+        "createdDate": "2015-10-05T10:39:38.000+0000",
+        "documentKey": "SAFE-TC-2",
+        "fields": {
+            "description": "<p><strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Goal of Test Case:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">The goal of this test case is to ensure users can import and invite their friends on Twitter.</span><br />\n<br />\n<strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Pre-Conditions:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">User has logged into the mobile applicatoin</span></p>\n",
+            "documentKey": "SAFE-TC-2",
+            "globalId": "GID-15403",
+            "name": "Connect with Twitter",
+            "priority": 301,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "click Twitter icon",
+                    "expectedResult": "Twitter login appears",
+                    "notes": ""
+                },
+                {
+                    "action": "enter username and password",
+                    "expectedResult": "Friends list pops up",
+                    "notes": ""
+                },
+                {
+                    "action": "import friends",
+                    "expectedResult": "Friend list screen pops up",
+                    "notes": ""
+                },
+                {
+                    "action": "verify that friends list is populated",
+                    "expectedResult": "All of your friends should now show up in the list and you should be able to click on each one to invite them to join the service",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 2,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-15403",
+        "id": 3019,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-05T11:27:55.000+0000",
+        "location": {
+            "globalSortOrder": 20116,
+            "parent": {
+                "item": 3032
+            },
+            "sequence": "7.5.4.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-05T10:40:19.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-05T11:27:55.000+0000",
+        "project": 26,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    }
+]

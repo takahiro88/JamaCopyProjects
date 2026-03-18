@@ -1,0 +1,2070 @@
+[
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:29:48.000+0000",
+        "documentKey": "REQTIFY-CMP-11",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-11",
+            "globalId": "GID-85686",
+            "name": "LCA User Requirements"
+        },
+        "globalId": "GID-85686",
+        "id": 200150,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:39:58.000+0000",
+        "location": {
+            "globalSortOrder": 1608,
+            "parent": {
+                "project": 147
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-26T06:39:59.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:39:58.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:34:05.000+0000",
+        "documentKey": "REQTIFY-CMP-14",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-14",
+            "globalId": "GID-85711",
+            "name": "Requirements"
+        },
+        "globalId": "GID-85711",
+        "id": 200317,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:40:18.000+0000",
+        "location": {
+            "globalSortOrder": 1876,
+            "parent": {
+                "item": 200150
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-26T06:40:19.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:40:18.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2023-07-24T04:46:31.000+0000",
+        "documentKey": "REQTIFY-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-CMP-1",
+            "globalId": "GID-82591",
+            "name": "Requirements of Driver"
+        },
+        "globalId": "GID-82591",
+        "id": 194150,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:40:48.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "item": 200317
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-26T06:40:49.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:40:48.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:41:10.000+0000",
+        "documentKey": "REQTIFY-CMP-21",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-21",
+            "globalId": "GID-85740",
+            "name": "複数車線"
+        },
+        "globalId": "GID-85740",
+        "id": 200367,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:41:10.000+0000",
+        "location": {
+            "globalSortOrder": 536931267,
+            "parent": {
+                "item": 194150
+            },
+            "sequence": "1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:41:10.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:41:22.000+0000",
+        "documentKey": "REQTIFY-CMP-22",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-22",
+            "globalId": "GID-85741",
+            "name": "-"
+        },
+        "globalId": "GID-85741",
+        "id": 200368,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:41:22.000+0000",
+        "location": {
+            "globalSortOrder": 536931669,
+            "parent": {
+                "item": 200367
+            },
+            "sequence": "1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:41:22.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:41:36.000+0000",
+        "documentKey": "REQTIFY-CMP-23",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-23",
+            "globalId": "GID-85742",
+            "name": "LCA-1"
+        },
+        "globalId": "GID-85742",
+        "id": 200369,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:41:36.000+0000",
+        "location": {
+            "globalSortOrder": 536932742,
+            "parent": {
+                "item": 200368
+            },
+            "sequence": "1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:41:36.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:41:53.000+0000",
+        "documentKey": "REQTIFY-CMP-24",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-24",
+            "globalId": "GID-85743",
+            "name": "基本シナリオ"
+        },
+        "globalId": "GID-85743",
+        "id": 200370,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T06:41:53.000+0000",
+        "location": {
+            "globalSortOrder": 536933815,
+            "parent": {
+                "item": 200369
+            },
+            "sequence": "1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-26T06:41:55.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:41:53.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 104,
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:12:52.000+0000",
+        "documentKey": "REQTIFY-SET-4",
+        "fields": {
+            "documentKey": "REQTIFY-SET-4",
+            "globalId": "GID-85599",
+            "name": "Automotive Hazards",
+            "setKey": "AHZD"
+        },
+        "globalId": "GID-85599",
+        "id": 200062,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-26T07:00:25.000+0000",
+        "location": {
+            "globalSortOrder": 536942399,
+            "parent": {
+                "item": 200370
+            },
+            "sequence": "1.1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:12:52.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:37:11.000+0000",
+        "documentKey": "REQTIFY-TXT-31",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-31",
+            "globalId": "GID-85726",
+            "name": "test"
+        },
+        "globalId": "GID-85726",
+        "id": 200350,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:00:25.000+0000",
+        "location": {
+            "globalSortOrder": 536943472,
+            "parent": {
+                "item": 200062
+            },
+            "sequence": "1.1.1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:37:11.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:23.000+0000",
+        "documentKey": "REQTIFY-TXT-101",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-101",
+            "globalId": "GID-86020",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86020",
+        "id": 201132,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:23.000+0000",
+        "location": {
+            "globalSortOrder": 536943639,
+            "parent": {
+                "item": 200062
+            },
+            "sequence": "1.1.1.1.1.1.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:23.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:10.000+0000",
+        "documentKey": "REQTIFY-TXT-100",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-100",
+            "globalId": "GID-86019",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86019",
+        "id": 201131,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:10.000+0000",
+        "location": {
+            "globalSortOrder": 536943807,
+            "parent": {
+                "item": 200062
+            },
+            "sequence": "1.1.1.1.1.1.1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:10.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:05.000+0000",
+        "documentKey": "REQTIFY-TXT-99",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-99",
+            "globalId": "GID-86018",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86018",
+        "id": 201130,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:05.000+0000",
+        "location": {
+            "globalSortOrder": 536944142,
+            "parent": {
+                "item": 200062
+            },
+            "sequence": "1.1.1.1.1.1.1.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:05.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 150,
+        "createdBy": 25,
+        "createdDate": "2024-01-24T04:12:48.000+0000",
+        "documentKey": "REQTIFY-SET-1",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SET-1",
+            "globalId": "GID-82735",
+            "name": "smartfacts",
+            "setKey": "SF"
+        },
+        "globalId": "GID-82735",
+        "id": 194486,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-26T07:00:19.000+0000",
+        "location": {
+            "globalSortOrder": 536944813,
+            "parent": {
+                "item": 200370
+            },
+            "sequence": "1.1.1.1.1.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2024-01-24T04:12:48.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2024-01-24T04:12:57.000+0000",
+        "documentKey": "REQTIFY-SF-1",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SF-1",
+            "globalId": "GID-82736",
+            "name": "tet"
+        },
+        "globalId": "GID-82736",
+        "id": 194487,
+        "itemType": 150,
+        "lastActivityDate": "2025-05-26T07:00:19.000+0000",
+        "location": {
+            "globalSortOrder": 536945886,
+            "parent": {
+                "item": 194486
+            },
+            "sequence": "1.1.1.1.1.1.1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2024-01-24T04:12:57.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:03:48.000+0000",
+        "documentKey": "REQTIFY-TXT-108",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-108",
+            "globalId": "GID-86032",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86032",
+        "id": 201165,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:03:48.000+0000",
+        "location": {
+            "globalSortOrder": 536947495,
+            "parent": {
+                "item": 194487
+            },
+            "sequence": "1.1.1.1.1.1.1.2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:03:48.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:24:21.000+0000",
+        "documentKey": "REQTIFY-SF-7",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SF-7",
+            "globalId": "GID-85652",
+            "name": "tet"
+        },
+        "globalId": "GID-85652",
+        "id": 200116,
+        "itemType": 150,
+        "lastActivityDate": "2025-05-26T07:00:19.000+0000",
+        "location": {
+            "globalSortOrder": 536948032,
+            "parent": {
+                "item": 194486
+            },
+            "sequence": "1.1.1.1.1.1.1.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:24:21.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T06:24:22.000+0000",
+        "documentKey": "REQTIFY-TXT-14",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-14",
+            "globalId": "GID-85653",
+            "name": "test"
+        },
+        "globalId": "GID-85653",
+        "id": 200117,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:00:19.000+0000",
+        "location": {
+            "globalSortOrder": 536949105,
+            "parent": {
+                "item": 200116
+            },
+            "sequence": "1.1.1.1.1.1.1.2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T06:24:22.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:42.000+0000",
+        "documentKey": "REQTIFY-CMP-133",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-133",
+            "globalId": "GID-86021",
+            "name": "LCA User Requirements"
+        },
+        "globalId": "GID-86021",
+        "id": 201133,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:42.000+0000",
+        "location": {
+            "globalSortOrder": 536950178,
+            "parent": {
+                "project": 147
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:42.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:43.000+0000",
+        "documentKey": "REQTIFY-CMP-134",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-134",
+            "globalId": "GID-86022",
+            "name": "Requirements"
+        },
+        "globalId": "GID-86022",
+        "id": 201134,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:43.000+0000",
+        "location": {
+            "globalSortOrder": 536951251,
+            "parent": {
+                "item": 201133
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:43.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:44.000+0000",
+        "documentKey": "REQTIFY-CMP-135",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-CMP-135",
+            "globalId": "GID-86023",
+            "name": "Requirements of Driver"
+        },
+        "globalId": "GID-86023",
+        "id": 201135,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:44.000+0000",
+        "location": {
+            "globalSortOrder": 536952324,
+            "parent": {
+                "item": 201134
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:44.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:44.000+0000",
+        "documentKey": "REQTIFY-CMP-136",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-136",
+            "globalId": "GID-86024",
+            "name": "複数車線"
+        },
+        "globalId": "GID-86024",
+        "id": 201136,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:44.000+0000",
+        "location": {
+            "globalSortOrder": 536953397,
+            "parent": {
+                "item": 201135
+            },
+            "sequence": "2.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:44.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:45.000+0000",
+        "documentKey": "REQTIFY-CMP-137",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-137",
+            "globalId": "GID-86025",
+            "name": "-"
+        },
+        "globalId": "GID-86025",
+        "id": 201137,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:45.000+0000",
+        "location": {
+            "globalSortOrder": 536954470,
+            "parent": {
+                "item": 201136
+            },
+            "sequence": "2.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:45.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:46.000+0000",
+        "documentKey": "REQTIFY-CMP-138",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-138",
+            "globalId": "GID-86026",
+            "name": "LCA-1"
+        },
+        "globalId": "GID-86026",
+        "id": 201138,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:46.000+0000",
+        "location": {
+            "globalSortOrder": 536955543,
+            "parent": {
+                "item": 201137
+            },
+            "sequence": "2.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:46.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:46.000+0000",
+        "documentKey": "REQTIFY-CMP-139",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-139",
+            "globalId": "GID-86027",
+            "name": "基本シナリオ"
+        },
+        "globalId": "GID-86027",
+        "id": 201154,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:02:46.000+0000",
+        "location": {
+            "globalSortOrder": 536956616,
+            "parent": {
+                "item": 201138
+            },
+            "sequence": "2.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:46.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 33,
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:47.000+0000",
+        "documentKey": "REQTIFY-SET-61",
+        "fields": {
+            "documentKey": "REQTIFY-SET-61",
+            "globalId": "GID-86028",
+            "name": "Automotive Hazards",
+            "setKey": "AHZD"
+        },
+        "globalId": "GID-86028",
+        "id": 201155,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-26T07:02:47.000+0000",
+        "location": {
+            "globalSortOrder": 536957689,
+            "parent": {
+                "item": 201154
+            },
+            "sequence": "2.1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:47.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:48.000+0000",
+        "documentKey": "REQTIFY-TXT-102",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-102",
+            "globalId": "GID-86030",
+            "name": "test"
+        },
+        "globalId": "GID-86030",
+        "id": 201157,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:48.000+0000",
+        "location": {
+            "globalSortOrder": 536958762,
+            "parent": {
+                "item": 201155
+            },
+            "sequence": "2.1.1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:48.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:49.000+0000",
+        "documentKey": "REQTIFY-TXT-103",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-103",
+            "globalId": "GID-86032",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86032",
+        "id": 201159,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:49.000+0000",
+        "location": {
+            "globalSortOrder": 536959835,
+            "parent": {
+                "item": 201155
+            },
+            "sequence": "2.1.1.1.1.1.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:49.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:50.000+0000",
+        "documentKey": "REQTIFY-TXT-105",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-105",
+            "globalId": "GID-86035",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86035",
+        "id": 201162,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:50.000+0000",
+        "location": {
+            "globalSortOrder": 536960908,
+            "parent": {
+                "item": 201155
+            },
+            "sequence": "2.1.1.1.1.1.1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:50.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:50.000+0000",
+        "documentKey": "REQTIFY-TXT-107",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-107",
+            "globalId": "GID-86037",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86037",
+        "id": 201164,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:50.000+0000",
+        "location": {
+            "globalSortOrder": 536961981,
+            "parent": {
+                "item": 201155
+            },
+            "sequence": "2.1.1.1.1.1.1.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:50.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 150,
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:48.000+0000",
+        "documentKey": "REQTIFY-SET-62",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SET-62",
+            "globalId": "GID-86029",
+            "name": "smartfacts",
+            "setKey": "SF"
+        },
+        "globalId": "GID-86029",
+        "id": 201156,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-26T07:02:48.000+0000",
+        "location": {
+            "globalSortOrder": 536963054,
+            "parent": {
+                "item": 201154
+            },
+            "sequence": "2.1.1.1.1.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:48.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:49.000+0000",
+        "documentKey": "REQTIFY-SF-52",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SF-52",
+            "globalId": "GID-86031",
+            "name": "tet"
+        },
+        "globalId": "GID-86031",
+        "id": 201158,
+        "itemType": 150,
+        "lastActivityDate": "2025-05-26T07:02:49.000+0000",
+        "location": {
+            "globalSortOrder": 536964127,
+            "parent": {
+                "item": 201156
+            },
+            "sequence": "2.1.1.1.1.1.1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:49.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:49.000+0000",
+        "documentKey": "REQTIFY-TXT-104",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-104",
+            "globalId": "GID-86034",
+            "name": "test"
+        },
+        "globalId": "GID-86034",
+        "id": 201161,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:49.000+0000",
+        "location": {
+            "globalSortOrder": 536965200,
+            "parent": {
+                "item": 201158
+            },
+            "sequence": "2.1.1.1.1.1.1.2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:49.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:49.000+0000",
+        "documentKey": "REQTIFY-SF-53",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SF-53",
+            "globalId": "GID-86033",
+            "name": "tet"
+        },
+        "globalId": "GID-86033",
+        "id": 201160,
+        "itemType": 150,
+        "lastActivityDate": "2025-05-26T07:02:49.000+0000",
+        "location": {
+            "globalSortOrder": 536966273,
+            "parent": {
+                "item": 201156
+            },
+            "sequence": "2.1.1.1.1.1.1.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:49.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:02:50.000+0000",
+        "documentKey": "REQTIFY-TXT-106",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-106",
+            "globalId": "GID-86036",
+            "name": "test"
+        },
+        "globalId": "GID-86036",
+        "id": 201163,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:02:50.000+0000",
+        "location": {
+            "globalSortOrder": 536967346,
+            "parent": {
+                "item": 201160
+            },
+            "sequence": "2.1.1.1.1.1.1.2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:02:50.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:21.000+0000",
+        "documentKey": "REQTIFY-CMP-140",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-140",
+            "globalId": "GID-86038",
+            "name": "LCA User Requirements"
+        },
+        "globalId": "GID-86038",
+        "id": 201167,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:21.000+0000",
+        "location": {
+            "globalSortOrder": 536968419,
+            "parent": {
+                "project": 147
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:21.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:21.000+0000",
+        "documentKey": "REQTIFY-CMP-141",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-141",
+            "globalId": "GID-86039",
+            "name": "Requirements"
+        },
+        "globalId": "GID-86039",
+        "id": 201168,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:21.000+0000",
+        "location": {
+            "globalSortOrder": 536969492,
+            "parent": {
+                "item": 201167
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:21.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:22.000+0000",
+        "documentKey": "REQTIFY-CMP-142",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-CMP-142",
+            "globalId": "GID-86040",
+            "name": "Requirements of Driver"
+        },
+        "globalId": "GID-86040",
+        "id": 201169,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:22.000+0000",
+        "location": {
+            "globalSortOrder": 536970565,
+            "parent": {
+                "item": 201168
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:22.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:23.000+0000",
+        "documentKey": "REQTIFY-CMP-143",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-143",
+            "globalId": "GID-86041",
+            "name": "複数車線"
+        },
+        "globalId": "GID-86041",
+        "id": 201170,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:23.000+0000",
+        "location": {
+            "globalSortOrder": 536971638,
+            "parent": {
+                "item": 201169
+            },
+            "sequence": "3.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:23.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:24.000+0000",
+        "documentKey": "REQTIFY-CMP-144",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-144",
+            "globalId": "GID-86042",
+            "name": "-"
+        },
+        "globalId": "GID-86042",
+        "id": 201171,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:24.000+0000",
+        "location": {
+            "globalSortOrder": 536972711,
+            "parent": {
+                "item": 201170
+            },
+            "sequence": "3.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:24.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:24.000+0000",
+        "documentKey": "REQTIFY-CMP-145",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-145",
+            "globalId": "GID-86043",
+            "name": "LCA-1"
+        },
+        "globalId": "GID-86043",
+        "id": 201172,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:24.000+0000",
+        "location": {
+            "globalSortOrder": 536973784,
+            "parent": {
+                "item": 201171
+            },
+            "sequence": "3.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:24.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:25.000+0000",
+        "documentKey": "REQTIFY-CMP-146",
+        "fields": {
+            "documentKey": "REQTIFY-CMP-146",
+            "globalId": "GID-86044",
+            "name": "基本シナリオ"
+        },
+        "globalId": "GID-86044",
+        "id": 201173,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-26T07:04:25.000+0000",
+        "location": {
+            "globalSortOrder": 536974857,
+            "parent": {
+                "item": 201172
+            },
+            "sequence": "3.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:25.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 33,
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:26.000+0000",
+        "documentKey": "REQTIFY-SET-63",
+        "fields": {
+            "documentKey": "REQTIFY-SET-63",
+            "globalId": "GID-86045",
+            "name": "Automotive Hazards",
+            "setKey": "AHZD"
+        },
+        "globalId": "GID-86045",
+        "id": 201174,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-26T07:04:26.000+0000",
+        "location": {
+            "globalSortOrder": 536975930,
+            "parent": {
+                "item": 201173
+            },
+            "sequence": "3.1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:26.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:27.000+0000",
+        "documentKey": "REQTIFY-TXT-109",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-109",
+            "globalId": "GID-86047",
+            "name": "test"
+        },
+        "globalId": "GID-86047",
+        "id": 201176,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:04:27.000+0000",
+        "location": {
+            "globalSortOrder": 536977003,
+            "parent": {
+                "item": 201174
+            },
+            "sequence": "3.1.1.1.1.1.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:27.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:28.000+0000",
+        "documentKey": "REQTIFY-TXT-110",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-110",
+            "globalId": "GID-86049",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86049",
+        "id": 201178,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:04:28.000+0000",
+        "location": {
+            "globalSortOrder": 536978076,
+            "parent": {
+                "item": 201174
+            },
+            "sequence": "3.1.1.1.1.1.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:28.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:28.000+0000",
+        "documentKey": "REQTIFY-TXT-112",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-112",
+            "globalId": "GID-86052",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86052",
+        "id": 201181,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:04:28.000+0000",
+        "location": {
+            "globalSortOrder": 536979149,
+            "parent": {
+                "item": 201174
+            },
+            "sequence": "3.1.1.1.1.1.1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:28.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:29.000+0000",
+        "documentKey": "REQTIFY-TXT-114",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-114",
+            "globalId": "GID-86054",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86054",
+        "id": 201183,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:04:29.000+0000",
+        "location": {
+            "globalSortOrder": 536980222,
+            "parent": {
+                "item": 201174
+            },
+            "sequence": "3.1.1.1.1.1.1.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:29.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 150,
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:27.000+0000",
+        "documentKey": "REQTIFY-SET-64",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SET-64",
+            "globalId": "GID-86046",
+            "name": "smartfacts",
+            "setKey": "SF"
+        },
+        "globalId": "GID-86046",
+        "id": 201175,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-26T07:04:27.000+0000",
+        "location": {
+            "globalSortOrder": 536981295,
+            "parent": {
+                "item": 201173
+            },
+            "sequence": "3.1.1.1.1.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:27.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:27.000+0000",
+        "documentKey": "REQTIFY-SF-54",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SF-54",
+            "globalId": "GID-86048",
+            "name": "tet"
+        },
+        "globalId": "GID-86048",
+        "id": 201177,
+        "itemType": 150,
+        "lastActivityDate": "2025-05-26T07:04:27.000+0000",
+        "location": {
+            "globalSortOrder": 536982368,
+            "parent": {
+                "item": 201175
+            },
+            "sequence": "3.1.1.1.1.1.1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:27.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:28.000+0000",
+        "documentKey": "REQTIFY-TXT-111",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-111",
+            "globalId": "GID-86051",
+            "name": "Duplicate of test"
+        },
+        "globalId": "GID-86051",
+        "id": 201180,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:04:28.000+0000",
+        "location": {
+            "globalSortOrder": 536983441,
+            "parent": {
+                "item": 201177
+            },
+            "sequence": "3.1.1.1.1.1.1.2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:28.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:28.000+0000",
+        "documentKey": "REQTIFY-SF-55",
+        "fields": {
+            "description": "",
+            "documentKey": "REQTIFY-SF-55",
+            "globalId": "GID-86050",
+            "name": "tet"
+        },
+        "globalId": "GID-86050",
+        "id": 201179,
+        "itemType": 150,
+        "lastActivityDate": "2025-05-26T07:04:28.000+0000",
+        "location": {
+            "globalSortOrder": 536984514,
+            "parent": {
+                "item": 201175
+            },
+            "sequence": "3.1.1.1.1.1.1.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:28.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 25,
+        "createdDate": "2025-05-26T07:04:29.000+0000",
+        "documentKey": "REQTIFY-TXT-113",
+        "fields": {
+            "documentKey": "REQTIFY-TXT-113",
+            "globalId": "GID-86053",
+            "name": "test"
+        },
+        "globalId": "GID-86053",
+        "id": 201182,
+        "itemType": 33,
+        "lastActivityDate": "2025-05-26T07:04:29.000+0000",
+        "location": {
+            "globalSortOrder": 1342234080,
+            "parent": {
+                "item": 201179
+            },
+            "sequence": "3.1.1.1.1.1.1.2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 25,
+        "modifiedDate": "2025-05-26T07:04:29.000+0000",
+        "project": 147,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

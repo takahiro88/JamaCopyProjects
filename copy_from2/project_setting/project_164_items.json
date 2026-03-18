@@ -1,0 +1,1245 @@
+[
+    {
+        "createdBy": 26,
+        "createdDate": "2025-05-27T06:33:48.000+0000",
+        "documentKey": "MS3-ATT-1",
+        "fields": {
+            "attachment": 1415,
+            "description": "reltest",
+            "globalId": "GID-86253",
+            "name": "DX-SYS_9d82546c-403b-48e7-9746-d1191bbf6ffc"
+        },
+        "fileName": "DX-Meta Data - DO NOT DELETE.zip",
+        "fileSize": 8959,
+        "globalId": "GID-86253",
+        "id": 201559,
+        "itemType": 22,
+        "lastActivityDate": "2025-05-27T07:11:04.000+0000",
+        "mimeType": "application/zip",
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T07:11:04.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 3
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-08-04T10:02:02.000+0000",
+        "documentKey": "MS3-ATT-2",
+        "fields": {
+            "attachment": 1434,
+            "description": "",
+            "globalId": "GID-86381",
+            "name": "rakugaki"
+        },
+        "fileName": "rakugaki.png",
+        "fileSize": 17296,
+        "globalId": "GID-86381",
+        "id": 201971,
+        "itemType": 22,
+        "lastActivityDate": "2025-08-04T10:03:55.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 26,
+        "modifiedDate": "2025-08-04T10:03:55.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 3
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-12-12T07:51:56.000+0000",
+        "documentKey": "MS3-CMP-13",
+        "fields": {
+            "documentKey": "MS3-CMP-13",
+            "globalId": "GID-83961",
+            "name": "Relationship reuse test"
+        },
+        "globalId": "GID-83961",
+        "id": 198419,
+        "itemType": 30,
+        "lastActivityDate": "2025-07-22T23:23:10.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 164
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-12-12T07:51:56.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 149,
+        "createdBy": 26,
+        "createdDate": "2024-12-12T07:51:56.000+0000",
+        "documentKey": "MS3-SET-19",
+        "fields": {
+            "documentKey": "MS3-SET-19",
+            "globalId": "GID-83962",
+            "name": "MSReqs2",
+            "setKey": "MSR2"
+        },
+        "globalId": "GID-83962",
+        "id": 198420,
+        "itemType": 31,
+        "lastActivityDate": "2025-07-22T23:24:05.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 198419
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-12-12T07:51:56.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-12-12T07:51:56.000+0000",
+        "documentKey": "MS3-MSR2-18",
+        "fields": {
+            "documentKey": "MS3-MSR2-18",
+            "fruit$149": 626,
+            "globalId": "GID-83963",
+            "name": "Requirement A",
+            "status": 292
+        },
+        "globalId": "GID-83963",
+        "id": 198421,
+        "itemType": 149,
+        "lastActivityDate": "2025-07-22T23:26:24.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 198420
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-12-12T07:51:56.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-12-12T07:51:56.000+0000",
+        "documentKey": "MS3-MSR2-19",
+        "fields": {
+            "documentKey": "MS3-MSR2-19",
+            "fruit$149": 626,
+            "globalId": "GID-84641",
+            "name": "Requirement B",
+            "status": 292
+        },
+        "globalId": "GID-84641",
+        "id": 198422,
+        "itemType": 149,
+        "lastActivityDate": "2025-07-22T23:33:38.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 198420
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-12-12T07:51:56.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-12-12T07:51:56.000+0000",
+        "documentKey": "MS3-MSR2-20",
+        "fields": {
+            "documentKey": "MS3-MSR2-20",
+            "fruit$149": 626,
+            "globalId": "GID-84642",
+            "name": "Requirement C",
+            "status": 292
+        },
+        "globalId": "GID-84642",
+        "id": 198423,
+        "itemType": 149,
+        "lastActivityDate": "2025-07-22T23:41:10.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 198420
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-12-12T07:51:56.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-05-27T05:01:00.000+0000",
+        "documentKey": "MS3-CMP-14",
+        "fields": {
+            "documentKey": "MS3-CMP-14",
+            "external_id$30": "_d4fa8d09-d16f-3009-8466-b308f96b316d",
+            "globalId": "GID-86148",
+            "name": "Data Exchange Trial"
+        },
+        "globalId": "GID-86148",
+        "id": 201344,
+        "itemType": 30,
+        "lastActivityDate": "2025-07-22T23:42:46.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "project": 164
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T06:33:47.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 148,
+        "createdBy": 26,
+        "createdDate": "2025-05-27T05:01:00.000+0000",
+        "documentKey": "MS3-SET-20",
+        "fields": {
+            "documentKey": "MS3-SET-20",
+            "exportid$31": "_ade1a6ae-10bd-3e90-b4e0-577a43f6d8d0",
+            "globalId": "GID-86149",
+            "name": "MSReqs for relationship test",
+            "setKey": "MSR"
+        },
+        "globalId": "GID-86149",
+        "id": 201345,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-27T06:33:46.000+0000",
+        "location": {
+            "globalSortOrder": 8583,
+            "parent": {
+                "item": 201344
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T06:33:46.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-05-27T05:01:01.000+0000",
+        "documentKey": "MS3-MSR-11",
+        "fields": {
+            "description": "relate to relitem1",
+            "documentKey": "MS3-MSR-11",
+            "external_id$148": "_9082bbd0-ccda-3401-abfe-0db3ed2f6187",
+            "fruit$148": 626,
+            "globalId": "GID-86150",
+            "name": "item1",
+            "status": 292
+        },
+        "globalId": "GID-86150",
+        "id": 201346,
+        "itemType": 148,
+        "lastActivityDate": "2025-05-27T06:33:47.000+0000",
+        "location": {
+            "globalSortOrder": 9656,
+            "parent": {
+                "item": 201345
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T06:33:47.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-05-27T05:01:01.000+0000",
+        "documentKey": "MS3-MSR-12",
+        "fields": {
+            "description": "relate to relitem2",
+            "documentKey": "MS3-MSR-12",
+            "external_id$148": "_b43bb52a-41f0-32e3-bb92-b28e302cf772",
+            "fruit$148": 626,
+            "globalId": "GID-86151",
+            "name": "item2",
+            "status": 292
+        },
+        "globalId": "GID-86151",
+        "id": 201347,
+        "itemType": 148,
+        "lastActivityDate": "2025-05-27T06:33:47.000+0000",
+        "location": {
+            "globalSortOrder": 10729,
+            "parent": {
+                "item": 201345
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T06:33:47.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-05-27T07:02:08.000+0000",
+        "documentKey": "MS3-MSR-13",
+        "fields": {
+            "documentKey": "MS3-MSR-13",
+            "external_id$148": "_ddcb064e-21e6-3934-8244-9d1adfe29f90",
+            "fruit$148": 626,
+            "globalId": "GID-86281",
+            "name": "item3",
+            "picks$148": [
+                631
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86281",
+        "id": 201618,
+        "itemType": 148,
+        "lastActivityDate": "2025-05-27T07:11:01.000+0000",
+        "location": {
+            "globalSortOrder": 11802,
+            "parent": {
+                "item": 201345
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T07:11:01.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 149,
+        "createdBy": 26,
+        "createdDate": "2025-05-27T07:02:24.000+0000",
+        "documentKey": "MS3-SET-21",
+        "fields": {
+            "documentKey": "MS3-SET-21",
+            "exportid$31": "_edc4be3c-1af0-31dc-a085-78668ff7cf73",
+            "globalId": "GID-86282",
+            "name": "MSReqs2",
+            "setKey": "MSR2"
+        },
+        "globalId": "GID-86282",
+        "id": 201619,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-27T07:11:01.000+0000",
+        "location": {
+            "globalSortOrder": 12875,
+            "parent": {
+                "item": 201344
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T07:11:01.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-05-27T07:02:35.000+0000",
+        "documentKey": "MS3-MSR2-21",
+        "fields": {
+            "documentKey": "MS3-MSR2-21",
+            "external_id$149": "_0ac06522-9a8e-30df-a12b-826ed85d2a42",
+            "fruit$149": 626,
+            "globalId": "GID-86283",
+            "name": "relitem3",
+            "status": 292
+        },
+        "globalId": "GID-86283",
+        "id": 201620,
+        "itemType": 149,
+        "lastActivityDate": "2025-05-27T07:11:01.000+0000",
+        "location": {
+            "globalSortOrder": 13948,
+            "parent": {
+                "item": 201619
+            },
+            "sequence": "2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-05-27T07:11:01.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-07-03T08:35:31.000+0000",
+        "documentKey": "MS3-CMP-15",
+        "fields": {
+            "documentKey": "MS3-CMP-15",
+            "globalId": "GID-86348",
+            "name": "baseline revert test"
+        },
+        "globalId": "GID-86348",
+        "id": 201854,
+        "itemType": 30,
+        "lastActivityDate": "2025-07-03T08:35:31.000+0000",
+        "location": {
+            "globalSortOrder": 15021,
+            "parent": {
+                "project": 164
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-03T08:35:31.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 148,
+        "createdBy": 26,
+        "createdDate": "2025-07-03T08:35:31.000+0000",
+        "documentKey": "MS3-SET-22",
+        "fields": {
+            "documentKey": "MS3-SET-22",
+            "globalId": "GID-86344",
+            "name": "MSReqs",
+            "setKey": "MSR"
+        },
+        "globalId": "GID-86344",
+        "id": 201855,
+        "itemType": 31,
+        "lastActivityDate": "2025-07-03T08:35:31.000+0000",
+        "location": {
+            "globalSortOrder": 16094,
+            "parent": {
+                "item": 201854
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-03T08:35:31.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-07-03T08:35:31.000+0000",
+        "documentKey": "MS3-MSR-14",
+        "fields": {
+            "description": "<p>これはMSReqの要求です</p>\n",
+            "documentKey": "MS3-MSR-14",
+            "fruit$148": 627,
+            "globalId": "GID-86345",
+            "lockedBy": 26,
+            "name": "req111",
+            "picks$148": [
+                631
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86345",
+        "id": 201856,
+        "itemType": 148,
+        "lastActivityDate": "2025-08-01T04:14:11.000+0000",
+        "location": {
+            "globalSortOrder": 17167,
+            "parent": {
+                "item": 201855
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-01T04:14:13.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-08-01T04:14:11.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 149,
+        "createdBy": 26,
+        "createdDate": "2025-07-03T08:35:31.000+0000",
+        "documentKey": "MS3-SET-23",
+        "fields": {
+            "documentKey": "MS3-SET-23",
+            "globalId": "GID-86346",
+            "name": "MSReqs2",
+            "setKey": "MSR2"
+        },
+        "globalId": "GID-86346",
+        "id": 201857,
+        "itemType": 31,
+        "lastActivityDate": "2025-07-03T08:35:31.000+0000",
+        "location": {
+            "globalSortOrder": 18240,
+            "parent": {
+                "item": 201854
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-03T08:35:31.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-07-03T08:35:31.000+0000",
+        "documentKey": "MS3-MSR2-22",
+        "fields": {
+            "documentKey": "MS3-MSR2-22",
+            "fruit$149": 626,
+            "globalId": "GID-86347",
+            "name": "req211",
+            "status": 292
+        },
+        "globalId": "GID-86347",
+        "id": 201858,
+        "itemType": 149,
+        "lastActivityDate": "2025-07-03T08:35:31.000+0000",
+        "location": {
+            "globalSortOrder": 19313,
+            "parent": {
+                "item": 201857
+            },
+            "sequence": "3.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-03T08:35:31.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-07-29T23:09:53.000+0000",
+        "documentKey": "MS3-CMP-16",
+        "fields": {
+            "documentKey": "MS3-CMP-16",
+            "globalId": "GID-86351",
+            "name": "Relationship import test"
+        },
+        "globalId": "GID-86351",
+        "id": 201921,
+        "itemType": 30,
+        "lastActivityDate": "2025-07-29T23:09:53.000+0000",
+        "location": {
+            "globalSortOrder": 20386,
+            "parent": {
+                "project": 164
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-29T23:09:53.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 148,
+        "createdBy": 26,
+        "createdDate": "2025-07-29T23:10:12.000+0000",
+        "documentKey": "MS3-SET-24",
+        "fields": {
+            "documentKey": "MS3-SET-24",
+            "globalId": "GID-86352",
+            "name": "MSReqs",
+            "setKey": "MSR"
+        },
+        "globalId": "GID-86352",
+        "id": 201922,
+        "itemType": 31,
+        "lastActivityDate": "2025-07-29T23:10:12.000+0000",
+        "location": {
+            "globalSortOrder": 21459,
+            "parent": {
+                "item": 201921
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-29T23:10:12.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-07-29T23:10:23.000+0000",
+        "documentKey": "MS3-MSR-15",
+        "fields": {
+            "documentKey": "MS3-MSR-15",
+            "fruit$148": 626,
+            "globalId": "GID-86353",
+            "lockedBy": 26,
+            "name": "MSreq1",
+            "picks$148": [
+                631
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86353",
+        "id": 201923,
+        "itemType": 148,
+        "lastActivityDate": "2025-08-04T10:02:03.000+0000",
+        "location": {
+            "globalSortOrder": 22532,
+            "parent": {
+                "item": 201922
+            },
+            "sequence": "4.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-08-04T10:04:06.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-07-29T23:10:23.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-08-19T04:58:30.000+0000",
+        "documentKey": "MS3-CMP-17",
+        "fields": {
+            "documentKey": "MS3-CMP-17",
+            "globalId": "GID-86463",
+            "name": "aaa"
+        },
+        "globalId": "GID-86463",
+        "id": 202138,
+        "itemType": 30,
+        "lastActivityDate": "2025-08-19T04:58:30.000+0000",
+        "location": {
+            "globalSortOrder": 1073753089,
+            "parent": {
+                "project": 164
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-08-19T04:58:30.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:28:56.000+0000",
+        "documentKey": "MS3-CMP-18",
+        "fields": {
+            "documentKey": "MS3-CMP-18",
+            "globalId": "GID-87007",
+            "name": "Change Set Key Test"
+        },
+        "globalId": "GID-87007",
+        "id": 203330,
+        "itemType": 30,
+        "lastActivityDate": "2025-11-20T00:43:26.000+0000",
+        "location": {
+            "globalSortOrder": 2107303755,
+            "parent": {
+                "project": 164
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:28:56.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 156,
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:29:35.000+0000",
+        "documentKey": "MS3-SET-25",
+        "fields": {
+            "documentKey": "MS3-SET-25",
+            "globalId": "GID-87008",
+            "name": "MSReqs3",
+            "setKey": "MSR3TEST"
+        },
+        "globalId": "GID-87008",
+        "id": 203331,
+        "itemType": 31,
+        "lastActivityDate": "2025-11-20T00:43:26.000+0000",
+        "location": {
+            "globalSortOrder": 2107304828,
+            "parent": {
+                "item": 203330
+            },
+            "sequence": "6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:31:36.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:29:49.000+0000",
+        "documentKey": "MS3-MSR3TEST-1",
+        "fields": {
+            "documentKey": "MS3-MSR3TEST-1",
+            "globalId": "GID-87009",
+            "name": "item 1",
+            "status": 292,
+            "test_status$156": 617
+        },
+        "globalId": "GID-87009",
+        "id": 203332,
+        "itemType": 156,
+        "lastActivityDate": "2025-11-20T00:44:23.000+0000",
+        "location": {
+            "globalSortOrder": 2107305901,
+            "parent": {
+                "item": 203331
+            },
+            "sequence": "6.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:29:49.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:30:13.000+0000",
+        "documentKey": "MS3-TXT-2",
+        "fields": {
+            "documentKey": "MS3-TXT-2",
+            "globalId": "GID-87010",
+            "name": "text item 1"
+        },
+        "globalId": "GID-87010",
+        "id": 203333,
+        "itemType": 33,
+        "lastActivityDate": "2025-11-20T00:44:15.000+0000",
+        "location": {
+            "globalSortOrder": 2107306974,
+            "parent": {
+                "item": 203332
+            },
+            "sequence": "6.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:30:13.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:30:35.000+0000",
+        "documentKey": "MS3-TXT-1",
+        "fields": {
+            "documentKey": "MS3-TXT-1",
+            "globalId": "GID-87011",
+            "name": "text item 2"
+        },
+        "globalId": "GID-87011",
+        "id": 203334,
+        "itemType": 33,
+        "lastActivityDate": "2025-11-20T00:44:23.000+0000",
+        "location": {
+            "globalSortOrder": 2107308047,
+            "parent": {
+                "item": 203331
+            },
+            "sequence": "6.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:30:35.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 156,
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:32:50.000+0000",
+        "documentKey": "MS3-SET-26",
+        "fields": {
+            "documentKey": "MS3-SET-26",
+            "globalId": "GID-87013",
+            "name": "MSReqs3",
+            "setKey": "MSR3"
+        },
+        "globalId": "GID-87013",
+        "id": 203336,
+        "itemType": 31,
+        "lastActivityDate": "2025-11-20T00:43:26.000+0000",
+        "location": {
+            "globalSortOrder": 2107310193,
+            "parent": {
+                "item": 203330
+            },
+            "sequence": "6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:32:50.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2025-11-20T00:33:06.000+0000",
+        "documentKey": "MS3-MSR3-4",
+        "fields": {
+            "documentKey": "MS3-MSR3-4",
+            "globalId": "GID-87014",
+            "name": "item 3",
+            "status": 292,
+            "test_status$156": 617
+        },
+        "globalId": "GID-87014",
+        "id": 203337,
+        "itemType": 156,
+        "lastActivityDate": "2025-11-20T00:43:26.000+0000",
+        "location": {
+            "globalSortOrder": 2127396920,
+            "parent": {
+                "item": 203336
+            },
+            "sequence": "6.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2025-11-20T00:33:06.000+0000",
+        "project": 164,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

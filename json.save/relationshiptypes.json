@@ -1,0 +1,74 @@
+[
+    {
+        "id": 4,
+        "isDefault": false,
+        "name": "Related to",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 5,
+        "isDefault": false,
+        "name": "Dependent on",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 6,
+        "isDefault": false,
+        "name": "Derived from",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 8,
+        "isDefault": false,
+        "name": "Verified by",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 9,
+        "isDefault": false,
+        "name": "Mitigated by",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 10,
+        "isDefault": false,
+        "name": "Caused by",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 11,
+        "isDefault": false,
+        "name": "Allocated to",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 12,
+        "isDefault": false,
+        "name": "Validated By",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 13,
+        "isDefault": false,
+        "name": "Verified By",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 14,
+        "isDefault": false,
+        "name": "Satisfied By",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 15,
+        "isDefault": true,
+        "name": "Parent",
+        "type": "relationshiptypes"
+    },
+    {
+        "id": 16,
+        "isDefault": false,
+        "name": "Change Request",
+        "type": "relationshiptypes"
+    }
+]

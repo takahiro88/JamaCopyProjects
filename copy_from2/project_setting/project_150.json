@@ -1,0 +1,17 @@
+{
+    "createdBy": 14,
+    "createdDate": "2023-09-28T14:01:53.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Software",
+        "projectGroup": 296,
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 150,
+    "isFolder": true,
+    "modifiedBy": 14,
+    "modifiedDate": "2023-09-28T14:01:53.000+0000",
+    "parent": 148,
+    "type": "projects"
+}

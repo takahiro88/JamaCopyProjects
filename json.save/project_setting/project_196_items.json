@@ -1,0 +1,982 @@
+[
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-CMP-15",
+        "fields": {
+            "documentKey": "MS56-CMP-15",
+            "external_id$30": "_d4fa8d09-d16f-3009-8466-b308f96b316d",
+            "globalId": "GID-86259",
+            "name": "Data Exchange Trial"
+        },
+        "globalId": "GID-86259",
+        "id": 203300,
+        "itemType": 30,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 196
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 148,
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-SET-22",
+        "fields": {
+            "documentKey": "MS56-SET-22",
+            "exportid$31": "_ade1a6ae-10bd-3e90-b4e0-577a43f6d8d0",
+            "globalId": "GID-86260",
+            "name": "MSReqs for relationship test",
+            "setKey": "MSR"
+        },
+        "globalId": "GID-86260",
+        "id": 203301,
+        "itemType": 31,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 203300
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-15",
+        "fields": {
+            "description": "relate to relitem1",
+            "documentKey": "MS56-MSR-15",
+            "external_id$148": "_9082bbd0-ccda-3401-abfe-0db3ed2f6187",
+            "fruit$148": 626,
+            "globalId": "GID-86261",
+            "name": "item1",
+            "status": 292
+        },
+        "globalId": "GID-86261",
+        "id": 203302,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 203301
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-16",
+        "fields": {
+            "description": "relate to relitem2",
+            "documentKey": "MS56-MSR-16",
+            "external_id$148": "_b43bb52a-41f0-32e3-bb92-b28e302cf772",
+            "fruit$148": 626,
+            "globalId": "GID-86262",
+            "name": "item2",
+            "status": 292
+        },
+        "globalId": "GID-86262",
+        "id": 203303,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 203301
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-27",
+        "fields": {
+            "documentKey": "MS56-MSR-27",
+            "external_id$148": "_ddcb064e-21e6-3934-8244-9d1adfe29f90",
+            "fruit$148": 626,
+            "globalId": "GID-86285",
+            "name": "item3",
+            "picks$148": [
+                631
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86285",
+        "id": 203304,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 203301
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 149,
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-SET-25",
+        "fields": {
+            "documentKey": "MS56-SET-25",
+            "exportid$31": "_edc4be3c-1af0-31dc-a085-78668ff7cf73",
+            "globalId": "GID-86284",
+            "name": "MSReqs2",
+            "setKey": "MSR2"
+        },
+        "globalId": "GID-86284",
+        "id": 203305,
+        "itemType": 31,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "item": 203300
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR2-23",
+        "fields": {
+            "documentKey": "MS56-MSR2-23",
+            "external_id$149": "_0ac06522-9a8e-30df-a12b-826ed85d2a42",
+            "fruit$149": 626,
+            "globalId": "GID-86286",
+            "name": "relitem3",
+            "status": 292
+        },
+        "globalId": "GID-86286",
+        "id": 203306,
+        "itemType": 149,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 8583,
+            "parent": {
+                "item": 203305
+            },
+            "sequence": "1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-CMP-16",
+        "fields": {
+            "description": "",
+            "documentKey": "MS56-CMP-16",
+            "external_id$30": "_7c7a62da-24be-39fb-a6c4-13c4a59246c9",
+            "globalId": "GID-86266",
+            "name": "Picks"
+        },
+        "globalId": "GID-86266",
+        "id": 203307,
+        "itemType": 30,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 9656,
+            "parent": {
+                "project": 196
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 148,
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-SET-23",
+        "fields": {
+            "description": "",
+            "documentKey": "MS56-SET-23",
+            "exportid$31": "_4176f962-6e78-3dff-9681-80ac2a63e63f",
+            "globalId": "GID-86267",
+            "name": "MSReqs",
+            "setKey": "MSR"
+        },
+        "globalId": "GID-86267",
+        "id": 203308,
+        "itemType": 31,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 10729,
+            "parent": {
+                "item": 203307
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-17",
+        "fields": {
+            "description": "<p><img alt=\"\" height=\"225\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/1413/Diagram_767_943.png\" width=\"215\" /></p>\n\n<p>これは何の図でしょう</p>\n\n<p>図がおもしろくないですね。もう少し工夫しましょう</p>\n",
+            "documentKey": "MS56-MSR-17",
+            "external_id$148": "_3fad1b36-77bb-391f-9cf1-e9c9a371b110",
+            "fruit$148": 626,
+            "globalId": "GID-86269",
+            "name": "a",
+            "picks$148": [
+                631
+            ],
+            "risk__ptotal$148": 676,
+            "risk__severity$148": 680,
+            "risk_score$148": "686",
+            "status": 292
+        },
+        "globalId": "GID-86269",
+        "id": 203309,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 11802,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-18",
+        "fields": {
+            "description": "<p>modified</p>\n",
+            "documentKey": "MS56-MSR-18",
+            "external_id$148": "_9d57545a-4407-3607-b74d-01a37800f47a",
+            "fruit$148": 627,
+            "globalId": "GID-86271",
+            "name": "b",
+            "picks$148": [
+                632
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86271",
+        "id": 203310,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 12875,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-19",
+        "fields": {
+            "description": "cの要件はこれです",
+            "documentKey": "MS56-MSR-19",
+            "external_id$148": "_934b9644-11b0-328c-bb2f-cf5d9a8c789f",
+            "fruit$148": 628,
+            "globalId": "GID-86273",
+            "name": "c",
+            "picks$148": [
+                633
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86273",
+        "id": 203311,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 13948,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-20",
+        "fields": {
+            "description": "<h1>関数</h1>\n\n<pre>VD ad(VD)</pre>\n\n<h1>入力</h1>\n\n<p>\"-\"で省略している項目は、ｂｂｂを参照。</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">種別</th>\n\t\t\t<th scope=\"col\">入出力兼用</th>\n\t\t\t<th scope=\"col\">項目</th>\n\t\t\t<th scope=\"col\">識別子</th>\n\t\t\t<th scope=\"col\">型</th>\n\t\t\t<th scope=\"col\">備考</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\">あいうえおかきくけこさしすせそ</td>\n\t\t\t<td colspan=\"1\">NO</td>\n\t\t\t<td>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\">たちつてとなにぬねのはひふへほ</td>\n\t\t\t<td colspan=\"1\">NO</td>\n\t\t\t<td>OPQRSTUVWXYZ１２３４５６７８９０１２３４５</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t</tbody>\n</table>\n\n<h1>出力</h1>\n\n<p>\"-\"で省略している項目は、ｂｂｂを参照。</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\" style=\"width:75%\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">種別</th>\n\t\t\t<th scope=\"col\">入出力兼用</th>\n\t\t\t<th scope=\"col\">項目</th>\n\t\t\t<th scope=\"col\">識別子</th>\n\t\t\t<th scope=\"col\">型</th>\n\t\t\t<th scope=\"col\">備考</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"1\">まみむめもやゆよらりるれろわをんあいうえおかきくけこさしすせそ</td>\n\t\t\t<td colspan=\"1\" rowspan=\"1\">NO</td>\n\t\t\t<td>１２３４５６７８９０１２３４５</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t</thead>\n</table>\n\n<h1>処理</h1>\n\n<h2>概要</h2>\n\n<p>仕向けを出力する。</p>\n\n<h2>出力処理</h2>\n\n<p>下表に基づき出力:[仕向け国]に値を設定する。空セルは任意の値を意味する。</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th colspan=\"2\" rowspan=\"1\" scope=\"col\">条件</th>\n\t\t\t<th scope=\"col\">出力</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"col\">入力:[]</th>\n\t\t\t<th scope=\"col\">入力:[]</th>\n\t\t\t<th scope=\"col\">出力:[仕向け国]</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>システムバリ_日本</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_日本</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_北米</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_北米</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_中国/オーストラリア/ニュージーランド</td>\n\t\t\t<td>DCMあり緊急通報なし</td>\n\t\t\t<td>仕向け国_中国/オーストラリア</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_中国/オーストラリア/ニュージーランド</td>\n\t\t\t<td>緊急通報あり</td>\n\t\t\t<td>仕向け国_中国/オーストラリア</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_中国/オーストラリア/ニュージーランド</td>\n\t\t\t<td>DCMなし</td>\n\t\t\t<td>仕向け国_ニュージーランド</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_欧州</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_欧州</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(システムバリ_日本、システムバリ_北米、</p>\n\n\t\t\t<p>システムバリ_中国/オーストラリア/ニュージーランド、</p>\n\n\t\t\t<p>システムバリ_欧州)以外</p>\n\t\t\t</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_EDSSなしの国・地域</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+            "documentKey": "MS56-MSR-20",
+            "external_id$148": "_e9100a8f-28a8-341d-866e-9b6df4496cdb",
+            "fruit$148": 627,
+            "globalId": "GID-86274",
+            "name": "ad",
+            "picks$148": [
+                631,
+                634
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86274",
+        "id": 203312,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 15021,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-21",
+        "fields": {
+            "description": "dはadの下に作りたかったですができませんでした",
+            "documentKey": "MS56-MSR-21",
+            "external_id$148": "_2c403c26-55a8-38d2-919e-3e2f8b6f2c2c",
+            "fruit$148": 626,
+            "globalId": "GID-86275",
+            "name": "d",
+            "status": 292
+        },
+        "globalId": "GID-86275",
+        "id": 203313,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 16094,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-22",
+        "fields": {
+            "description": " eをdの下に作るためにスペースを入れましたがスペースではだめでした",
+            "documentKey": "MS56-MSR-22",
+            "external_id$148": "_c8950dc5-fe26-3424-b124-f981e2d4dbf5",
+            "fruit$148": 626,
+            "globalId": "GID-86276",
+            "name": "e",
+            "status": 292
+        },
+        "globalId": "GID-86276",
+        "id": 203314,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 17167,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-24",
+        "fields": {
+            "description": "fをeの下に作るためにインデントしました",
+            "documentKey": "MS56-MSR-24",
+            "external_id$148": "_486f36c7-038a-3181-b175-d7991963e265",
+            "fruit$148": 626,
+            "globalId": "GID-86278",
+            "name": "f",
+            "status": 292
+        },
+        "globalId": "GID-86278",
+        "id": 203315,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 18240,
+            "parent": {
+                "item": 203314
+            },
+            "sequence": "2.1.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:29.000+0000",
+        "documentKey": "MS56-MSR-23",
+        "fields": {
+            "description": "gはPicksを複数設定します",
+            "documentKey": "MS56-MSR-23",
+            "external_id$148": "_ea04d483-704a-3ee5-a386-6a445a3bc9fc",
+            "fruit$148": 626,
+            "globalId": "GID-86277",
+            "name": "g",
+            "picks$148": [
+                632,
+                635
+            ],
+            "status": 292
+        },
+        "globalId": "GID-86277",
+        "id": 203316,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:29.000+0000",
+        "location": {
+            "globalSortOrder": 19313,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:29.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:30.000+0000",
+        "documentKey": "MS56-MSR-26",
+        "fields": {
+            "description": "hをｇの下に作ります",
+            "documentKey": "MS56-MSR-26",
+            "external_id$148": "_e89c659b-8757-38d4-b781-ba054b675d3d",
+            "fruit$148": 626,
+            "globalId": "GID-86280",
+            "name": "h",
+            "status": 292
+        },
+        "globalId": "GID-86280",
+        "id": 203317,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:30.000+0000",
+        "location": {
+            "globalSortOrder": 20386,
+            "parent": {
+                "item": 203316
+            },
+            "sequence": "2.1.7.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:30.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:30.000+0000",
+        "documentKey": "MS56-MSR-25",
+        "fields": {
+            "documentKey": "MS56-MSR-25",
+            "external_id$148": "_de75487f-4f2a-3eaa-b740-606e2d359d76",
+            "fruit$148": 629,
+            "globalId": "GID-86279",
+            "name": "msreq item",
+            "status": 292
+        },
+        "globalId": "GID-86279",
+        "id": 203318,
+        "itemType": 148,
+        "lastActivityDate": "2025-10-21T05:22:30.000+0000",
+        "location": {
+            "globalSortOrder": 21459,
+            "parent": {
+                "item": 203308
+            },
+            "sequence": "2.1.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:30.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 149,
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:30.000+0000",
+        "documentKey": "MS56-SET-24",
+        "fields": {
+            "description": "",
+            "documentKey": "MS56-SET-24",
+            "exportid$31": "_1de22cbd-b55a-3b1f-8d85-70a2922f6225",
+            "globalId": "GID-86268",
+            "name": "MSReqs2",
+            "setKey": "MSR2"
+        },
+        "globalId": "GID-86268",
+        "id": 203319,
+        "itemType": 31,
+        "lastActivityDate": "2025-10-21T05:22:30.000+0000",
+        "location": {
+            "globalSortOrder": 22532,
+            "parent": {
+                "item": 203307
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:30.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:30.000+0000",
+        "documentKey": "MS56-MSR2-21",
+        "fields": {
+            "description": "<h1>関数</h1>\n\n<pre>VD ad(VD)</pre>\n\n<h1>入力</h1>\n\n<p>\"-\"で省略している項目は、ｂｂｂを参照。</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">種別</th>\n\t\t\t<th scope=\"col\">入出力兼用</th>\n\t\t\t<th scope=\"col\">項目</th>\n\t\t\t<th scope=\"col\">識別子</th>\n\t\t\t<th scope=\"col\">型</th>\n\t\t\t<th scope=\"col\">備考</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\">あいうえおかきくけこさしすせそ</td>\n\t\t\t<td colspan=\"1\">NO</td>\n\t\t\t<td>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\">たちつてとなにぬねのはひふへほ</td>\n\t\t\t<td colspan=\"1\">NO</td>\n\t\t\t<td>OPQRSTUVWXYZ１２３４５６７８９０１２３４５</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t</tbody>\n</table>\n\n<h1>出力</h1>\n\n<p>\"-\"で省略している項目は、ｂｂｂを参照。</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">種別</th>\n\t\t\t<th scope=\"col\">入出力兼用</th>\n\t\t\t<th scope=\"col\">項目</th>\n\t\t\t<th scope=\"col\">識別子</th>\n\t\t\t<th scope=\"col\">型</th>\n\t\t\t<th scope=\"col\">備考</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"1\">まみむめもやゆよらりるれろわをんあいうえおかきくけこさしすせそ</td>\n\t\t\t<td colspan=\"1\" rowspan=\"1\">NO</td>\n\t\t\t<td>１２３４５６７８９０１２３４５</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t</thead>\n</table>\n\n<h1>処理</h1>\n\n<h2>概要</h2>\n\n<p>仕向けを出力する。</p>\n\n<h2>出力処理</h2>\n\n<p>下表に基づき出力:[仕向け国]に値を設定する。空セルは任意の値を意味する。</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th colspan=\"2\" rowspan=\"1\" scope=\"col\">条件</th>\n\t\t\t<th scope=\"col\">出力</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"col\">入力:[]</th>\n\t\t\t<th scope=\"col\">入力:[]</th>\n\t\t\t<th scope=\"col\">出力:[仕向け国]</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>システムバリ_日本</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_日本</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_北米</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_北米</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_中国/オーストラリア/ニュージーランド</td>\n\t\t\t<td>DCMあり緊急通報なし</td>\n\t\t\t<td>仕向け国_中国/オーストラリア</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_中国/オーストラリア/ニュージーランド</td>\n\t\t\t<td>緊急通報あり</td>\n\t\t\t<td>仕向け国_中国/オーストラリア</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_中国/オーストラリア/ニュージーランド</td>\n\t\t\t<td>DCMなし</td>\n\t\t\t<td>仕向け国_ニュージーランド</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>システムバリ_欧州</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_欧州</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(システムバリ_日本、システムバリ_北米、</p>\n\n\t\t\t<p>システムバリ_中国/オーストラリア/ニュージーランド、</p>\n\n\t\t\t<p>システムバリ_欧州)以外</p>\n\t\t\t</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>仕向け国_EDSSなしの国・地域</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+            "documentKey": "MS56-MSR2-21",
+            "external_id$149": "_3e494a88-00a3-39d5-839a-8a3b28802281",
+            "fruit$149": 626,
+            "globalId": "GID-86270",
+            "name": "ad2",
+            "status": 292
+        },
+        "globalId": "GID-86270",
+        "id": 203320,
+        "itemType": 149,
+        "lastActivityDate": "2025-10-21T05:22:30.000+0000",
+        "location": {
+            "globalSortOrder": 23605,
+            "parent": {
+                "item": 203319
+            },
+            "sequence": "2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:30.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 32,
+        "createdDate": "2025-10-21T05:22:30.000+0000",
+        "documentKey": "MS56-MSR2-22",
+        "fields": {
+            "documentKey": "MS56-MSR2-22",
+            "external_id$149": "_0bdec366-f097-3b89-843f-3ae15883733d",
+            "fruit$149": 629,
+            "globalId": "GID-86272",
+            "name": "msreq2 item",
+            "status": 292
+        },
+        "globalId": "GID-86272",
+        "id": 203321,
+        "itemType": 149,
+        "lastActivityDate": "2025-10-21T05:22:30.000+0000",
+        "location": {
+            "globalSortOrder": 1073753626,
+            "parent": {
+                "item": 203319
+            },
+            "sequence": "2.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 32,
+        "modifiedDate": "2025-10-21T05:22:30.000+0000",
+        "project": 196,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "E39191",
+        "default": true,
+        "description": "",
+        "id": 348,
+        "name": "Mandatory",
+        "pickList": 119,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCC66",
+        "default": false,
+        "description": "",
+        "id": 349,
+        "name": "Desirable",
+        "pickList": 119,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFF66",
+        "default": false,
+        "description": "",
+        "id": 350,
+        "name": "Optional",
+        "pickList": 119,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

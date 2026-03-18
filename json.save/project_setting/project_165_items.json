@@ -1,0 +1,661 @@
+[
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:46:10.000+0000",
+        "documentKey": "YT-CMP-1",
+        "fields": {
+            "documentKey": "YT-CMP-1",
+            "globalId": "GID-83722",
+            "name": "サンプル1"
+        },
+        "globalId": "GID-83722",
+        "id": 196482,
+        "itemType": 30,
+        "lastActivityDate": "2024-08-09T08:46:10.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 165
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:46:10.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 157,
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:46:28.000+0000",
+        "documentKey": "YT-SET-1",
+        "fields": {
+            "documentKey": "YT-SET-1",
+            "globalId": "GID-83723",
+            "name": "A",
+            "setKey": "YTA"
+        },
+        "globalId": "GID-83723",
+        "id": 196483,
+        "itemType": 31,
+        "lastActivityDate": "2024-08-09T08:46:28.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 196482
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:46:28.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:46:57.000+0000",
+        "documentKey": "YT-YTA-1",
+        "fields": {
+            "documentKey": "YT-YTA-1",
+            "globalId": "GID-83725",
+            "name": "1",
+            "wf$157": 651
+        },
+        "globalId": "GID-83725",
+        "id": 196485,
+        "itemType": 157,
+        "lastActivityDate": "2024-08-09T08:50:58.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 196483
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:50:58.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:47:09.000+0000",
+        "documentKey": "YT-YTA-2",
+        "fields": {
+            "documentKey": "YT-YTA-2",
+            "globalId": "GID-83726",
+            "name": "2",
+            "wf$157": 650
+        },
+        "globalId": "GID-83726",
+        "id": 196486,
+        "itemType": 157,
+        "lastActivityDate": "2024-08-09T08:47:09.000+0000",
+        "location": {
+            "globalSortOrder": 536874130,
+            "parent": {
+                "item": 196483
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:47:09.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 158,
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:46:41.000+0000",
+        "documentKey": "YT-SET-2",
+        "fields": {
+            "documentKey": "YT-SET-2",
+            "globalId": "GID-83724",
+            "name": "B",
+            "setKey": "YTB"
+        },
+        "globalId": "GID-83724",
+        "id": 196484,
+        "itemType": 31,
+        "lastActivityDate": "2024-08-09T08:46:41.000+0000",
+        "location": {
+            "globalSortOrder": 536875203,
+            "parent": {
+                "item": 196482
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:46:41.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:47:22.000+0000",
+        "documentKey": "YT-YTB-1",
+        "fields": {
+            "documentKey": "YT-YTB-1",
+            "globalId": "GID-83727",
+            "name": "3"
+        },
+        "globalId": "GID-83727",
+        "id": 196487,
+        "itemType": 158,
+        "lastActivityDate": "2024-08-09T08:47:22.000+0000",
+        "location": {
+            "globalSortOrder": 536876276,
+            "parent": {
+                "item": 196484
+            },
+            "sequence": "1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:47:22.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-09T08:47:35.000+0000",
+        "documentKey": "YT-YTB-2",
+        "fields": {
+            "documentKey": "YT-YTB-2",
+            "globalId": "GID-83728",
+            "name": "4"
+        },
+        "globalId": "GID-83728",
+        "id": 196488,
+        "itemType": 158,
+        "lastActivityDate": "2024-08-09T08:47:35.000+0000",
+        "location": {
+            "globalSortOrder": 536877349,
+            "parent": {
+                "item": 196484
+            },
+            "sequence": "1.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-09T08:47:35.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 36,
+        "createdDate": "2024-08-23T05:34:23.000+0000",
+        "documentKey": "YT-SET-3",
+        "fields": {
+            "documentKey": "YT-SET-3",
+            "globalId": "GID-83729",
+            "name": "System Requirements",
+            "setKey": "SREQ"
+        },
+        "globalId": "GID-83729",
+        "id": 196492,
+        "itemType": 31,
+        "lastActivityDate": "2024-08-23T05:34:23.000+0000",
+        "location": {
+            "globalSortOrder": 536878422,
+            "parent": {
+                "project": 165
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-23T05:34:23.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-23T05:34:51.000+0000",
+        "documentKey": "YT-SREQ-1",
+        "fields": {
+            "documentKey": "YT-SREQ-1",
+            "globalId": "GID-83730",
+            "name": "test1",
+            "status": 292
+        },
+        "globalId": "GID-83730",
+        "id": 196493,
+        "itemType": 86,
+        "lastActivityDate": "2024-08-23T05:34:51.000+0000",
+        "location": {
+            "globalSortOrder": 536879495,
+            "parent": {
+                "item": 196492
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-23T05:34:51.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 118,
+        "createdBy": 36,
+        "createdDate": "2024-08-23T05:35:18.000+0000",
+        "documentKey": "YT-SET-4",
+        "fields": {
+            "documentKey": "YT-SET-4",
+            "globalId": "GID-83731",
+            "name": "System Requirements",
+            "setKey": "L1"
+        },
+        "globalId": "GID-83731",
+        "id": 196494,
+        "itemType": 31,
+        "lastActivityDate": "2024-08-23T05:35:18.000+0000",
+        "location": {
+            "globalSortOrder": 536880568,
+            "parent": {
+                "project": 165
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-23T05:35:18.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-23T05:35:36.000+0000",
+        "documentKey": "YT-L1-1",
+        "fields": {
+            "documentKey": "YT-L1-1",
+            "globalId": "GID-83732",
+            "key_driving_requirement$118": false,
+            "name": "test2"
+        },
+        "globalId": "GID-83732",
+        "id": 196495,
+        "itemType": 118,
+        "lastActivityDate": "2024-08-23T05:35:36.000+0000",
+        "location": {
+            "globalSortOrder": 536881641,
+            "parent": {
+                "item": 196494
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-23T05:35:36.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 157,
+        "createdBy": 36,
+        "createdDate": "2024-08-23T05:36:43.000+0000",
+        "documentKey": "YT-SET-5",
+        "fields": {
+            "documentKey": "YT-SET-5",
+            "globalId": "GID-83733",
+            "name": "TakeA",
+            "setKey": "YTA"
+        },
+        "globalId": "GID-83733",
+        "id": 196496,
+        "itemType": 31,
+        "lastActivityDate": "2024-08-23T05:36:43.000+0000",
+        "location": {
+            "globalSortOrder": 536882714,
+            "parent": {
+                "project": 165
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-23T05:36:43.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 36,
+        "createdDate": "2024-08-23T05:36:58.000+0000",
+        "documentKey": "YT-YTA-3",
+        "fields": {
+            "documentKey": "YT-YTA-3",
+            "globalId": "GID-83734",
+            "name": "a",
+            "wf$157": 650
+        },
+        "globalId": "GID-83734",
+        "id": 196497,
+        "itemType": 157,
+        "lastActivityDate": "2024-08-23T05:36:58.000+0000",
+        "location": {
+            "globalSortOrder": 536883787,
+            "parent": {
+                "item": 196496
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 36,
+        "modifiedDate": "2024-08-23T05:36:58.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-02-23T06:33:02.000+0000",
+        "documentKey": "YT-CMP-2",
+        "fields": {
+            "documentKey": "YT-CMP-2",
+            "globalId": "GID-84725",
+            "name": "ImportTst"
+        },
+        "globalId": "GID-84725",
+        "id": 198615,
+        "itemType": 30,
+        "lastActivityDate": "2025-02-23T06:33:02.000+0000",
+        "location": {
+            "globalSortOrder": 536884860,
+            "parent": {
+                "project": 165
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-02-23T06:33:02.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 158,
+        "createdBy": 14,
+        "createdDate": "2025-02-23T12:44:58.000+0000",
+        "documentKey": "YT-SET-6",
+        "fields": {
+            "documentKey": "YT-SET-6",
+            "globalId": "GID-84726",
+            "name": "TakeB",
+            "setKey": "YTB"
+        },
+        "globalId": "GID-84726",
+        "id": 198616,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-23T12:44:58.000+0000",
+        "location": {
+            "globalSortOrder": 536885933,
+            "parent": {
+                "item": 198615
+            },
+            "sequence": "5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-02-23T12:44:58.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-02-23T12:45:17.000+0000",
+        "documentKey": "YT-YTB-3",
+        "fields": {
+            "description": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\" style=\"border-collapse:collapse; width:500px\">\n\t<tbody><tr><td style=\"background-color:#000000;\">要件1</td><td style=\"background-color:#000000;\"></td><td style=\"background-color:#000000;\">内容</td></tr><tr><td style=\"background-color:#000000;\">理由</td><td style=\"background-color:#000000;\"></td><td style=\"background-color:#000000;\">制動力を高める。</td></tr><tr><td style=\"background-color:#000000;\"></td><td style=\"background-color:#000000;\"></td><td style=\"background-color:#000000;\">を判定し、最終的な嵩上げ減速度(目標減速度(嵩上げ分))を出力する。\n\nなお、が同時に作動している場合は、大きい方を目標減速度(嵩上げ分)として出力する。</td></tr><tr><td style=\"background-color:#000000;\">テスト関数</td><td style=\"background-color:#000000;\"></td><td style=\"background-color:#000000;\">関数名_test</td></tr></tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+            "documentKey": "YT-YTB-3",
+            "globalId": "GID-84727",
+            "name": "TEST"
+        },
+        "globalId": "GID-84727",
+        "id": 198617,
+        "itemType": 158,
+        "lastActivityDate": "2025-02-23T13:00:38.000+0000",
+        "location": {
+            "globalSortOrder": 1342184790,
+            "parent": {
+                "item": 198616
+            },
+            "sequence": "5.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-02-23T12:56:50.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-02-23T13:00:38.000+0000",
+        "project": 165,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    }
+]

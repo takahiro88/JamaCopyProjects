@@ -1,0 +1,27 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 506,
+        "name": "-",
+        "pickList": 227,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "E39191",
+        "default": false,
+        "description": "",
+        "id": 507,
+        "name": "Enabler",
+        "pickList": 227,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

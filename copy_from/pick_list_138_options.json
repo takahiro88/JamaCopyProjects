@@ -1,0 +1,37 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 397,
+        "name": "Unassigned",
+        "pickList": 138,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 398,
+        "name": "Primitive Data Element",
+        "pickList": 138,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 399,
+        "name": "Composite",
+        "pickList": 138,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

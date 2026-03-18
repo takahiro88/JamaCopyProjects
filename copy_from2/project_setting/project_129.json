@@ -1,0 +1,19 @@
+{
+    "createdBy": 26,
+    "createdDate": "2022-04-13T05:28:56.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Medical Device Sample Set for Tutorial",
+        "projectGroup": 296,
+        "projectKey": "MDSST",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 129,
+    "isFolder": false,
+    "modifiedBy": 26,
+    "modifiedDate": "2022-11-16T06:58:41.000+0000",
+    "parent": 10,
+    "projectKey": "MDSST",
+    "type": "projects"
+}

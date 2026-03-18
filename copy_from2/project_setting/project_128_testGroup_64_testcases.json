@@ -1,0 +1,111 @@
+[
+    {
+        "createdBy": 26,
+        "createdDate": "2022-12-08T04:13:38.000+0000",
+        "documentKey": "MDS01-TCS-5",
+        "fields": {
+            "description": "",
+            "documentKey": "MDS01-TCS-5",
+            "globalId": "GID-63497",
+            "name": "test5",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 1,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-63497",
+        "id": 21989,
+        "itemType": 26,
+        "lastActivityDate": "2024-11-28T05:16:27.000+0000",
+        "location": {
+            "globalSortOrder": 213391,
+            "parent": {
+                "item": 20691
+            },
+            "sequence": "10.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "lastLockedDate": "2022-12-08T04:15:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-09-24T23:30:43.000+0000",
+        "project": 128,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2022-12-08T04:16:31.000+0000",
+        "documentKey": "MDS01-TCS-6",
+        "fields": {
+            "description": "",
+            "documentKey": "MDS01-TCS-6",
+            "estimation$26": 156,
+            "globalId": "GID-63498",
+            "name": "test6",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-63498",
+        "id": 21990,
+        "itemType": 26,
+        "lastActivityDate": "2024-11-28T05:16:27.000+0000",
+        "location": {
+            "globalSortOrder": 214464,
+            "parent": {
+                "item": 20691
+            },
+            "sequence": "10.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "lastLockedDate": "2022-12-08T07:45:11.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-09-24T23:30:43.000+0000",
+        "project": 128,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    }
+]

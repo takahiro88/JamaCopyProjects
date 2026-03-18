@@ -1,0 +1,34 @@
+[
+    {
+        "fromItem": 202519,
+        "id": 7803,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 202522,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 202520,
+        "id": 7804,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 202523,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 202521,
+        "id": 7805,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 202524,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 202525,
+        "id": 7806,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 202522,
+        "type": "relationships"
+    }
+]

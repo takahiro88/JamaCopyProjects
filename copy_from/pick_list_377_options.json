@@ -1,0 +1,43 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFF800",
+        "default": true,
+        "description": "",
+        "id": 611,
+        "infotip": "",
+        "name": "Mid",
+        "pickList": 377,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": "1"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "00CC66",
+        "default": false,
+        "description": "",
+        "id": 610,
+        "name": "Low",
+        "pickList": 377,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "5"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9BDFFF",
+        "default": false,
+        "description": "",
+        "id": 645,
+        "infotip": "",
+        "name": "High",
+        "pickList": 377,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": "10"
+    }
+]

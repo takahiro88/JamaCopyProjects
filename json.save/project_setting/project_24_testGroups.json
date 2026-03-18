@@ -1,0 +1,22 @@
+[
+    {
+        "id": 12,
+        "name": "Default Test Group"
+    },
+    {
+        "id": 13,
+        "name": "Bank Transfers"
+    },
+    {
+        "id": 14,
+        "name": "Deposit Checks"
+    },
+    {
+        "id": 15,
+        "name": "Text Banking"
+    },
+    {
+        "id": 16,
+        "name": "Paperless Statements"
+    }
+]

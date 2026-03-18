@@ -1,0 +1,3177 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2022-03-02T00:22:10.000+0000",
+        "documentKey": "DXTST-ATT-4",
+        "fields": {
+            "attachment": 723,
+            "description": "C20220303",
+            "globalId": "GID-62103",
+            "name": "DX-SYS_bb71658e-94b7-4233-9d4f-4e8ad6c1627d"
+        },
+        "fileName": "DX-Meta Data - DO NOT DELETE.zip",
+        "fileSize": 9026,
+        "globalId": "GID-62103",
+        "id": 19745,
+        "itemType": 22,
+        "lastActivityDate": "2022-03-02T00:27:40.000+0000",
+        "mimeType": "application/zip",
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:40.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 3
+    },
+    {
+        "childItemType": 41,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:15.000+0000",
+        "documentKey": "DXTST-SET-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-1",
+            "globalId": "GID-61888",
+            "name": "Strategic Themes",
+            "setKey": "THEME"
+        },
+        "globalId": "GID-61888",
+        "id": 19294,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:15.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:15.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-CMP-9",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-9",
+            "globalId": "GID-61897",
+            "name": "Value Stream"
+        },
+        "globalId": "GID-61897",
+        "id": 19303,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 12875,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 99,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-SET-34",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-34",
+            "globalId": "GID-61898",
+            "name": "Value Stream Epics",
+            "setKey": "VEPIC"
+        },
+        "globalId": "GID-61898",
+        "id": 19304,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 13948,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 99,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-40",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-40",
+            "globalId": "GID-61899",
+            "name": "Funnel"
+        },
+        "globalId": "GID-61899",
+        "id": 19305,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 15021,
+            "parent": {
+                "item": 19304
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-TXT-3",
+        "fields": {
+            "description": "this is a test text",
+            "documentKey": "DXTST-TXT-3",
+            "globalId": "GID-61900",
+            "name": "test text"
+        },
+        "globalId": "GID-61900",
+        "id": 19306,
+        "itemType": 33,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 16094,
+            "parent": {
+                "item": 19305
+            },
+            "sequence": "2.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-TXT-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-TXT-2",
+            "globalId": "GID-61901",
+            "name": "test tekt"
+        },
+        "globalId": "GID-61901",
+        "id": 19307,
+        "itemType": 33,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 17167,
+            "parent": {
+                "item": 19305
+            },
+            "sequence": "2.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 99,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-41",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-41",
+            "globalId": "GID-61902",
+            "name": "Analysis"
+        },
+        "globalId": "GID-61902",
+        "id": 19308,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 18240,
+            "parent": {
+                "item": 19304
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 99,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-42",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-42",
+            "globalId": "GID-61903",
+            "name": "Backlog"
+        },
+        "globalId": "GID-61903",
+        "id": 19309,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 19313,
+            "parent": {
+                "item": 19304
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 99,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-43",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-43",
+            "globalId": "GID-61904",
+            "name": "Implementing"
+        },
+        "globalId": "GID-61904",
+        "id": 19310,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 20386,
+            "parent": {
+                "item": 19304
+            },
+            "sequence": "2.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 99,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-44",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-44",
+            "globalId": "GID-61905",
+            "name": "Done"
+        },
+        "globalId": "GID-61905",
+        "id": 19311,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 21459,
+            "parent": {
+                "item": 19304
+            },
+            "sequence": "2.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 98,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-SET-35",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-35",
+            "globalId": "GID-61906",
+            "name": "Capabilities",
+            "setKey": "CAP"
+        },
+        "globalId": "GID-61906",
+        "id": 19312,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 22532,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-SET-21",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-21",
+            "globalId": "GID-61907",
+            "name": "System E2E Test Cases",
+            "setKey": "TC"
+        },
+        "globalId": "GID-61907",
+        "id": 19313,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 23605,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-TC-10",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-TC-10",
+            "globalId": "GID-61908",
+            "name": "TEST1",
+            "priority": 301,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "test1",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "test2",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-61908",
+        "id": 19314,
+        "itemType": 26,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 24678,
+            "parent": {
+                "item": 19313
+            },
+            "sequence": "2.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 27,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-SET-33",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-33",
+            "globalId": "GID-61909",
+            "name": "System Testing Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-61909",
+        "id": 19315,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 25751,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-1",
+            "globalId": "GID-61910",
+            "name": "Program 1"
+        },
+        "globalId": "GID-61910",
+        "id": 19316,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 26824,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 110,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-SET-37",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-37",
+            "globalId": "GID-61911",
+            "name": "PI Objectives",
+            "setKey": "PIOBJ"
+        },
+        "globalId": "GID-61911",
+        "id": 19317,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 27897,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 110,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-65",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-65",
+            "globalId": "GID-61912",
+            "name": "PI 1"
+        },
+        "globalId": "GID-61912",
+        "id": 19318,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 28970,
+            "parent": {
+                "item": 19317
+            },
+            "sequence": "2.5.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 110,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-69",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-69",
+            "globalId": "GID-61913",
+            "name": "PI 2"
+        },
+        "globalId": "GID-61913",
+        "id": 19319,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 30043,
+            "parent": {
+                "item": 19317
+            },
+            "sequence": "2.5.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 94,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-SET-30",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-30",
+            "globalId": "GID-61914",
+            "name": "Program Epics",
+            "setKey": "PGMEPIC"
+        },
+        "globalId": "GID-61914",
+        "id": 19320,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 31116,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 94,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-45",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-45",
+            "globalId": "GID-61915",
+            "name": "Funnel"
+        },
+        "globalId": "GID-61915",
+        "id": 19321,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 32189,
+            "parent": {
+                "item": 19320
+            },
+            "sequence": "2.5.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 94,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-46",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-46",
+            "globalId": "GID-61916",
+            "name": "Analysis"
+        },
+        "globalId": "GID-61916",
+        "id": 19322,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 33262,
+            "parent": {
+                "item": 19320
+            },
+            "sequence": "2.5.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 94,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-47",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-47",
+            "globalId": "GID-61917",
+            "name": "Backlog"
+        },
+        "globalId": "GID-61917",
+        "id": 19323,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 34335,
+            "parent": {
+                "item": 19320
+            },
+            "sequence": "2.5.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 94,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-48",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-48",
+            "globalId": "GID-61918",
+            "name": "Implementing"
+        },
+        "globalId": "GID-61918",
+        "id": 19324,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 35408,
+            "parent": {
+                "item": 19320
+            },
+            "sequence": "2.5.2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 94,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:16.000+0000",
+        "documentKey": "DXTST-FLD-49",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-49",
+            "globalId": "GID-61919",
+            "name": "Done"
+        },
+        "globalId": "GID-61919",
+        "id": 19325,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:16.000+0000",
+        "location": {
+            "globalSortOrder": 36481,
+            "parent": {
+                "item": 19320
+            },
+            "sequence": "2.5.2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:16.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 23,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-4",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-4",
+            "globalId": "GID-61920",
+            "name": "Program Features",
+            "setKey": "FEAT"
+        },
+        "globalId": "GID-61920",
+        "id": 19326,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 37554,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 68,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-41",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-41",
+            "globalId": "GID-61921",
+            "name": "Non-Functional Requirements",
+            "setKey": "NFR"
+        },
+        "globalId": "GID-61921",
+        "id": 19327,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 38627,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-CMP-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-2",
+            "globalId": "GID-61922",
+            "name": "Scrum Team 1"
+        },
+        "globalId": "GID-61922",
+        "id": 19328,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 39700,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-5",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-5",
+            "globalId": "GID-61923",
+            "name": "Story Backlog (Not Committed)",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61923",
+        "id": 19329,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 40773,
+            "parent": {
+                "item": 19328
+            },
+            "sequence": "2.5.5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-6",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-6",
+            "globalId": "GID-61924",
+            "name": "Stories ready for development",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61924",
+        "id": 19330,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 41846,
+            "parent": {
+                "item": 19328
+            },
+            "sequence": "2.5.5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-7",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-7",
+            "globalId": "GID-61925",
+            "name": "Completed Stories",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61925",
+        "id": 19331,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 42919,
+            "parent": {
+                "item": 19328
+            },
+            "sequence": "2.5.5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-8",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-8",
+            "globalId": "GID-61926",
+            "name": "Test Cases",
+            "setKey": "TC"
+        },
+        "globalId": "GID-61926",
+        "id": 19332,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 43992,
+            "parent": {
+                "item": 19328
+            },
+            "sequence": "2.5.5.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-CMP-7",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-7",
+            "globalId": "GID-61927",
+            "name": "Scrum Team 2"
+        },
+        "globalId": "GID-61927",
+        "id": 19333,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 45065,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-22",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-22",
+            "globalId": "GID-61928",
+            "name": "Story Backlog (Not Committed)",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61928",
+        "id": 19334,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 46138,
+            "parent": {
+                "item": 19333
+            },
+            "sequence": "2.5.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-23",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-23",
+            "globalId": "GID-61929",
+            "name": "Stories for Current Sprint",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61929",
+        "id": 19335,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 47211,
+            "parent": {
+                "item": 19333
+            },
+            "sequence": "2.5.6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-24",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-24",
+            "globalId": "GID-61930",
+            "name": "Completed Stories",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61930",
+        "id": 19336,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 48284,
+            "parent": {
+                "item": 19333
+            },
+            "sequence": "2.5.6.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-25",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-25",
+            "globalId": "GID-61931",
+            "name": "Test Cases",
+            "setKey": "TC"
+        },
+        "globalId": "GID-61931",
+        "id": 19337,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 49357,
+            "parent": {
+                "item": 19333
+            },
+            "sequence": "2.5.6.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-CMP-8",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-8",
+            "globalId": "GID-61932",
+            "name": "Scrum Team 3"
+        },
+        "globalId": "GID-61932",
+        "id": 19338,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 50430,
+            "parent": {
+                "item": 19316
+            },
+            "sequence": "2.5.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-26",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-26",
+            "globalId": "GID-61933",
+            "name": "Story Backlog (Not Committed)",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61933",
+        "id": 19339,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 51503,
+            "parent": {
+                "item": 19338
+            },
+            "sequence": "2.5.7.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-27",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-27",
+            "globalId": "GID-61934",
+            "name": "Stories for Current Sprint",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61934",
+        "id": 19340,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 52576,
+            "parent": {
+                "item": 19338
+            },
+            "sequence": "2.5.7.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-28",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-28",
+            "globalId": "GID-61935",
+            "name": "Completed Stories",
+            "setKey": "STY"
+        },
+        "globalId": "GID-61935",
+        "id": 19341,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 53649,
+            "parent": {
+                "item": 19338
+            },
+            "sequence": "2.5.7.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-29",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-29",
+            "globalId": "GID-61936",
+            "name": "Test Cases",
+            "setKey": "TC"
+        },
+        "globalId": "GID-61936",
+        "id": 19342,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 54722,
+            "parent": {
+                "item": 19338
+            },
+            "sequence": "2.5.7.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 136,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-SET-49",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-49",
+            "globalId": "GID-61937",
+            "name": "TakaT",
+            "setKey": "TAKI"
+        },
+        "globalId": "GID-61937",
+        "id": 19343,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 55795,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-TAKI-1",
+        "fields": {
+            "description": "<p>藁をもすがる</p>\n",
+            "documentKey": "DXTST-TAKI-1",
+            "globalId": "GID-61938",
+            "name": "aa",
+            "status": 293,
+            "talis$136": 611
+        },
+        "globalId": "GID-61938",
+        "id": 19344,
+        "itemType": 136,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 56868,
+            "parent": {
+                "item": 19343
+            },
+            "sequence": "2.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-TAKI-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-TAKI-2",
+            "globalId": "GID-61939",
+            "name": "BB",
+            "status": 512,
+            "talis$136": 611
+        },
+        "globalId": "GID-61939",
+        "id": 19345,
+        "itemType": 136,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 57941,
+            "parent": {
+                "item": 19343
+            },
+            "sequence": "2.6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-TAKI-3",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-TAKI-3",
+            "globalId": "GID-61940",
+            "name": "CC",
+            "status": 292,
+            "talis$136": 610
+        },
+        "globalId": "GID-61940",
+        "id": 19346,
+        "itemType": 136,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 59014,
+            "parent": {
+                "item": 19343
+            },
+            "sequence": "2.6.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-TAKI-4",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-TAKI-4",
+            "globalId": "GID-61941",
+            "name": "dd",
+            "review_status$136": 292,
+            "status": 512,
+            "talis$136": 611
+        },
+        "globalId": "GID-61941",
+        "id": 19347,
+        "itemType": 136,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 60087,
+            "parent": {
+                "item": 19343
+            },
+            "sequence": "2.6.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:17.000+0000",
+        "documentKey": "DXTST-CMP-19",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-19",
+            "globalId": "GID-61942",
+            "name": " Value Stream Epics"
+        },
+        "globalId": "GID-61942",
+        "id": 19348,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:17.000+0000",
+        "location": {
+            "globalSortOrder": 61160,
+            "parent": {
+                "item": 19303
+            },
+            "sequence": "2.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:17.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-SET-44",
+        "fields": {
+            "description": "Low Level Requirements",
+            "documentKey": "DXTST-SET-44",
+            "globalId": "GID-61993",
+            "name": "Requirements",
+            "setKey": "VCREQ"
+        },
+        "globalId": "GID-61993",
+        "id": 19399,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 115883,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-FLD-78",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-78",
+            "globalId": "GID-61994",
+            "name": "ReqFolder"
+        },
+        "globalId": "GID-61994",
+        "id": 19400,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 116956,
+            "parent": {
+                "item": 19399
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-04-12T06:28:47.000+0000",
+        "documentKey": "DXTST-VCREQ-3",
+        "fields": {
+            "createdBy": 14,
+            "description": "<p><span style=\"font-family:游明朝\">Excelデータの行・列を整理してください　</span></p><p>●<span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><span style=\"font-family:游明朝\">結合したセルがあるとインポートできません。行・カラムは1対１にしてください</span></p><p>●<span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><span style=\"font-family:游明朝\">図表はインポートできません。文字・数値データだけです</span></p><p>●<span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><span style=\"font-family:游明朝\">Excelドキュメントにヘッダ行が必要となります</span></p><p>●<span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><span style=\"font-family:游明朝\">日付を入れたい場合は　mm/dd/yyyy hh:mm:ss Z形式にしてください</span></p><p>●<span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><span style=\"font-family:游明朝\">画像はインポートできません。個別にコピーペーストするなどしてください</span></p><p><span style=\"font-family:游明朝\">　　以下サンプルです</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.001.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/727/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.001.png\" width=\"567\" height=\"233\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝\">このExcelデータのレコードを格納するアイテムタイプを作成します。ADMINメニューからItemタイプを作成します</span><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.002.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/728/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.002.png\" width=\"549\" height=\"286\" style=\"margin-right:9pt; margin-left:9pt; -aw-left-pos:17.5pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:47.53pt; -aw-wrap-type:square; float:left\" /></p><p><span style=\" color:#333333; -aw-import:ignore\"></span></p><p><span style=\" color:#333333; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝\">既存のITEM TYPEを参考に内容を記入してください。</span></p><p><span style=\"font-family:游明朝\">ここではSystem Architectureアイテムタイプを元にしてMySystem Acchitectureを作成し、カスタムのフィールドを追加します</span></p><p><span style=\"font-family:游明朝\">ExcelでA列にあるアイテムに対してTextでカスタムのITEMというフィールドを追加します。同様にExcelからインポートしたいデータのフィールドを作成します </span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.003.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/729/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.003.png\" width=\"241\" height=\"269\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝\">作成したアイテムタイプがプロジェクトで使える様設定します</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.004.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/730/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.004.png\" width=\"567\" height=\"375\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝\">プロジェクトの画面に戻り、作成したMy System Architectureを格納するグループを作成します。プロジェクト・エクスプローラ上のグループを追加したい箇所で右クリックメニューから Addを選択します</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.005.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/731/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.005.png\" width=\"566\" height=\"345\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝\">作成した My System Architectureの上で右クリックメニューからインポートを開始します</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.006.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/732/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.006.png\" width=\"340\" height=\"474\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><br style=\"page-break-before:always; clear:both\" /></p><p><span style=\"-aw-sdt-tag:'goog_rdk_0'\"><span style=\" color:#333333\">インポートするExcelファイルを選択し、Excelフィールドとアイテムとのマッピングを作成します。すでにマッピングを作成してある場合はここで選択すれば以下の作成手順は省略できます</span></span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.007.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/733/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.007.png\" width=\"421\" height=\"372\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><br style=\"page-break-before:always; clear:both\" /></p><p><span style=\"font-family:游明朝\">エクセルのシートやヘッダの行数を入力し、JamaアイテムのどのフィールドにExcelのどのフィールドを入力するのかマッピングを作成します</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.008.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/734/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.008.png\" width=\"566\" height=\"491\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"-aw-sdt-tag:'goog_rdk_1'\"><span style=\" color:#333333\">Name と Statusは必ず値が必要です。インポートするExcel側に相応のフィールドが無い場合にはDefaultValueを指定してください</span></span></p><p><br style=\"page-break-before:always; clear:both\" /><br style=\"page-break-before:always; clear:both\" /></p><p><span style=\"-aw-sdt-tag:'goog_rdk_2'\"><span style=\" color:#333333\">インポート後の画面です。アイテムの名前が全部デフォルトになってしまっています。データは各フィールドに入力されています</span></span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.009.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/735/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.009.png\" width=\"567\" height=\"475\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><br style=\"page-break-before:always; clear:both\" /></p><p><span style=\" color:#333333; -aw-import:ignore\"></span></p>",
+            "documentKey": "DXTST-VCREQ-3",
+            "globalId": "GID-62299",
+            "name": "Excelドキュメントのインポートについて",
+            "status": 292
+        },
+        "globalId": "GID-62299",
+        "id": 19987,
+        "itemType": 24,
+        "lastActivityDate": "2022-04-12T06:28:48.000+0000",
+        "location": {
+            "globalSortOrder": 120175,
+            "parent": {
+                "item": 19400
+            },
+            "sequence": "3.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-04-12T06:28:47.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-04-12T06:28:48.000+0000",
+        "documentKey": "DXTST-VCREQ-4",
+        "fields": {
+            "createdBy": 14,
+            "description": "<div style=\"margin-left:18pt; margin-bottom:18pt; background-color:#ffffff\"><p><span style=\"  color:#333333\">●</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><a href=\"https://help.jamasoftware.com/ah/en/create-content/import-items/import-from-microsoft-word/prepare-microsoft-word-document-for-import/set-hierarchy-with-headings-and-style.html\" style=\"text-decoration:none\"><span style=\" font-weight:bold; color:#0074b5\">見出しとスタイル</span></a></p></div><p><span style=\"-aw-sdt-tag:'goog_rdk_3'\"><span style=\" color:#333333\">Word文書内の見出しとスタイルを使用して、階層を決定します。</span></span></p><div style=\"margin-left:18pt; margin-bottom:18pt; background-color:#ffffff\"><p><span style=\"  color:#333333\">●</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><a href=\"https://help.jamasoftware.com/ah/en/create-content/import-items/import-from-microsoft-word/prepare-microsoft-word-document-for-import/how-to-handle-tables.html\" style=\"text-decoration:none\"><span style=\" font-weight:bold; text-decoration:underline; color:#0074b5\">テーブル</span></a></p></div><p><span style=\"-aw-sdt-tag:'goog_rdk_4'\"><span style=\" color:#333333\">Word文書内にテーブルを含め、テーブルをフィールドにマッピングする事もできます。</span></span></p><div style=\"margin-left:18pt; margin-bottom:18pt; background-color:#ffffff\"><p><span style=\"  color:#333333\">●</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\"> </span><a href=\"https://help.jamasoftware.com/ah/en/create-content/import-items/import-from-microsoft-word/prepare-microsoft-word-document-for-import/field-mapping.html\" style=\"text-decoration:none\"><span style=\" font-weight:bold; color:#0074b5\">フィールドマッピング</span></a></p></div><p><span style=\"-aw-sdt-tag:'goog_rdk_5'\"><span style=\" color:#333333\">Wordの場合見出しがアイテム名になり内容がDescriptionにインポートされます。テーブル内データをフィールドにマッピングする事もできます。</span></span></p><p><span style=\"font-family:游明朝\">すべてのスタイルが正確に変換されるわけではありません。データインポートウィザードは目次をインポートできません。画像はインポートの一部として含まれています。埋め込まれたVisioダイアグラムなどのOLEコンポーネントは、PNG画像としてインポートされます。</span></p><p><br style=\"page-break-before:always; clear:both\" /></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝\">今回入力するサンプルです</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.010.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/736/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.010.png\" width=\"448\" height=\"366\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.011.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/737/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.011.png\" width=\"485\" height=\"403\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /><br style=\"page-break-before:always; clear:both\" /></p><p><span style=\"font-family:游明朝\">インポートの手順はExcelの場合と同じです。スタイルと内容だけの場合、JamaのNameとDescriptionフィールドにマッピングされるだけなのでほとんどのアイテムタイプにインポートできます。Statusフィールドは初期値を設定してください。他はそのまま何もせずに進めてみます</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.012.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/738/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.012.png\" width=\"566\" height=\"399\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝\">テーブルもそのままデフォルトで進めます</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.013.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/739/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.013.png\" width=\"567\" height=\"306\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝\">Wordで設定した見出しスタイルのレベルに合わせて親子のアイテムが作成されました</span></p><p><span style=\"font-family:游明朝\">BMP画像はインポートされませんでした。SmartArtはインポートされています</span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.014.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/740/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.014.png\" width=\"503\" height=\"433\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><span style=\"font-family:游明朝\">テーブルはそのままインポートされています。</span></p><p><span style=\"font-family:游明朝; -aw-import:ignore\"></span></p><p><img alt=\"see attached image: Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.015.png\" src=\"https://acceleratedsoftware.jamacloud.com/attachment/741/Aspose.Words.65fd4949-ecc6-4678-973c-de84a24f4f35.015.png\" width=\"480\" height=\"310\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\" /></p>",
+            "documentKey": "DXTST-VCREQ-4",
+            "globalId": "GID-62300",
+            "name": "Wordファイルのインポート",
+            "status": 292
+        },
+        "globalId": "GID-62300",
+        "id": 19988,
+        "itemType": 24,
+        "lastActivityDate": "2022-04-12T06:28:48.000+0000",
+        "location": {
+            "globalSortOrder": 121248,
+            "parent": {
+                "item": 19400
+            },
+            "sequence": "3.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-04-12T06:28:48.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-SET-45",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-45",
+            "globalId": "GID-61997",
+            "name": "Test Cases",
+            "setKey": "TC1"
+        },
+        "globalId": "GID-61997",
+        "id": 19403,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 122321,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-FLD-77",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FLD-77",
+            "globalId": "GID-61998",
+            "name": "FolderA"
+        },
+        "globalId": "GID-61998",
+        "id": 19404,
+        "itemType": 32,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 123394,
+            "parent": {
+                "item": 19403
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-TC1-9",
+        "fields": {
+            "documentKey": "DXTST-TC1-9",
+            "globalId": "GID-61999",
+            "name": "VC: CiTest.TEST1.test.main.BASIS-PATH-003-PARTIAL",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-61999",
+        "id": 19405,
+        "itemType": 26,
+        "lastActivityDate": "2022-04-12T06:29:58.000+0000",
+        "location": {
+            "globalSortOrder": 124467,
+            "parent": {
+                "item": 19404
+            },
+            "sequence": "4.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-TC1-10",
+        "fields": {
+            "documentKey": "DXTST-TC1-10",
+            "globalId": "GID-62000",
+            "name": "VC: CiTest.TEST1.test.main.BASIS-PATH-001-PARTIAL",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-62000",
+        "id": 19406,
+        "itemType": 26,
+        "lastActivityDate": "2022-04-12T06:29:58.000+0000",
+        "location": {
+            "globalSortOrder": 125540,
+            "parent": {
+                "item": 19404
+            },
+            "sequence": "4.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-TC1-11",
+        "fields": {
+            "documentKey": "DXTST-TC1-11",
+            "globalId": "GID-62001",
+            "name": "VC: CiTest.TEST1.test.sub.BASIS-PATH-001",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-62001",
+        "id": 19407,
+        "itemType": 26,
+        "lastActivityDate": "2022-04-12T06:29:58.000+0000",
+        "location": {
+            "globalSortOrder": 126613,
+            "parent": {
+                "item": 19404
+            },
+            "sequence": "4.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-TC1-12",
+        "fields": {
+            "documentKey": "DXTST-TC1-12",
+            "globalId": "GID-62002",
+            "name": "VC: CiTest.TEST1.test.main.BASIS-PATH-002-PARTIAL",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-62002",
+        "id": 19408,
+        "itemType": 26,
+        "lastActivityDate": "2022-04-12T06:29:51.000+0000",
+        "location": {
+            "globalSortOrder": 127686,
+            "parent": {
+                "item": 19404
+            },
+            "sequence": "4.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 23,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-SET-46",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-46",
+            "globalId": "GID-62003",
+            "name": "Features",
+            "setKey": "FEAT"
+        },
+        "globalId": "GID-62003",
+        "id": 19409,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 128759,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-FEAT-12",
+        "fields": {
+            "completed_stories$23": "0%",
+            "description": "AA",
+            "documentKey": "DXTST-FEAT-12",
+            "enabler$23": 506,
+            "globalId": "GID-62004",
+            "name": "FEAT1"
+        },
+        "globalId": "GID-62004",
+        "id": 19410,
+        "itemType": 23,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 129832,
+            "parent": {
+                "item": 19409
+            },
+            "sequence": "5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:19.000+0000",
+        "documentKey": "DXTST-FEAT-13",
+        "fields": {
+            "description": "ありがとうございます。",
+            "documentKey": "DXTST-FEAT-13",
+            "enabler$23": 506,
+            "globalId": "GID-62005",
+            "name": "FEAT9"
+        },
+        "globalId": "GID-62005",
+        "id": 19411,
+        "itemType": 23,
+        "lastActivityDate": "2022-02-15T14:04:19.000+0000",
+        "location": {
+            "globalSortOrder": 130905,
+            "parent": {
+                "item": 19409
+            },
+            "sequence": "5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:19.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-FEAT-14",
+        "fields": {
+            "description": "ありがとうございます。",
+            "documentKey": "DXTST-FEAT-14",
+            "enabler$23": 506,
+            "globalId": "GID-62006",
+            "name": "NEW"
+        },
+        "globalId": "GID-62006",
+        "id": 19412,
+        "itemType": 23,
+        "lastActivityDate": "2022-02-15T14:04:20.000+0000",
+        "location": {
+            "globalSortOrder": 131978,
+            "parent": {
+                "item": 19409
+            },
+            "sequence": "5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:20.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-FEAT-16",
+        "fields": {
+            "description": "ありがとうございます。",
+            "documentKey": "DXTST-FEAT-16",
+            "enabler$23": 506,
+            "globalId": "GID-62007",
+            "name": "NEW2"
+        },
+        "globalId": "GID-62007",
+        "id": 19413,
+        "itemType": 23,
+        "lastActivityDate": "2022-02-15T14:04:20.000+0000",
+        "location": {
+            "globalSortOrder": 133051,
+            "parent": {
+                "item": 19409
+            },
+            "sequence": "5.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:20.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-SET-50",
+        "fields": {
+            "description": "freq1",
+            "documentKey": "DXTST-SET-50",
+            "globalId": "GID-62008",
+            "name": "Functional Requirements",
+            "setKey": "FR"
+        },
+        "globalId": "GID-62008",
+        "id": 19414,
+        "itemType": 31,
+        "lastActivityDate": "2022-02-15T14:04:20.000+0000",
+        "location": {
+            "globalSortOrder": 134124,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:20.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-FR-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FR-1",
+            "globalId": "GID-62009",
+            "name": "freq2",
+            "status": 292
+        },
+        "globalId": "GID-62009",
+        "id": 19415,
+        "itemType": 67,
+        "lastActivityDate": "2022-02-15T14:04:20.000+0000",
+        "location": {
+            "globalSortOrder": 135197,
+            "parent": {
+                "item": 19414
+            },
+            "sequence": "6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:20.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-FR-7",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-FR-7",
+            "globalId": "GID-62010",
+            "name": "Func1",
+            "status": 292
+        },
+        "globalId": "GID-62010",
+        "id": 19416,
+        "itemType": 67,
+        "lastActivityDate": "2022-02-15T14:06:52.000+0000",
+        "location": {
+            "globalSortOrder": 135733,
+            "parent": {
+                "item": 19414
+            },
+            "sequence": "6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:20.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-CMP-12",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-12",
+            "globalId": "GID-62012",
+            "name": "BOX"
+        },
+        "globalId": "GID-62012",
+        "id": 19418,
+        "itemType": 30,
+        "lastActivityDate": "2022-02-15T14:04:20.000+0000",
+        "location": {
+            "globalSortOrder": 136270,
+            "parent": {
+                "project": 122
+            },
+            "sequence": "7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-15T14:04:20.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-CMP-15",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-CMP-15",
+            "globalId": "GID-62030",
+            "name": "MyComp"
+        },
+        "globalId": "GID-62030",
+        "id": 19436,
+        "itemType": 30,
+        "lastActivityDate": "2022-03-02T00:27:35.000+0000",
+        "location": {
+            "globalSortOrder": 155584,
+            "parent": {
+                "item": 19418
+            },
+            "sequence": "7.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:35.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 135,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-SET-57",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-57",
+            "exportid$31": "_7ad29b15-c7c0-3227-970f-82520206f2ea",
+            "globalId": "GID-62031",
+            "name": "My Test Item Type",
+            "setKey": "MTIT"
+        },
+        "globalId": "GID-62031",
+        "id": 19437,
+        "itemType": 31,
+        "lastActivityDate": "2022-03-02T00:27:36.000+0000",
+        "location": {
+            "globalSortOrder": 156657,
+            "parent": {
+                "item": 19436
+            },
+            "sequence": "7.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:36.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-MTIT-2",
+        "fields": {
+            "description": "MyOriginalMessage ChangedAgain",
+            "documentKey": "DXTST-MTIT-2",
+            "exportid$135": "_64ec6e87-7e08-3d6d-bf25-6b152211b817",
+            "globalId": "GID-62032",
+            "multisel$135": [
+                400
+            ],
+            "name": "test1",
+            "sequence": "7.1.1.1",
+            "sss$135": 335,
+            "status": 292,
+            "text1": ""
+        },
+        "globalId": "GID-62032",
+        "id": 19438,
+        "itemType": 135,
+        "lastActivityDate": "2022-03-02T00:27:36.000+0000",
+        "location": {
+            "globalSortOrder": 157730,
+            "parent": {
+                "item": 19437
+            },
+            "sequence": "7.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2022-03-02T00:23:52.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:36.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:20.000+0000",
+        "documentKey": "DXTST-SET-59",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-SET-59",
+            "exportid$31": "_fd62936a-41ff-3a91-9d1c-619ee79aaa82",
+            "globalId": "GID-62033",
+            "name": "Verifications",
+            "setKey": "VER"
+        },
+        "globalId": "GID-62033",
+        "id": 19439,
+        "itemType": 31,
+        "lastActivityDate": "2022-03-02T00:27:36.000+0000",
+        "location": {
+            "globalSortOrder": 158803,
+            "parent": {
+                "item": 19436
+            },
+            "sequence": "7.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:36.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:21.000+0000",
+        "documentKey": "DXTST-VER-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-VER-1",
+            "exportid$89": "_cec927e7-f242-3ee5-b88e-21b222274a12",
+            "globalId": "GID-62034",
+            "name": "v1",
+            "status": 292,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            },
+            "verification_method$89": 513
+        },
+        "globalId": "GID-62034",
+        "id": 19440,
+        "itemType": 89,
+        "lastActivityDate": "2022-03-02T00:27:36.000+0000",
+        "location": {
+            "globalSortOrder": 159876,
+            "parent": {
+                "item": 19439
+            },
+            "sequence": "7.1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:36.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-15T14:04:21.000+0000",
+        "documentKey": "DXTST-VER-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DXTST-VER-2",
+            "exportid$89": "_a1ab3863-30e5-3cfc-8b76-b4507369a28f",
+            "globalId": "GID-62035",
+            "name": "Ver2",
+            "status": 292,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            },
+            "verification_method$89": 513
+        },
+        "globalId": "GID-62035",
+        "id": 19441,
+        "itemType": 89,
+        "lastActivityDate": "2022-03-02T00:27:36.000+0000",
+        "location": {
+            "globalSortOrder": 160949,
+            "parent": {
+                "item": 19439
+            },
+            "sequence": "7.1.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-03-02T00:27:36.000+0000",
+        "project": 122,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    }
+]

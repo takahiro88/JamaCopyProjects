@@ -1,0 +1,471 @@
+[
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:07:19.000+0000",
+        "documentKey": "CL3-SVER-20",
+        "fields": {
+            "description": "<p>Take a random sample of five implants from manufacturer delivery.</p>\n",
+            "documentKey": "CL3-SVER-20",
+            "globalId": "GID-54231",
+            "name": "Verification of diameter",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Unit 1 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 2 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 3 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 4 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 5 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54231",
+        "id": 2863,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-13T21:07:09.000+0000",
+        "location": {
+            "globalSortOrder": 21096,
+            "parent": {
+                "item": 7133
+            },
+            "sequence": "4.2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2015-09-28T18:08:27.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:07:09.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:13:00.000+0000",
+        "documentKey": "CL3-SVER-21",
+        "fields": {
+            "description": "<p>Random sampling of five implants from manufacturer.</p>\n",
+            "documentKey": "CL3-SVER-21",
+            "globalId": "GID-54232",
+            "name": "Ensure proper ISQ",
+            "status": 292,
+            "testCaseStatus": "BLOCKED",
+            "testCaseSteps": [
+                {
+                    "action": "Set sample 1 in artificial bone.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Test ISQ of sample 1 according to protocol.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Set sample 2 in artificial bone.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Test ISQ of sample 2 according to protocol.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Set sample 3 in artificial bone.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Test ISQ of sample 3 according to protocol.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Set sample 4 in artificial bone.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Test ISQ of sample 4 according to protocol.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Set sample 5 in artificial bone.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Test ISQ of sample 5 according to protocol.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 1,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54232",
+        "id": 2865,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-13T21:07:09.000+0000",
+        "location": {
+            "globalSortOrder": 21097,
+            "parent": {
+                "item": 7133
+            },
+            "sequence": "4.2.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:07:09.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:14:24.000+0000",
+        "documentKey": "CL3-SVER-22",
+        "fields": {
+            "description": "",
+            "documentKey": "CL3-SVER-22",
+            "globalId": "GID-54233",
+            "name": "Testing with clEAR 1",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Using implant with clEAR 1 meets compliance requirements as outlined in documentation.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54233",
+        "id": 2866,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-13T21:07:09.000+0000",
+        "location": {
+            "globalSortOrder": 21098,
+            "parent": {
+                "item": 7133
+            },
+            "sequence": "4.2.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-09T11:13:39.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:07:09.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 5
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:15:33.000+0000",
+        "documentKey": "CL3-SVER-23",
+        "fields": {
+            "description": "",
+            "documentKey": "CL3-SVER-23",
+            "globalId": "GID-54234",
+            "name": "Testing with clEAR 2",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Using implant with clEAR 2 meets compliance requirements as outlined in documentation.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54234",
+        "id": 2867,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-13T21:07:09.000+0000",
+        "location": {
+            "globalSortOrder": 21099,
+            "parent": {
+                "item": 7133
+            },
+            "sequence": "4.2.2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-09T11:13:50.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:07:09.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 5
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:17:43.000+0000",
+        "documentKey": "CL3-SVER-24",
+        "fields": {
+            "description": "<p>Take a random sample of five implants from manufacturer delivery.</p>\n",
+            "documentKey": "CL3-SVER-24",
+            "globalId": "GID-54235",
+            "name": "Verification of length",
+            "status": 292,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "Unit 1 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 2 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 3 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 4 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 5 produced / procured adheres to requirement",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54235",
+        "id": 2868,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-13T21:07:09.000+0000",
+        "location": {
+            "globalSortOrder": 21100,
+            "parent": {
+                "item": 7133
+            },
+            "sequence": "4.2.2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:07:09.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2015-09-28T18:19:08.000+0000",
+        "documentKey": "CL3-SVER-25",
+        "fields": {
+            "description": "<p>Random sample of five implants as delivered by manufacturer.</p>\n",
+            "documentKey": "CL3-SVER-25",
+            "globalId": "GID-54236",
+            "name": "Verification of material",
+            "status": 292,
+            "testCaseStatus": "SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "Unit 1 produced / procured adheres to requirement, proven through chemical composition analysis",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 2 produced / procured adheres to requirement, proven through chemical composition analysis",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 3 produced / procured adheres to requirement, proven through chemical composition analysis",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 4 produced / procured adheres to requirement, proven through chemical composition analysis",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Unit 5 produced / procured adheres to requirement, proven through chemical composition analysis",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 1,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-54236",
+        "id": 2869,
+        "itemType": 61,
+        "lastActivityDate": "2017-07-13T21:07:09.000+0000",
+        "location": {
+            "globalSortOrder": 21101,
+            "parent": {
+                "item": 7133
+            },
+            "sequence": "4.2.2.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "lastLockedDate": "2015-09-28T18:20:42.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-07-13T21:07:09.000+0000",
+        "project": 25,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "createdBy": 26,
+        "createdDate": "2022-06-20T07:09:05.000+0000",
+        "documentKey": "MDS01-TCS-4",
+        "fields": {
+            "description": "",
+            "documentKey": "MDS01-TCS-4",
+            "globalId": "GID-62919",
+            "name": "test3",
+            "priority": 300,
+            "testCaseStatus": "SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "go",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "halt",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 4,
+                "numPassed": 0,
+                "numTotalRuns": 4
+            }
+        },
+        "globalId": "GID-62919",
+        "id": 20695,
+        "itemType": 26,
+        "lastActivityDate": "2024-09-24T07:44:56.000+0000",
+        "location": {
+            "globalSortOrder": 211245,
+            "parent": {
+                "item": 20691
+            },
+            "sequence": "10.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2024-09-24T07:44:57.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-09-24T07:44:56.000+0000",
+        "project": 128,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2022-06-20T07:08:24.000+0000",
+        "documentKey": "MDS01-TCS-2",
+        "fields": {
+            "description": "",
+            "documentKey": "MDS01-TCS-2",
+            "globalId": "GID-62917",
+            "name": "test4",
+            "priority": 300,
+            "testCaseStatus": "SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "add",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "delete",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 4,
+                "numPassed": 0,
+                "numTotalRuns": 4
+            }
+        },
+        "globalId": "GID-62917",
+        "id": 20693,
+        "itemType": 26,
+        "lastActivityDate": "2024-09-24T07:45:16.000+0000",
+        "location": {
+            "globalSortOrder": 212318,
+            "parent": {
+                "item": 20691
+            },
+            "sequence": "10.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2024-09-24T07:45:17.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-09-24T07:45:16.000+0000",
+        "project": 128,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    }
+]

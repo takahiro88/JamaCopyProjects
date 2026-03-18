@@ -1,0 +1,1237 @@
+[
+    {
+        "childItemType": 43,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-26",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-26",
+            "globalId": "GID-38783",
+            "name": "INFORMATION",
+            "setKey": "INFO"
+        },
+        "globalId": "GID-38783",
+        "id": 6293,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 2001,
+            "parent": {
+                "project": 40
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-CMP-22",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-CMP-22",
+            "globalId": "GID-38784",
+            "name": "Market Input"
+        },
+        "globalId": "GID-38784",
+        "id": 6294,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 3002,
+            "parent": {
+                "project": 40
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 45,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-28",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-28",
+            "globalId": "GID-38789",
+            "name": "Stakeholder Requirements",
+            "setKey": "PS"
+        },
+        "globalId": "GID-38789",
+        "id": 6299,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 4003,
+            "parent": {
+                "item": 6294
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 44,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-27",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-27",
+            "globalId": "GID-38790",
+            "name": "Use Cases",
+            "setKey": "E_UC"
+        },
+        "globalId": "GID-38790",
+        "id": 6300,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 5004,
+            "parent": {
+                "item": 6294
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 88,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-120",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-120",
+            "globalId": "GID-38791",
+            "name": "Validation Cases",
+            "setKey": "VAL"
+        },
+        "globalId": "GID-38791",
+        "id": 6301,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 6005,
+            "parent": {
+                "item": 6294
+            },
+            "sequence": "2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-CMP-23",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-CMP-23",
+            "globalId": "GID-38785",
+            "name": "Solution"
+        },
+        "globalId": "GID-38785",
+        "id": 6295,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 7006,
+            "parent": {
+                "project": 40
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 49,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-32",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-32",
+            "globalId": "GID-38792",
+            "name": "Solution Requirements",
+            "setKey": "P_REQ"
+        },
+        "globalId": "GID-38792",
+        "id": 6302,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 8007,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 58,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-75",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-75",
+            "globalId": "GID-38793",
+            "name": "Solution Architecture",
+            "setKey": "D_DESC"
+        },
+        "globalId": "GID-38793",
+        "id": 6303,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 9008,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-121",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-121",
+            "globalId": "GID-38794",
+            "name": "Verification Cases",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38794",
+        "id": 6304,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 10009,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-CMP-24",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-CMP-24",
+            "globalId": "GID-38795",
+            "name": "I2C Interface"
+        },
+        "globalId": "GID-38795",
+        "id": 6305,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 11010,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 97,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-126",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-126",
+            "globalId": "GID-38800",
+            "name": "Block Requirements",
+            "setKey": "ICBLKREQ"
+        },
+        "globalId": "GID-38800",
+        "id": 6310,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 12011,
+            "parent": {
+                "item": 6305
+            },
+            "sequence": "3.4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-123",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-123",
+            "globalId": "GID-38801",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38801",
+        "id": 6311,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 13012,
+            "parent": {
+                "item": 6305
+            },
+            "sequence": "3.4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-86",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-86",
+            "globalId": "GID-38802",
+            "name": "Verification Cases",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38802",
+        "id": 6312,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 14013,
+            "parent": {
+                "item": 6305
+            },
+            "sequence": "3.4.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-CMP-30",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-CMP-30",
+            "globalId": "GID-38796",
+            "name": "CAN"
+        },
+        "globalId": "GID-38796",
+        "id": 6306,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 15014,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 97,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-127",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-127",
+            "globalId": "GID-38803",
+            "name": "Block Requirements",
+            "setKey": "ICBLKREQ"
+        },
+        "globalId": "GID-38803",
+        "id": 6313,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 16015,
+            "parent": {
+                "item": 6306
+            },
+            "sequence": "3.5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-128",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-128",
+            "globalId": "GID-38804",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38804",
+        "id": 6314,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 17016,
+            "parent": {
+                "item": 6306
+            },
+            "sequence": "3.5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-129",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-129",
+            "globalId": "GID-38805",
+            "name": "Verification Cases",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38805",
+        "id": 6315,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 18017,
+            "parent": {
+                "item": 6306
+            },
+            "sequence": "3.5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-CMP-31",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-CMP-31",
+            "globalId": "GID-38797",
+            "name": "LCD Controller"
+        },
+        "globalId": "GID-38797",
+        "id": 6307,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 19018,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 97,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-130",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-130",
+            "globalId": "GID-38806",
+            "name": "Block Requirements",
+            "setKey": "ICBLKREQ"
+        },
+        "globalId": "GID-38806",
+        "id": 6316,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 20019,
+            "parent": {
+                "item": 6307
+            },
+            "sequence": "3.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-131",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-131",
+            "globalId": "GID-38807",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38807",
+        "id": 6317,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 21020,
+            "parent": {
+                "item": 6307
+            },
+            "sequence": "3.6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-132",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-132",
+            "globalId": "GID-38808",
+            "name": "Verification Cases",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38808",
+        "id": 6318,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 22021,
+            "parent": {
+                "item": 6307
+            },
+            "sequence": "3.6.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-CMP-32",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-CMP-32",
+            "globalId": "GID-38798",
+            "name": "External Memory Interface"
+        },
+        "globalId": "GID-38798",
+        "id": 6308,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 23022,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 97,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-133",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-133",
+            "globalId": "GID-38809",
+            "name": "Block Requirements",
+            "setKey": "ICBLKREQ"
+        },
+        "globalId": "GID-38809",
+        "id": 6319,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 24023,
+            "parent": {
+                "item": 6308
+            },
+            "sequence": "3.7.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-134",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-134",
+            "globalId": "GID-38810",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38810",
+        "id": 6320,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 25024,
+            "parent": {
+                "item": 6308
+            },
+            "sequence": "3.7.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-135",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-135",
+            "globalId": "GID-38811",
+            "name": "Verification Cases",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38811",
+        "id": 6321,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 26025,
+            "parent": {
+                "item": 6308
+            },
+            "sequence": "3.7.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 100,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-136",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-136",
+            "globalId": "GID-38799",
+            "name": "Datasheet",
+            "setKey": "DATA"
+        },
+        "globalId": "GID-38799",
+        "id": 6309,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 27026,
+            "parent": {
+                "item": 6295
+            },
+            "sequence": "3.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 100,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-138",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-138",
+            "globalId": "GID-38786",
+            "name": "Datasheet",
+            "setKey": "DATA"
+        },
+        "globalId": "GID-38786",
+        "id": 6296,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 28027,
+            "parent": {
+                "project": 40
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 28,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-124",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-124",
+            "globalId": "GID-38787",
+            "name": "Change Requests",
+            "setKey": "CR"
+        },
+        "globalId": "GID-38787",
+        "id": 6297,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 29028,
+            "parent": {
+                "project": 40
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 27,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:41:24.000+0000",
+        "documentKey": "SI-SET-73",
+        "fields": {
+            "description": "",
+            "documentKey": "SI-SET-73",
+            "globalId": "GID-38788",
+            "name": "Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-38788",
+        "id": 6298,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:41:24.000+0000",
+        "location": {
+            "globalSortOrder": 30029,
+            "parent": {
+                "project": 40
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:41:24.000+0000",
+        "project": 40,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

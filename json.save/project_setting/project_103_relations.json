@@ -1,0 +1,18 @@
+[
+    {
+        "fromItem": 17972,
+        "id": 5523,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 17973,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 18454,
+        "id": 5581,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 18453,
+        "type": "relationships"
+    }
+]

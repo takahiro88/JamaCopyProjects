@@ -1,0 +1,41 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 655,
+        "infotip": "",
+        "name": "Draft",
+        "pickList": 387,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 656,
+        "infotip": "",
+        "name": "In Progress",
+        "pickList": 387,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 657,
+        "infotip": "",
+        "name": "Done",
+        "pickList": 387,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

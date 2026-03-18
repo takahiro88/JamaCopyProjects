@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2024-10-18T06:09:02.000+0000",
+    "fields": {
+        "description": "Configuration based on:\nBABOK® v3\nA GUIDE TO THE BUSINESS ANALYSIS BODY OF KNOWLEDGE® published 2015.\nInternational Institute of Business Analysis, Toronto, Ontario, Canada.",
+        "name": "Demo IIBA BABOK Sample",
+        "projectGroup": 296,
+        "projectKey": "BABK3",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 173,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2024-10-18T06:09:02.000+0000",
+    "parent": 110,
+    "projectKey": "BABK3",
+    "type": "projects"
+}

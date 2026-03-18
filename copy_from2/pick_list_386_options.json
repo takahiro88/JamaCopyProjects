@@ -1,0 +1,71 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "CCFFFF",
+        "default": false,
+        "description": "",
+        "id": 650,
+        "infotip": "",
+        "name": "初回対応中",
+        "pickList": 386,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": "a"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FDE3FF",
+        "default": false,
+        "description": "",
+        "id": 651,
+        "infotip": "",
+        "name": "承認前",
+        "pickList": 386,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFF66",
+        "default": false,
+        "description": "",
+        "id": 652,
+        "infotip": "",
+        "name": "承認中",
+        "pickList": 386,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 653,
+        "infotip": "",
+        "name": "承認済",
+        "pickList": 386,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF0000",
+        "default": false,
+        "description": "",
+        "id": 654,
+        "infotip": "",
+        "name": "却下",
+        "pickList": 386,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

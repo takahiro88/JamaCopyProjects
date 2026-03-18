@@ -1,0 +1,1149 @@
+[
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-CMP-1",
+            "globalId": "GID-39004",
+            "name": "Mission Needs (CDD)"
+        },
+        "globalId": "GID-39004",
+        "id": 6365,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 2001,
+            "parent": {
+                "project": 42
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 108,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-1",
+            "globalId": "GID-39010",
+            "name": "Mission Needs",
+            "setKey": "MN"
+        },
+        "globalId": "GID-39010",
+        "id": 6371,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 3002,
+            "parent": {
+                "item": 6365
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 98,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-2",
+            "globalId": "GID-39011",
+            "name": "Capabilities (CPD)",
+            "setKey": "CAP"
+        },
+        "globalId": "GID-39011",
+        "id": 6372,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 4003,
+            "parent": {
+                "item": 6365
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-CMP-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-CMP-2",
+            "globalId": "GID-39005",
+            "name": "Stakeholder and Operational Needs"
+        },
+        "globalId": "GID-39005",
+        "id": 6366,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 5004,
+            "parent": {
+                "project": 42
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 33,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-6",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-6",
+            "globalId": "GID-39012",
+            "name": "CONOPS",
+            "setKey": "TXT"
+        },
+        "globalId": "GID-39012",
+        "id": 6373,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 6005,
+            "parent": {
+                "item": 6366
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 107,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-3",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-3",
+            "globalId": "GID-39013",
+            "name": "Operational Requirements",
+            "setKey": "OR"
+        },
+        "globalId": "GID-39013",
+        "id": 6374,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 7006,
+            "parent": {
+                "item": 6366
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-4",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-4",
+            "globalId": "GID-39014",
+            "name": "Functional Requirements",
+            "setKey": "FR"
+        },
+        "globalId": "GID-39014",
+        "id": 6375,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 8007,
+            "parent": {
+                "item": 6366
+            },
+            "sequence": "2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 68,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-5",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-5",
+            "globalId": "GID-39015",
+            "name": "Non-Functional Requirements",
+            "setKey": "NFR"
+        },
+        "globalId": "GID-39015",
+        "id": 6376,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 9008,
+            "parent": {
+                "item": 6366
+            },
+            "sequence": "2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-CMP-3",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-CMP-3",
+            "globalId": "GID-39006",
+            "name": "System Requirements (SYS)"
+        },
+        "globalId": "GID-39006",
+        "id": 6367,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 10009,
+            "parent": {
+                "project": 42
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-7",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-7",
+            "globalId": "GID-39016",
+            "name": "System Requirements (SYS)",
+            "setKey": "SS"
+        },
+        "globalId": "GID-39016",
+        "id": 6377,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 11010,
+            "parent": {
+                "item": 6367
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-CMP-4",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-CMP-4",
+            "globalId": "GID-39017",
+            "name": "Subsystem A"
+        },
+        "globalId": "GID-39017",
+        "id": 6378,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 12011,
+            "parent": {
+                "item": 6367
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-8",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-8",
+            "globalId": "GID-39023",
+            "name": "Hardware Subsystem Requirements",
+            "setKey": "HWSS"
+        },
+        "globalId": "GID-39023",
+        "id": 6384,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 13012,
+            "parent": {
+                "item": 6378
+            },
+            "sequence": "3.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-9",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-9",
+            "globalId": "GID-39024",
+            "name": "Software Subsystem Requirements",
+            "setKey": "SWSS"
+        },
+        "globalId": "GID-39024",
+        "id": 6385,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 14013,
+            "parent": {
+                "item": 6378
+            },
+            "sequence": "3.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-10",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-10",
+            "globalId": "GID-39025",
+            "name": "Electrical Subsystem Requirements",
+            "setKey": "ELSS"
+        },
+        "globalId": "GID-39025",
+        "id": 6386,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 15014,
+            "parent": {
+                "item": 6378
+            },
+            "sequence": "3.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-CMP-5",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-CMP-5",
+            "globalId": "GID-39018",
+            "name": "Subsystem B"
+        },
+        "globalId": "GID-39018",
+        "id": 6379,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 16015,
+            "parent": {
+                "item": 6367
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-11",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-11",
+            "globalId": "GID-39026",
+            "name": "Hardware Subsystem Requirements",
+            "setKey": "HWSS"
+        },
+        "globalId": "GID-39026",
+        "id": 6387,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 17016,
+            "parent": {
+                "item": 6379
+            },
+            "sequence": "3.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-12",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-12",
+            "globalId": "GID-39027",
+            "name": "Software Subsystem Requirements",
+            "setKey": "SWSS"
+        },
+        "globalId": "GID-39027",
+        "id": 6388,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 18017,
+            "parent": {
+                "item": 6379
+            },
+            "sequence": "3.3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-13",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-13",
+            "globalId": "GID-39028",
+            "name": "Electrical Subsystem Requirements",
+            "setKey": "ELSS"
+        },
+        "globalId": "GID-39028",
+        "id": 6389,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 19018,
+            "parent": {
+                "item": 6379
+            },
+            "sequence": "3.3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-CMP-6",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-CMP-6",
+            "globalId": "GID-39007",
+            "name": "V&V"
+        },
+        "globalId": "GID-39007",
+        "id": 6368,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 20019,
+            "parent": {
+                "project": 42
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-14",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-14",
+            "globalId": "GID-39019",
+            "name": "System Verification Procedure",
+            "setKey": "VER"
+        },
+        "globalId": "GID-39019",
+        "id": 6380,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 21020,
+            "parent": {
+                "item": 6368
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-FLD-1",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-FLD-1",
+            "globalId": "GID-39029",
+            "name": "System Tests"
+        },
+        "globalId": "GID-39029",
+        "id": 6390,
+        "itemType": 32,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 21021,
+            "parent": {
+                "item": 6380
+            },
+            "sequence": "4.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-FLD-2",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-FLD-2",
+            "globalId": "GID-39030",
+            "name": "Integration Tests"
+        },
+        "globalId": "GID-39030",
+        "id": 6391,
+        "itemType": 32,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 21022,
+            "parent": {
+                "item": 6380
+            },
+            "sequence": "4.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-15",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-15",
+            "globalId": "GID-39020",
+            "name": "Subsystem A Verifications",
+            "setKey": "VER"
+        },
+        "globalId": "GID-39020",
+        "id": 6381,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 22023,
+            "parent": {
+                "item": 6368
+            },
+            "sequence": "4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-16",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-16",
+            "globalId": "GID-39021",
+            "name": "Subsystem B Verifications",
+            "setKey": "VER"
+        },
+        "globalId": "GID-39021",
+        "id": 6382,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 23024,
+            "parent": {
+                "item": 6368
+            },
+            "sequence": "4.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 88,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:40.000+0000",
+        "documentKey": "DEFV2-SET-17",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-17",
+            "globalId": "GID-39022",
+            "name": "Validation Plan and Activities",
+            "setKey": "VAL"
+        },
+        "globalId": "GID-39022",
+        "id": 6383,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:40.000+0000",
+        "location": {
+            "globalSortOrder": 24025,
+            "parent": {
+                "item": 6368
+            },
+            "sequence": "4.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:40.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 27,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-18",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-18",
+            "globalId": "GID-39008",
+            "name": "Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-39008",
+        "id": 6369,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 25026,
+            "parent": {
+                "project": 42
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 28,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T12:26:39.000+0000",
+        "documentKey": "DEFV2-SET-19",
+        "fields": {
+            "description": "",
+            "documentKey": "DEFV2-SET-19",
+            "globalId": "GID-39009",
+            "name": "Change Requests",
+            "setKey": "CR"
+        },
+        "globalId": "GID-39009",
+        "id": 6370,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T12:26:39.000+0000",
+        "location": {
+            "globalSortOrder": 26027,
+            "parent": {
+                "project": 42
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T12:26:39.000+0000",
+        "project": 42,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

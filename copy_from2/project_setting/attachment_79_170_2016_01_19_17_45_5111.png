@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>Error - Jama Software</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="robots" content="noindex" />
+    <link rel="stylesheet" href="/themes/contour/css/j-ext-all.css?v=16cdf92"
+          type="text/css"/>
+</head>
+<body>
+<div id="exceptionContainer">
+    <div class="branding">
+        <img src="/img/jama-logo-lockup-30.png" width="161" height="62">
+        <p>The collaborative way to succeed with requirements management.</p>
+        <p><a href="http://www.jamasoftware.com">www.jamasoftware.com</a></p>
+        <span>&copy; 2026 Jama Software. All rights reserved.</span>
+    </div>
+    <div class="warning">
+        <h1>Oh no!</h1>
+        <h2>There was an error with your request.</h2>
+        <p>If you believe you are receiving this message in error, please contact your administrator for assistance.</p>
+
+        <a href="" onclick="document.getElementById('error-details-element').style.display='block'; return false;">
+            Show Technical Details</a><br/>
+        <div id="error-details-element" style="display: none;">
+            <textarea readonly="readonly" id="error-details-textarea" style="width: 100%; height: 150px;">com.jamasoftware.contour.api.exception.ContourRuntimeException: The requested file 2016_01_19_17_45_5111.png was not found.</textarea>
+        </div>
+
+        <p><a href="/">Return to Jama &rarr;</a></p>
+    </div>
+</div>
+</body>
+</html>

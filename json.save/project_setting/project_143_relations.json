@@ -1,0 +1,202 @@
+[
+    {
+        "fromItem": 193489,
+        "id": 6726,
+        "relationshipType": 5,
+        "suspect": false,
+        "toItem": 193490,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193493,
+        "id": 6727,
+        "relationshipType": 10,
+        "suspect": false,
+        "toItem": 193492,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193491,
+        "id": 6728,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193494,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193495,
+        "id": 6729,
+        "relationshipType": 16,
+        "suspect": false,
+        "toItem": 193496,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193500,
+        "id": 6734,
+        "relationshipType": 5,
+        "suspect": false,
+        "toItem": 193505,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193508,
+        "id": 6736,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193502,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193506,
+        "id": 6737,
+        "relationshipType": 10,
+        "suspect": false,
+        "toItem": 193501,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193503,
+        "id": 6738,
+        "relationshipType": 16,
+        "suspect": false,
+        "toItem": 193509,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193520,
+        "id": 6743,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 193529,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193521,
+        "id": 6744,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 193530,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193534,
+        "id": 6745,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193522,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193523,
+        "id": 6746,
+        "relationshipType": 16,
+        "suspect": false,
+        "toItem": 193535,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193541,
+        "id": 6751,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 193529,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193542,
+        "id": 6752,
+        "relationshipType": 15,
+        "suspect": false,
+        "toItem": 193551,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193555,
+        "id": 6753,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193543,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193544,
+        "id": 6754,
+        "relationshipType": 16,
+        "suspect": false,
+        "toItem": 193556,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193562,
+        "id": 6758,
+        "relationshipType": 5,
+        "suspect": false,
+        "toItem": 193571,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193563,
+        "id": 6759,
+        "relationshipType": 10,
+        "suspect": false,
+        "toItem": 193572,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193576,
+        "id": 6760,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193564,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193565,
+        "id": 6761,
+        "relationshipType": 16,
+        "suspect": false,
+        "toItem": 193577,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193566,
+        "id": 6763,
+        "relationshipType": 5,
+        "suspect": false,
+        "toItem": 193573,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193567,
+        "id": 6764,
+        "relationshipType": 10,
+        "suspect": false,
+        "toItem": 193574,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193578,
+        "id": 6766,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193568,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193569,
+        "id": 6767,
+        "relationshipType": 16,
+        "suspect": false,
+        "toItem": 193579,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 193578,
+        "id": 6768,
+        "relationshipType": 11,
+        "suspect": false,
+        "toItem": 193587,
+        "type": "relationships"
+    }
+]

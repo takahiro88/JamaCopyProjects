@@ -1,0 +1,50 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 452,
+        "name": "C0 Controllable in general",
+        "pickList": 176,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 457,
+        "name": "C1 Simply controllable",
+        "pickList": 176,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 458,
+        "name": "C2 Normally controllable (most drivers could act to prevent injury)",
+        "pickList": 176,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 459,
+        "name": "C3 Difficult to control or uncontrollable",
+        "pickList": 176,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

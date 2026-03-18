@@ -1,0 +1,258 @@
+[
+    {
+        "childItemType": 23,
+        "createdBy": 13,
+        "createdDate": "2019-06-10T23:05:59.000+0000",
+        "documentKey": "ASE2-SET-2",
+        "fields": {
+            "description": "<p>日本語が使えるかどうか？</p>",
+            "documentKey": "ASE2-SET-2",
+            "globalId": "GID-55958",
+            "name": "Strategic Themes",
+            "setKey": "FEAT"
+        },
+        "globalId": "GID-55958",
+        "id": 8853,
+        "itemType": 31,
+        "lastActivityDate": "2019-06-10T23:05:59.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 51
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 13,
+        "modifiedDate": "2019-06-10T23:05:59.000+0000",
+        "project": 51,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 13,
+        "createdDate": "2019-06-10T23:05:59.000+0000",
+        "documentKey": "ASE2-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "ASE2-CMP-1",
+            "globalId": "GID-55959",
+            "name": "Input"
+        },
+        "globalId": "GID-55959",
+        "id": 8856,
+        "itemType": 30,
+        "lastActivityDate": "2019-06-10T23:05:59.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "project": 51
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 13,
+        "modifiedDate": "2019-06-10T23:05:59.000+0000",
+        "project": 51,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 45,
+        "createdBy": 13,
+        "createdDate": "2019-06-10T23:05:59.000+0000",
+        "documentKey": "ASE2-SET-3",
+        "fields": {
+            "description": "",
+            "documentKey": "ASE2-SET-3",
+            "globalId": "GID-55960",
+            "name": "Stakeholder Requirements",
+            "setKey": "SHRQ"
+        },
+        "globalId": "GID-55960",
+        "id": 8859,
+        "itemType": 31,
+        "lastActivityDate": "2019-06-10T23:05:59.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 8856
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 13,
+        "modifiedDate": "2019-06-10T23:05:59.000+0000",
+        "project": 51,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 13,
+        "createdDate": "2019-06-10T23:06:00.000+0000",
+        "documentKey": "ASE2-SHRQ-1",
+        "fields": {
+            "characterization$45": 323,
+            "description": "",
+            "documentKey": "ASE2-SHRQ-1",
+            "globalId": "GID-55961",
+            "name": "Test1",
+            "priority": 301,
+            "status": 292
+        },
+        "globalId": "GID-55961",
+        "id": 8862,
+        "itemType": 45,
+        "lastActivityDate": "2019-06-10T23:06:00.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 8859
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 13,
+        "modifiedDate": "2019-06-10T23:06:00.000+0000",
+        "project": 51,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 25,
+        "createdBy": 13,
+        "createdDate": "2019-06-10T23:06:00.000+0000",
+        "documentKey": "ASE2-SET-4",
+        "fields": {
+            "description": "",
+            "documentKey": "ASE2-SET-4",
+            "globalId": "GID-55962",
+            "name": "Use Cases",
+            "setKey": "UC"
+        },
+        "globalId": "GID-55962",
+        "id": 8865,
+        "itemType": 31,
+        "lastActivityDate": "2019-06-10T23:06:00.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 8856
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 13,
+        "modifiedDate": "2019-06-10T23:06:00.000+0000",
+        "project": 51,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 13,
+        "createdDate": "2019-06-10T23:06:00.000+0000",
+        "documentKey": "ASE2-UC-1",
+        "fields": {
+            "description": "<p><img height=\"296\" src=\"https://acceleratedsoftware.jamacloud.com/diagram/318/Diagram_1512_970.png\" width=\"255\" /></p>",
+            "documentKey": "ASE2-UC-1",
+            "globalId": "GID-55963",
+            "name": "テストの図",
+            "status": 292
+        },
+        "globalId": "GID-55963",
+        "id": 8868,
+        "itemType": 25,
+        "lastActivityDate": "2019-06-10T23:06:00.000+0000",
+        "location": {
+            "globalSortOrder": 1073745042,
+            "parent": {
+                "item": 8865
+            },
+            "sequence": "2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 13,
+        "modifiedDate": "2019-06-10T23:06:00.000+0000",
+        "project": 51,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

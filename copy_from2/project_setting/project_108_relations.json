@@ -1,0 +1,34 @@
+[
+    {
+        "fromItem": 17451,
+        "id": 5340,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 17449,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 17517,
+        "id": 5341,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 17511,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 21248,
+        "id": 6660,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 17510,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 21249,
+        "id": 6662,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 21248,
+        "type": "relationships"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2026-02-26T17:21:19.000+0000",
+    "fields": {
+        "description": "AEB（自動緊急ブレーキ）＋FCW（前方衝突警報）サンプル",
+        "name": "AEB_FCW",
+        "projectGroup": 296,
+        "projectKey": "ADAS",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 204,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2026-02-26T17:21:19.000+0000",
+    "parent": 110,
+    "projectKey": "ADAS",
+    "type": "projects"
+}

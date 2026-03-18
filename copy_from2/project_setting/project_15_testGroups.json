@@ -1,0 +1,17 @@
+[
+    {
+        "assignedTo": 9,
+        "id": 22,
+        "name": "I2C Interface"
+    },
+    {
+        "assignedTo": 9,
+        "id": 21,
+        "name": "CAN"
+    },
+    {
+        "assignedTo": 6,
+        "id": 20,
+        "name": "LCD Controller"
+    }
+]

@@ -1,0 +1,323 @@
+[
+    {
+        "createdBy": 11,
+        "createdDate": "2015-10-26T15:13:47.000+0000",
+        "documentKey": "BABK-TC-1",
+        "fields": {
+            "description": "",
+            "documentKey": "BABK-TC-1",
+            "globalId": "GID-17910",
+            "name": "View transfer history",
+            "priority": 301,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "log in as user",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "view history",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "make a transfer",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "view history again",
+                    "expectedResult": "new transfer should show up",
+                    "notes": ""
+                },
+                {
+                    "action": "log out",
+                    "expectedResult": "user should be logged out of application",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-17910",
+        "id": 3283,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-26T15:49:58.000+0000",
+        "location": {
+            "globalSortOrder": 12095,
+            "parent": {
+                "item": 3284
+            },
+            "sequence": "2.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-26T15:49:58.000+0000",
+        "project": 24,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 11,
+        "createdDate": "2015-10-26T15:15:00.000+0000",
+        "documentKey": "BABK-TC-3",
+        "fields": {
+            "assignedTo": 8,
+            "description": "",
+            "documentKey": "BABK-TC-3",
+            "globalId": "GID-17927",
+            "name": "Transfer between linked friends",
+            "priority": 300,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "log in",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "select linked friends from menu",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "select friend and choose 'transfer' option",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "enter dollar amount and then submit",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "verify friend receives request and have them accept",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "verify that 'success' text and email have been received",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "view transaction records and verify that transfer is logged",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-17927",
+        "id": 3289,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-26T15:54:31.000+0000",
+        "location": {
+            "globalSortOrder": 12096,
+            "parent": {
+                "item": 3284
+            },
+            "sequence": "2.1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-26T15:53:31.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-26T15:54:31.000+0000",
+        "project": 24,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 11,
+        "createdDate": "2015-10-26T15:15:00.000+0000",
+        "documentKey": "BABK-TC-2",
+        "fields": {
+            "assignedTo": 8,
+            "description": "",
+            "documentKey": "BABK-TC-2",
+            "globalId": "GID-17926",
+            "name": "Transfer between accounts",
+            "priority": 302,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Log in",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "select transfer from menu",
+                    "expectedResult": "transfer accounts should be shown",
+                    "notes": ""
+                },
+                {
+                    "action": "select account to transfer between and dollar ammount, then select transfer",
+                    "expectedResult": "should get 'success' verification",
+                    "notes": ""
+                },
+                {
+                    "action": "verify text notification was received",
+                    "expectedResult": "text verifying complete transfer should be received",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-17926",
+        "id": 3288,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-26T15:54:42.000+0000",
+        "location": {
+            "globalSortOrder": 12097,
+            "parent": {
+                "item": 3284
+            },
+            "sequence": "2.1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-26T15:35:26.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-26T15:54:42.000+0000",
+        "project": 24,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 6
+    },
+    {
+        "createdBy": 11,
+        "createdDate": "2015-10-26T15:15:00.000+0000",
+        "documentKey": "BABK-TC-4",
+        "fields": {
+            "assignedTo": 8,
+            "description": "",
+            "documentKey": "BABK-TC-4",
+            "globalId": "GID-17928",
+            "name": "Optional Finger print authentication",
+            "priority": 301,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "open app",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "hold fingerprint to screen",
+                    "expectedResult": "",
+                    "notes": "permission to use fingerprint should be set in perferences"
+                },
+                {
+                    "action": "verify you are logged in",
+                    "expectedResult": "main screen should be visible",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-17928",
+        "id": 3290,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-26T15:54:52.000+0000",
+        "location": {
+            "globalSortOrder": 12098,
+            "parent": {
+                "item": 3284
+            },
+            "sequence": "2.1.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-26T15:35:19.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-26T15:54:52.000+0000",
+        "project": 24,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    }
+]

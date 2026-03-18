@@ -1,0 +1,178 @@
+[
+    {
+        "createdBy": 8,
+        "createdDate": "2015-10-05T10:56:18.000+0000",
+        "documentKey": "SAFE-TC-6",
+        "fields": {
+            "description": "<p><strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Goal of Test Case:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">The goal of this test case is to ensure users can synchronize their music between their devices</span><br />\n<br />\n<strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Pre-Conditions:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">User has logged in and navigated to the &#39;add to favorites&#39; screen</span></p>\n",
+            "documentKey": "SAFE-TC-6",
+            "globalId": "GID-15407",
+            "name": "Add song to 'my favorites' and sync",
+            "priority": 302,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "search for a song",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "play the song",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "add song to favories",
+                    "expectedResult": "song should now show up in favorites window",
+                    "notes": ""
+                },
+                {
+                    "action": "log in with a new device",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "go to favorites",
+                    "expectedResult": "the new song should be in the list",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-15407",
+        "id": 3028,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-05T11:28:07.000+0000",
+        "location": {
+            "globalSortOrder": 20123,
+            "parent": {
+                "item": 3034
+            },
+            "sequence": "7.5.4.3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-05T11:28:07.000+0000",
+        "project": 26,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 8,
+        "createdDate": "2015-10-05T11:03:05.000+0000",
+        "documentKey": "SAFE-TC-7",
+        "fields": {
+            "description": "<p><strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Goal of Test Case:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">The goal of this test case is to ensure users can add 5 devices to their account with a &#39;premium&#39; subscription</span><br />\n<br />\n<strong style=\"box-sizing:border-box; font-family:arial,helvetica,sans-serif; font-size:13.3333px; font-style:normal\">Pre-Conditions:</strong><br />\n<span style=\"font-family:arial,helvetica,sans-serif; font-size:13.3333px\">User has logged in and is using a premium subscription</span></p>\n",
+            "documentKey": "SAFE-TC-7",
+            "globalId": "GID-15408",
+            "name": "support 5 devices",
+            "priority": 302,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "navigate to add devices window",
+                    "expectedResult": "list should be blank",
+                    "notes": ""
+                },
+                {
+                    "action": "click the '+' button",
+                    "expectedResult": "key-code should populate",
+                    "notes": ""
+                },
+                {
+                    "action": "log in on a new device",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "navigate to supported devices",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "select 'connect' button",
+                    "expectedResult": "window should pop up to enter sync key-code",
+                    "notes": ""
+                },
+                {
+                    "action": "enter code from previous device",
+                    "expectedResult": "new device should now show up in devices window",
+                    "notes": ""
+                },
+                {
+                    "action": "repeat 4 more times with new devices",
+                    "expectedResult": "5 devices should now be listed",
+                    "notes": ""
+                },
+                {
+                    "action": "try with 1 more device",
+                    "expectedResult": "message should appear notifying user that maximum devices have been reached. ",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 1
+            }
+        },
+        "globalId": "GID-15408",
+        "id": 3029,
+        "itemType": 26,
+        "lastActivityDate": "2015-10-05T11:28:22.000+0000",
+        "location": {
+            "globalSortOrder": 20122,
+            "parent": {
+                "item": 3034
+            },
+            "sequence": "7.5.4.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2015-10-05T11:05:23.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 7,
+        "modifiedDate": "2015-10-05T11:28:22.000+0000",
+        "project": 26,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    }
+]

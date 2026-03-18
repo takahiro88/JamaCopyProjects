@@ -1,0 +1,108 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-20T16:25:44.000+0000",
+        "documentKey": "SAFE3-TC1-13",
+        "fields": {
+            "description": "",
+            "documentKey": "SAFE3-TC1-13",
+            "globalId": "GID-62074",
+            "name": "TestB",
+            "priority": 300,
+            "testCaseStatus": "FAILED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 1,
+                "numPassed": 1,
+                "numTotalRuns": 3
+            }
+        },
+        "globalId": "GID-62074",
+        "id": 19605,
+        "itemType": 26,
+        "lastActivityDate": "2022-02-21T07:48:52.000+0000",
+        "location": {
+            "globalSortOrder": 113200,
+            "parent": {
+                "item": 13854
+            },
+            "sequence": "10.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-21T07:48:52.000+0000",
+        "project": 70,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-20T16:27:43.000+0000",
+        "documentKey": "SAFE3-TC1-14",
+        "fields": {
+            "description": "",
+            "documentKey": "SAFE3-TC1-14",
+            "globalId": "GID-62075",
+            "name": "TestB2",
+            "priority": 300,
+            "testCaseStatus": "PASSED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 1,
+                "numPassed": 2,
+                "numTotalRuns": 3
+            }
+        },
+        "globalId": "GID-62075",
+        "id": 19606,
+        "itemType": 26,
+        "lastActivityDate": "2022-02-20T16:48:36.000+0000",
+        "location": {
+            "globalSortOrder": 268530415,
+            "parent": {
+                "item": 13854
+            },
+            "sequence": "10.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2022-02-20T16:48:36.000+0000",
+        "project": 70,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

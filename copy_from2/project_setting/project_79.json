@@ -1,0 +1,19 @@
+{
+    "createdBy": 5,
+    "createdDate": "2015-05-20T11:40:06.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Duplicate of Semiconductor Sample Set",
+        "projectGroup": 296,
+        "projectKey": "SI_S2",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 79,
+    "isFolder": false,
+    "modifiedBy": 5,
+    "modifiedDate": "2016-04-19T09:23:57.000+0000",
+    "parent": 10,
+    "projectKey": "SI_S2",
+    "type": "projects"
+}

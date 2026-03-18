@@ -1,0 +1,54 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2019-06-11T23:52:58.000+0000",
+        "documentKey": "UAV2-TC-1",
+        "fields": {
+            "description": "",
+            "documentKey": "UAV2-TC-1",
+            "globalId": "GID-56095",
+            "name": "Sample Test",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-56095",
+        "id": 9276,
+        "itemType": 26,
+        "lastActivityDate": "2019-06-12T00:17:58.000+0000",
+        "location": {
+            "globalSortOrder": 1073799765,
+            "parent": {
+                "item": 9273
+            },
+            "sequence": "5.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2019-06-11T23:52:58.000+0000",
+        "project": 57,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

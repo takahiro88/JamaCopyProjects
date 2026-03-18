@@ -1,0 +1,21 @@
+{
+    "createdBy": 34,
+    "createdDate": "2025-05-20T05:52:58.000+0000",
+    "fields": {
+        "date1": "2025-05-25",
+        "date2": "2025-09-29",
+        "description": "顧客情報を一元管理し、営業活動の効率化と顧客満足度の向上を図ること\n",
+        "name": "サンプルプロジェクト（簡易顧客管理システム）",
+        "projectGroup": 296,
+        "projectKey": "SJ_cms",
+        "projectManager": 39,
+        "statusId": 298,
+        "text1": "- 顧客情報の一元管理を実現\n- 営業活動の効率化\n- 顧客満足度の向上\n- データの一貫性と正確性の確保\n- レポート機能によるデータ分析の強化\n"
+    },
+    "id": 186,
+    "isFolder": false,
+    "modifiedBy": 34,
+    "modifiedDate": "2025-05-20T05:52:58.000+0000",
+    "projectKey": "SJ_cms",
+    "type": "projects"
+}

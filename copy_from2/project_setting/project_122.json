@@ -1,0 +1,20 @@
+{
+    "createdBy": 14,
+    "createdDate": "2022-02-15T14:04:15.000+0000",
+    "fields": {
+        "date1": "2015-08-31",
+        "date2": "2015-12-30",
+        "description": "",
+        "name": "TestDX",
+        "projectGroup": 296,
+        "projectKey": "DXTST",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 122,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2022-02-15T14:04:15.000+0000",
+    "projectKey": "DXTST",
+    "type": "projects"
+}

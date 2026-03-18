@@ -1,0 +1,37 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 400,
+        "name": "Unassigned",
+        "pickList": 139,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 401,
+        "name": "Definitional Rule",
+        "pickList": 139,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 402,
+        "name": "Behavioral Rule",
+        "pickList": 139,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2021-12-02T13:31:11.000+0000",
+        "documentKey": "POJ12-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "POJ12-CMP-1",
+            "globalId": "GID-61237",
+            "name": "COMP1"
+        },
+        "globalId": "GID-61237",
+        "id": 18458,
+        "itemType": 30,
+        "lastActivityDate": "2021-12-02T13:31:11.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 115
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2021-12-02T13:31:11.000+0000",
+        "project": 115,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 14,
+        "createdDate": "2021-12-02T13:31:11.000+0000",
+        "documentKey": "POJ12-SET-1",
+        "fields": {
+            "description": "",
+            "documentKey": "POJ12-SET-1",
+            "globalId": "GID-61238",
+            "name": "Requirements",
+            "setKey": "REQ"
+        },
+        "globalId": "GID-61238",
+        "id": 18459,
+        "itemType": 31,
+        "lastActivityDate": "2021-12-02T13:31:11.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 18458
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2021-12-02T13:31:11.000+0000",
+        "project": 115,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2021-12-02T13:31:11.000+0000",
+        "documentKey": "POJ12-REQ-1",
+        "fields": {
+            "createdBy": 14,
+            "description": "",
+            "documentKey": "POJ12-REQ-1",
+            "globalId": "GID-61239",
+            "name": "REQ1",
+            "status": 292
+        },
+        "globalId": "GID-61239",
+        "id": 18460,
+        "itemType": 24,
+        "lastActivityDate": "2021-12-02T13:31:52.000+0000",
+        "location": {
+            "globalSortOrder": 1073743432,
+            "parent": {
+                "item": 18459
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2021-12-02T13:31:11.000+0000",
+        "project": 115,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

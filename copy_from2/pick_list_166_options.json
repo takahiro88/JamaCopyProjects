@@ -1,0 +1,78 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 425,
+        "name": "Unassigned",
+        "pickList": 166,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "E39191",
+        "default": false,
+        "description": "",
+        "id": 426,
+        "name": "Death (5)",
+        "pickList": 166,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "5"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCC66",
+        "default": false,
+        "description": "",
+        "id": 427,
+        "name": "Physical Injury (4)",
+        "pickList": 166,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": "4"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFF66",
+        "default": false,
+        "description": "",
+        "id": 428,
+        "name": "Illness (3)",
+        "pickList": 166,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": "3"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9CE78C",
+        "default": false,
+        "description": "",
+        "id": 430,
+        "name": "Damage to Environment (2)",
+        "pickList": 166,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": "2"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9BDFFF",
+        "default": false,
+        "description": "",
+        "id": 429,
+        "name": "Damage to Property (1)",
+        "pickList": 166,
+        "sortOrder": 6,
+        "type": "picklistoptions",
+        "value": "1"
+    }
+]

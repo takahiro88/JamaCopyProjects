@@ -1,0 +1,1027 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-27T18:14:39.000+0000",
+        "documentKey": "ADAS-CMP-1",
+        "fields": {
+            "documentKey": "ADAS-CMP-1",
+            "globalId": "GID-87570",
+            "name": "User Requirement"
+        },
+        "globalId": "GID-87570",
+        "id": 204235,
+        "itemType": 30,
+        "lastActivityDate": "2026-02-27T18:14:39.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 204
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-27T18:14:39.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 161,
+        "createdBy": 14,
+        "createdDate": "2026-02-27T18:16:36.000+0000",
+        "documentKey": "ADAS-SET-2",
+        "fields": {
+            "documentKey": "ADAS-SET-2",
+            "globalId": "GID-87574",
+            "name": "ASE USER REQ",
+            "setKey": "UREQ"
+        },
+        "globalId": "GID-87574",
+        "id": 204239,
+        "itemType": 31,
+        "lastActivityDate": "2026-02-27T18:16:36.000+0000",
+        "location": {
+            "globalSortOrder": 3754,
+            "parent": {
+                "item": 204235
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-27T18:16:36.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 177,
+        "createdBy": 14,
+        "createdDate": "2026-03-16T05:38:25.000+0000",
+        "documentKey": "ADAS-SET-5",
+        "fields": {
+            "documentKey": "ADAS-SET-5",
+            "globalId": "GID-87606",
+            "name": "ASE USER REQ2",
+            "setKey": "UREQ2"
+        },
+        "globalId": "GID-87606",
+        "id": 204374,
+        "itemType": 31,
+        "lastActivityDate": "2026-03-16T05:38:25.000+0000",
+        "location": {
+            "globalSortOrder": 4022,
+            "parent": {
+                "item": 204235
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-03-16T05:38:25.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-27T18:15:33.000+0000",
+        "documentKey": "ADAS-UREQ2-1",
+        "fields": {
+            "description": "<p>目的：前方車両との衝突リスク低減</p>\n",
+            "description2$177": "<p>追加フィールド</p>",
+            "documentKey": "ADAS-UREQ2-1",
+            "globalId": "GID-87607",
+            "name": "Front Collision Safety"
+        },
+        "globalId": "GID-87607",
+        "id": 204237,
+        "itemType": 177,
+        "lastActivityDate": "2026-03-16T05:39:11.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 204374
+            },
+            "sequence": "1.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2026-03-16T05:40:22.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-03-16T05:39:11.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-27T18:15:52.000+0000",
+        "documentKey": "ADAS-CMP-2",
+        "fields": {
+            "documentKey": "ADAS-CMP-2",
+            "globalId": "GID-87573",
+            "name": "System Requirements"
+        },
+        "globalId": "GID-87573",
+        "id": 204238,
+        "itemType": 30,
+        "lastActivityDate": "2026-02-27T18:15:52.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "project": 204
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-27T18:15:52.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 144,
+        "createdBy": 14,
+        "createdDate": "2026-02-27T18:17:17.000+0000",
+        "documentKey": "ADAS-SET-3",
+        "fields": {
+            "documentKey": "ADAS-SET-3",
+            "globalId": "GID-87576",
+            "name": "ASE Requirement",
+            "setKey": "AREQ"
+        },
+        "globalId": "GID-87576",
+        "id": 204242,
+        "itemType": 31,
+        "lastActivityDate": "2026-02-27T18:17:17.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 204238
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-27T18:17:17.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:03:21.000+0000",
+        "documentKey": "ADAS-AREQ-2",
+        "fields": {
+            "check$144": false,
+            "description": "<ul>\n\t<li>\n\t<p>自車が前方車両に対しTTC（Time To Collision）が閾値未満になった場合、ドライバへ警報を提示する。</p>\n\t</li>\n\t<li>\n\t<p>受入：TTC=2.0s未満で警報ON、2.2s以上でOFF（ヒステリシス例）</p>\n\t</li>\n</ul>\n",
+            "documentKey": "ADAS-AREQ-2",
+            "globalId": "GID-87578",
+            "name": "FCW警報",
+            "spec_type$144": [
+                640
+            ],
+            "status": 619,
+            "test_status$144": 355,
+            "testlist$144": 611
+        },
+        "globalId": "GID-87578",
+        "id": 204244,
+        "itemType": 144,
+        "lastActivityDate": "2026-03-03T02:18:21.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "item": 204242
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2026-03-02T18:41:10.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-03-03T02:18:21.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:05:19.000+0000",
+        "documentKey": "ADAS-AREQ-3",
+        "fields": {
+            "check$144": false,
+            "description": "<p>衝突不可避に近い場合、部分制動を自動適用する。</p>\n",
+            "documentKey": "ADAS-AREQ-3",
+            "globalId": "GID-87579",
+            "name": "AEB部分制動（Stage1）",
+            "spec_type$144": [
+                640
+            ],
+            "status": 620,
+            "testlist$144": 611
+        },
+        "globalId": "GID-87579",
+        "id": 204245,
+        "itemType": 144,
+        "lastActivityDate": "2026-03-02T18:41:21.000+0000",
+        "location": {
+            "globalSortOrder": 8583,
+            "parent": {
+                "item": 204242
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-03-02T18:41:21.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:05:34.000+0000",
+        "documentKey": "ADAS-AREQ-4",
+        "fields": {
+            "check$144": false,
+            "description": "<p>さらにリスクが高まった場合、フル制動を適用する。</p>\n",
+            "documentKey": "ADAS-AREQ-4",
+            "globalId": "GID-87580",
+            "name": "ADAS-SR-003：AEBフル制動（Stage2）",
+            "spec_type$144": [
+                640
+            ],
+            "status": 620,
+            "testlist$144": 611
+        },
+        "globalId": "GID-87580",
+        "id": 204246,
+        "itemType": 144,
+        "lastActivityDate": "2026-03-03T01:37:07.000+0000",
+        "location": {
+            "globalSortOrder": 9656,
+            "parent": {
+                "item": 204242
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-03-03T01:37:07.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:05:44.000+0000",
+        "documentKey": "ADAS-AREQ-5",
+        "fields": {
+            "check$144": false,
+            "description": "<p>ドライバがブレーキ/ステア操作を行った場合、システムは介入を中止/低減する。</p>\n",
+            "documentKey": "ADAS-AREQ-5",
+            "globalId": "GID-87581",
+            "name": "ドライバ介入優先",
+            "spec_type$144": [
+                640
+            ],
+            "status": 618,
+            "testlist$144": 611
+        },
+        "globalId": "GID-87581",
+        "id": 204247,
+        "itemType": 144,
+        "lastActivityDate": "2026-03-02T15:28:14.000+0000",
+        "location": {
+            "globalSortOrder": 10729,
+            "parent": {
+                "item": 204242
+            },
+            "sequence": "2.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-03-02T01:18:53.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:06:10.000+0000",
+        "documentKey": "ADAS-AREQ-6",
+        "fields": {
+            "check$144": false,
+            "description": "<p>センサ異常/通信異常時はAEBを禁止し、警告表示する。</p>\n",
+            "documentKey": "ADAS-AREQ-6",
+            "globalId": "GID-87582",
+            "name": "自己診断とフェイルセーフ",
+            "spec_type$144": [
+                640
+            ],
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-87582",
+        "id": 204248,
+        "itemType": 144,
+        "lastActivityDate": "2026-03-02T15:28:33.000+0000",
+        "location": {
+            "globalSortOrder": 11802,
+            "parent": {
+                "item": 204242
+            },
+            "sequence": "2.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:06:10.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:06:26.000+0000",
+        "documentKey": "ADAS-AREQ-7",
+        "fields": {
+            "check$144": false,
+            "description": "<p>速度範囲、対象物種別（車両）、路面条件等の適用条件を定義する（デモでは簡略化してOK）。</p>\n",
+            "documentKey": "ADAS-AREQ-7",
+            "globalId": "GID-87583",
+            "name": "作動条件（ODD）",
+            "spec_type$144": [
+                640
+            ],
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-87583",
+        "id": 204249,
+        "itemType": 144,
+        "lastActivityDate": "2026-03-02T15:28:49.000+0000",
+        "location": {
+            "globalSortOrder": 12875,
+            "parent": {
+                "item": 204242
+            },
+            "sequence": "2.1.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:06:26.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T08:56:40.000+0000",
+        "documentKey": "ADAS-CMP-3",
+        "fields": {
+            "documentKey": "ADAS-CMP-3",
+            "globalId": "GID-87577",
+            "name": "Software Requirements"
+        },
+        "globalId": "GID-87577",
+        "id": 204243,
+        "itemType": 30,
+        "lastActivityDate": "2026-02-28T08:56:40.000+0000",
+        "location": {
+            "globalSortOrder": 536879495,
+            "parent": {
+                "project": 204
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T08:56:40.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 176,
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:06:36.000+0000",
+        "documentKey": "ADAS-SET-4",
+        "fields": {
+            "documentKey": "ADAS-SET-4",
+            "globalId": "GID-87584",
+            "name": "ASE SWR",
+            "setKey": "SWR"
+        },
+        "globalId": "GID-87584",
+        "id": 204250,
+        "itemType": 31,
+        "lastActivityDate": "2026-02-28T09:06:36.000+0000",
+        "location": {
+            "globalSortOrder": 536880568,
+            "parent": {
+                "item": 204243
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:06:36.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:15:48.000+0000",
+        "documentKey": "ADAS-SWR-1",
+        "fields": {
+            "description": "<p>TTCは相対距離/相対速度から算出する。</p>\n",
+            "documentKey": "ADAS-SWR-1",
+            "globalId": "GID-87585",
+            "name": "TTC計算"
+        },
+        "globalId": "GID-87585",
+        "id": 204251,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-01T18:41:22.000+0000",
+        "location": {
+            "globalSortOrder": 536881641,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:15:48.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:16:03.000+0000",
+        "documentKey": "ADAS-SWR-2",
+        "fields": {
+            "description": "<p>TTC&lt;th1でFCW=ON、TTC&gt;th1+ΔでOFF。</p>\n",
+            "documentKey": "ADAS-SWR-2",
+            "globalId": "GID-87586",
+            "name": "FCW判定"
+        },
+        "globalId": "GID-87586",
+        "id": 204252,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-01T18:41:26.000+0000",
+        "location": {
+            "globalSortOrder": 536882714,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:16:03.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:16:14.000+0000",
+        "documentKey": "ADAS-SWR-3",
+        "fields": {
+            "description": "<p>TTC&lt;th2でStage1要求。</p>\n",
+            "documentKey": "ADAS-SWR-3",
+            "globalId": "GID-87587",
+            "name": "AEB Stage1判定"
+        },
+        "globalId": "GID-87587",
+        "id": 204253,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-01T18:41:46.000+0000",
+        "location": {
+            "globalSortOrder": 536883787,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:16:14.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:16:27.000+0000",
+        "documentKey": "ADAS-SWR-4",
+        "fields": {
+            "description": "<p>TTC&lt;th3でStage2要求。</p>\n",
+            "documentKey": "ADAS-SWR-4",
+            "globalId": "GID-87588",
+            "name": "AEB Stage2判定"
+        },
+        "globalId": "GID-87588",
+        "id": 204254,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-01T18:42:02.000+0000",
+        "location": {
+            "globalSortOrder": 536884860,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:16:27.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:17:04.000+0000",
+        "documentKey": "ADAS-SWR-5",
+        "fields": {
+            "description": "<p>Stage1=30%制動、Stage2=100%制動（例）</p>\n",
+            "documentKey": "ADAS-SWR-5",
+            "globalId": "GID-87589",
+            "name": "ブレーキ要求出力"
+        },
+        "globalId": "GID-87589",
+        "id": 204255,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-02T15:30:26.000+0000",
+        "location": {
+            "globalSortOrder": 536885933,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:17:04.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:17:13.000+0000",
+        "documentKey": "ADAS-SWR-6",
+        "fields": {
+            "description": "<p>ドライバブレーキ踏力&gt;閾値で解除。</p>\n",
+            "documentKey": "ADAS-SWR-6",
+            "globalId": "GID-87590",
+            "name": "介入中止条件"
+        },
+        "globalId": "GID-87590",
+        "id": 204256,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-02T15:28:14.000+0000",
+        "location": {
+            "globalSortOrder": 536887006,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:17:13.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:17:22.000+0000",
+        "documentKey": "ADAS-SWR-7",
+        "fields": {
+            "description": "<p>対象が車両以外の場合AEB禁止（例）。</p>\n",
+            "documentKey": "ADAS-SWR-7",
+            "globalId": "GID-87591",
+            "name": "対象物フィルタ"
+        },
+        "globalId": "GID-87591",
+        "id": 204257,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-02T15:28:49.000+0000",
+        "location": {
+            "globalSortOrder": 536888079,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:17:22.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:17:31.000+0000",
+        "documentKey": "ADAS-SWR-8",
+        "fields": {
+            "description": "<p>通信タイムアウトで故障判定。</p>\n",
+            "documentKey": "ADAS-SWR-8",
+            "globalId": "GID-87592",
+            "name": "センサ健全性監視"
+        },
+        "globalId": "GID-87592",
+        "id": 204258,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-02T15:28:29.000+0000",
+        "location": {
+            "globalSortOrder": 536889152,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:17:31.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:17:43.000+0000",
+        "documentKey": "ADAS-SWR-9",
+        "fields": {
+            "description": "<p>故障中はブレーキ要求=0固定。</p>\n",
+            "documentKey": "ADAS-SWR-9",
+            "globalId": "GID-87593",
+            "name": "故障時の出力抑止"
+        },
+        "globalId": "GID-87593",
+        "id": 204259,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-02T15:28:33.000+0000",
+        "location": {
+            "globalSortOrder": 536890225,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:17:43.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2026-02-28T09:17:53.000+0000",
+        "documentKey": "ADAS-SWR-10",
+        "fields": {
+            "description": "<p>作動イベントをDTC/ログに記録。</p>\n",
+            "documentKey": "ADAS-SWR-10",
+            "globalId": "GID-87594",
+            "name": "ログ出力"
+        },
+        "globalId": "GID-87594",
+        "id": 204260,
+        "itemType": 176,
+        "lastActivityDate": "2026-03-02T15:31:02.000+0000",
+        "location": {
+            "globalSortOrder": 536891298,
+            "parent": {
+                "item": 204250
+            },
+            "sequence": "3.1.10",
+            "sortOrder": 9
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-02-28T09:17:53.000+0000",
+        "project": 204,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

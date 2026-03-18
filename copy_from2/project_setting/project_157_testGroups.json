@@ -1,0 +1,11 @@
+[
+    {
+        "id": 76,
+        "name": "Default Test Group"
+    },
+    {
+        "assignedTo": 34,
+        "id": 80,
+        "name": "test-a"
+    }
+]

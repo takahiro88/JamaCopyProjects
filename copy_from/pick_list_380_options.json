@@ -1,0 +1,58 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF0000",
+        "default": true,
+        "description": "",
+        "id": 626,
+        "infotip": "",
+        "name": "Apple",
+        "pickList": 380,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": "1"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFF800",
+        "default": false,
+        "description": "",
+        "id": 627,
+        "infotip": "",
+        "name": "Pineapple",
+        "pickList": 380,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "2"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9966FF",
+        "default": false,
+        "description": "",
+        "id": 628,
+        "infotip": "",
+        "name": "Grape",
+        "pickList": 380,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": "3"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF9933",
+        "default": false,
+        "description": "",
+        "id": 629,
+        "infotip": "",
+        "name": "Orange",
+        "pickList": 380,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": "4"
+    }
+]

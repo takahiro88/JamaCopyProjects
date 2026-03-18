@@ -1,0 +1,19 @@
+{
+    "createdBy": 26,
+    "createdDate": "2023-02-03T04:16:29.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Relationship test",
+        "projectGroup": 296,
+        "projectKey": "RELT",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 143,
+    "isFolder": false,
+    "modifiedBy": 26,
+    "modifiedDate": "2023-02-03T04:16:29.000+0000",
+    "parent": 127,
+    "projectKey": "RELT",
+    "type": "projects"
+}

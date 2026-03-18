@@ -1,0 +1,127 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2025-07-31T05:16:57.000+0000",
+        "documentKey": "PROJ2-CMP-3",
+        "fields": {
+            "documentKey": "PROJ2-CMP-3",
+            "globalId": "GID-86376",
+            "name": "COMP"
+        },
+        "globalId": "GID-86376",
+        "id": 201965,
+        "itemType": 30,
+        "lastActivityDate": "2025-07-31T05:16:57.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 116
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-07-31T05:16:57.000+0000",
+        "project": 116,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 123,
+        "createdBy": 14,
+        "createdDate": "2025-07-31T05:17:39.000+0000",
+        "documentKey": "PROJ2-SET-3",
+        "fields": {
+            "documentKey": "PROJ2-SET-3",
+            "globalId": "GID-86377",
+            "name": "ConOps",
+            "setKey": "CNPS"
+        },
+        "globalId": "GID-86377",
+        "id": 201966,
+        "itemType": 31,
+        "lastActivityDate": "2025-07-31T05:17:39.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 201965
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-07-31T05:17:39.000+0000",
+        "project": 116,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-07-31T05:17:54.000+0000",
+        "documentKey": "PROJ2-CNPS-7",
+        "fields": {
+            "documentKey": "PROJ2-CNPS-7",
+            "globalId": "GID-86378",
+            "name": "ConA",
+            "validation_methods$123": [
+                513
+            ]
+        },
+        "globalId": "GID-86378",
+        "id": 201967,
+        "itemType": 123,
+        "lastActivityDate": "2025-07-31T05:18:29.000+0000",
+        "location": {
+            "globalSortOrder": 1073743432,
+            "parent": {
+                "item": 201966
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-07-31T05:17:54.000+0000",
+        "project": 116,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

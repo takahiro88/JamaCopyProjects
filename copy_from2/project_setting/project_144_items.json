@@ -1,0 +1,432 @@
+[
+    {
+        "childItemType": 86,
+        "createdBy": 26,
+        "createdDate": "2023-02-03T09:35:43.000+0000",
+        "documentKey": "RELT2-SET-3",
+        "fields": {
+            "description": "",
+            "documentKey": "RELT2-SET-3",
+            "globalId": "GID-82436",
+            "name": "System Requirements",
+            "setKey": "SREQ"
+        },
+        "globalId": "GID-82436",
+        "id": 193601,
+        "itemType": 31,
+        "lastActivityDate": "2024-04-23T23:47:21.000+0000",
+        "location": {
+            "globalSortOrder": 536879763,
+            "parent": {
+                "project": 144
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2023-02-03T09:35:43.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2023-02-03T09:36:03.000+0000",
+        "documentKey": "RELT2-SREQ-1",
+        "fields": {
+            "SubsysReqStat$86": "0%",
+            "description": "<p>changed for the second time</p>\n",
+            "documentKey": "RELT2-SREQ-1",
+            "globalId": "GID-82437",
+            "name": "SR123",
+            "status": 292
+        },
+        "globalId": "GID-82437",
+        "id": 193602,
+        "itemType": 86,
+        "lastActivityDate": "2024-04-24T00:01:03.000+0000",
+        "location": {
+            "globalSortOrder": 536880836,
+            "parent": {
+                "item": 193601
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2024-04-24T00:01:04.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-04-24T00:01:03.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 4
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-04-22T05:39:49.000+0000",
+        "documentKey": "RELT2-SREQ-2",
+        "fields": {
+            "description": "",
+            "documentKey": "RELT2-SREQ-2",
+            "globalId": "GID-82761",
+            "name": "SR234",
+            "status": 292
+        },
+        "globalId": "GID-82761",
+        "id": 194555,
+        "itemType": 86,
+        "lastActivityDate": "2024-04-23T23:47:21.000+0000",
+        "location": {
+            "globalSortOrder": 536881909,
+            "parent": {
+                "item": 193601
+            },
+            "sequence": "1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-04-22T05:39:49.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 87,
+        "createdBy": 26,
+        "createdDate": "2023-02-03T08:50:55.000+0000",
+        "documentKey": "RELT2-SET-2",
+        "fields": {
+            "description": "",
+            "documentKey": "RELT2-SET-2",
+            "globalId": "GID-82430",
+            "name": "Subsystem Requirements",
+            "setKey": "SUBSREQ"
+        },
+        "globalId": "GID-82430",
+        "id": 193593,
+        "itemType": 31,
+        "lastActivityDate": "2024-04-23T23:47:31.000+0000",
+        "location": {
+            "globalSortOrder": 536882982,
+            "parent": {
+                "project": 144
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2023-02-03T08:50:55.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2023-02-03T08:51:08.000+0000",
+        "documentKey": "RELT2-SUBSREQ-1",
+        "fields": {
+            "createdBy": 26,
+            "description": "<p>Something to consider</p>\n\n<p>&nbsp;</p>\n",
+            "documentKey": "RELT2-SUBSREQ-1",
+            "globalId": "GID-82431",
+            "name": "SSR1",
+            "status": 292
+        },
+        "globalId": "GID-82431",
+        "id": 193594,
+        "itemType": 87,
+        "lastActivityDate": "2024-04-23T23:59:27.000+0000",
+        "location": {
+            "globalSortOrder": 536884055,
+            "parent": {
+                "item": 193593
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2024-04-23T23:58:14.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-04-23T23:58:13.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-04-22T05:40:02.000+0000",
+        "documentKey": "RELT2-SUBSREQ-2",
+        "fields": {
+            "createdBy": 26,
+            "description": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"0\" style=\"border-collapse:collapse; width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:177px\">AA</td>\n\t\t\t<td style=\"width:299px\">11</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:177px\">BB</td>\n\t\t\t<td style=\"width:299px\">22</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:177px\">CC</td>\n\t\t\t<td style=\"width:299px\">33</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Something:</p>\n\n<p>&nbsp;</p>\n",
+            "documentKey": "RELT2-SUBSREQ-2",
+            "globalId": "GID-82762",
+            "name": "SSR2",
+            "status": 292
+        },
+        "globalId": "GID-82762",
+        "id": 194556,
+        "itemType": 87,
+        "lastActivityDate": "2024-04-23T23:57:35.000+0000",
+        "location": {
+            "globalSortOrder": 536885128,
+            "parent": {
+                "item": 193593
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2024-04-23T23:57:36.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-04-23T23:57:35.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 26,
+        "createdDate": "2023-02-03T08:03:24.000+0000",
+        "documentKey": "RELT2-SET-1",
+        "fields": {
+            "description": "",
+            "documentKey": "RELT2-SET-1",
+            "globalId": "GID-82428",
+            "name": "Functional Requirements",
+            "setKey": "FR"
+        },
+        "globalId": "GID-82428",
+        "id": 193591,
+        "itemType": 31,
+        "lastActivityDate": "2023-02-03T08:03:24.000+0000",
+        "location": {
+            "globalSortOrder": 536886201,
+            "parent": {
+                "project": 144
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2023-02-03T08:03:24.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2023-02-03T08:03:39.000+0000",
+        "documentKey": "RELT2-FR-1",
+        "fields": {
+            "description": "<p>changed</p>\n",
+            "documentKey": "RELT2-FR-1",
+            "globalId": "GID-82429",
+            "name": "FR1",
+            "status": 292
+        },
+        "globalId": "GID-82429",
+        "id": 193592,
+        "itemType": 67,
+        "lastActivityDate": "2024-04-23T23:59:27.000+0000",
+        "location": {
+            "globalSortOrder": 536887274,
+            "parent": {
+                "item": 193591
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2024-04-22T05:35:43.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-04-22T05:35:42.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2024-04-22T05:39:35.000+0000",
+        "documentKey": "RELT2-FR-2",
+        "fields": {
+            "description": "",
+            "documentKey": "RELT2-FR-2",
+            "globalId": "GID-82760",
+            "name": "FR2",
+            "status": 292
+        },
+        "globalId": "GID-82760",
+        "id": 194554,
+        "itemType": 67,
+        "lastActivityDate": "2024-04-22T05:39:35.000+0000",
+        "location": {
+            "globalSortOrder": 536888347,
+            "parent": {
+                "item": 193591
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2024-04-22T05:39:35.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 26,
+        "createdDate": "2023-12-20T06:16:38.000+0000",
+        "documentKey": "RELT2-CMP-1",
+        "fields": {
+            "description": "",
+            "documentKey": "RELT2-CMP-1",
+            "globalId": "GID-82732",
+            "name": "aaa"
+        },
+        "globalId": "GID-82732",
+        "id": 194476,
+        "itemType": 30,
+        "lastActivityDate": "2023-12-20T06:16:43.000+0000",
+        "location": {
+            "globalSortOrder": 1342185997,
+            "parent": {
+                "project": 144
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2023-12-20T06:16:43.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 26,
+        "modifiedDate": "2023-12-20T06:16:43.000+0000",
+        "project": 144,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

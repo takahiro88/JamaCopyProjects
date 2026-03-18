@@ -1,0 +1,1195 @@
+[
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:28.000+0000",
+        "documentKey": "AIS2-TXT-30",
+        "fields": {
+            "description": "<p><strong>ASIL</strong> - An Automotive Safety Integrity Level (ASIL) represents an automotive-specific risk-based classification of a safety goal as well as the validation and confirmation measures required by the standard to ensure accomplishment of that goal.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hazards</strong> - Potential source of harm caused by malfunctioning behavior of the item definition. ASIL is defined at the hazard level and all items decomposed from that hazards shall inherit the ASIL.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Item Descriptions</strong> - Item Definition is used to refer to a specific system or array of systems that implements a function at the vehicle level to which the ISO 26262 Safety Life Cycle is applied. That is, the item definition is the highest identified object in the process and is thereby the starting point for product-specific safety development under this standard.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Requirement</strong> - A property or capability that must be achieved or possessed by a system, system item, product, or service to satisfy a contract, standard, specification or other formally imposed documents. If a requirement has an ASIL other than QM, it shall be treated as a Safety Requirement.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Safety Goal</strong> - A safety goal is a top-level safety requirement that is assigned to a system, with the purpose of reducing the risk of one or more hazardous events to a tolerable level.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Safety Requirement</strong> - Safety requirements include all safety goals and all levels of requirements decomposed from the safety goals down to and including the lowest level of functional and technical safety requirements allocated to hardware and software components.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Stakeholder Requirements</strong> - requirements and requests through direct solicitation of customer input and through review of customer business proposals (where relevant), target operating and hardware environment, and other documents bearing on customer requirements.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>System</strong> - A collection of interacting items organized to accomplish a specific function or set of functions within a specific environment.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Use Case</strong> - A use case is a list of actions or event steps, typically defining the interactions between a role or actor and a system, to achieve a goal. The actor can be a human, an external system, or time. In systems engineering, use cases are used at a higher level than within software engineering, often representing missions or stakeholder goals.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>User Story</strong> - A user story is a description consisting of one or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or needs to do as part of his or her job function. It captures the &quot;who&quot;, &quot;what&quot; and &quot;why&quot; of a requirement in a simple, concise way, often limited in detail by what can be hand-written on a small paper notecard.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Validation</strong> - Validation demonstrates that the work item can be used by the users for their specific tasks.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Verification</strong> - Verification is confirmation, through the provision of objective evidence, that specified requirements have been fulfilled in a given work item.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+            "documentKey": "AIS2-TXT-30",
+            "globalId": "GID-38590",
+            "name": "Glossary"
+        },
+        "globalId": "GID-38590",
+        "id": 6100,
+        "itemType": 33,
+        "lastActivityDate": "2016-09-26T21:22:17.000+0000",
+        "location": {
+            "globalSortOrder": 1001,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2016-09-26T21:22:17.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-09-26T21:22:17.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 43,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:28.000+0000",
+        "documentKey": "AIS2-SET-26",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-26",
+            "globalId": "GID-38591",
+            "name": "INFORMATION",
+            "setKey": "INFO"
+        },
+        "globalId": "GID-38591",
+        "id": 6101,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:28.000+0000",
+        "location": {
+            "globalSortOrder": 2002,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:28.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:28.000+0000",
+        "documentKey": "AIS2-CMP-38",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-CMP-38",
+            "globalId": "GID-38592",
+            "name": "Risk"
+        },
+        "globalId": "GID-38592",
+        "id": 6102,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:38:28.000+0000",
+        "location": {
+            "globalSortOrder": 3003,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:28.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 101,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-186",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-186",
+            "globalId": "GID-38597",
+            "name": "Item Descriptions",
+            "setKey": "ID"
+        },
+        "globalId": "GID-38597",
+        "id": 6107,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 4004,
+            "parent": {
+                "item": 6102
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 104,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-187",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-187",
+            "globalId": "GID-38598",
+            "name": "Hazards",
+            "setKey": "AHZD"
+        },
+        "globalId": "GID-38598",
+        "id": 6108,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 5005,
+            "parent": {
+                "item": 6102
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 103,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-188",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-188",
+            "globalId": "GID-38599",
+            "name": "Safety Goals",
+            "setKey": "SG"
+        },
+        "globalId": "GID-38599",
+        "id": 6109,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 6006,
+            "parent": {
+                "item": 6102
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:28.000+0000",
+        "documentKey": "AIS2-CMP-24",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-CMP-24",
+            "globalId": "GID-38593",
+            "name": "Market Input"
+        },
+        "globalId": "GID-38593",
+        "id": 6103,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:38:28.000+0000",
+        "location": {
+            "globalSortOrder": 7007,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:28.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 106,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-181",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-181",
+            "globalId": "GID-38600",
+            "name": "Stakeholder Requirements",
+            "setKey": "ASTK"
+        },
+        "globalId": "GID-38600",
+        "id": 6110,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 8008,
+            "parent": {
+                "item": 6103
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 115,
+        "createdBy": 5,
+        "createdDate": "2017-04-20T22:25:26.000+0000",
+        "documentKey": "AIS2-SET-207",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-207",
+            "globalId": "GID-49701",
+            "name": "Functional Safety Requirements",
+            "setKey": "FSR"
+        },
+        "globalId": "GID-49701",
+        "id": 6888,
+        "itemType": 31,
+        "lastActivityDate": "2017-04-20T22:25:32.000+0000",
+        "location": {
+            "globalSortOrder": 9009,
+            "parent": {
+                "item": 6103
+            },
+            "sequence": "4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-04-20T22:25:26.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 44,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-78",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-78",
+            "globalId": "GID-38601",
+            "name": "Use Cases",
+            "setKey": "E_UC"
+        },
+        "globalId": "GID-38601",
+        "id": 6111,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 10010,
+            "parent": {
+                "item": 6103
+            },
+            "sequence": "4.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 88,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-147",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-147",
+            "globalId": "GID-38602",
+            "name": "Validation Cases",
+            "setKey": "VAL"
+        },
+        "globalId": "GID-38602",
+        "id": 6112,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 11011,
+            "parent": {
+                "item": 6103
+            },
+            "sequence": "4.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:28.000+0000",
+        "documentKey": "AIS2-CMP-25",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-CMP-25",
+            "globalId": "GID-38594",
+            "name": "System"
+        },
+        "globalId": "GID-38594",
+        "id": 6104,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:38:28.000+0000",
+        "location": {
+            "globalSortOrder": 12012,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:28.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 102,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-182",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-182",
+            "globalId": "GID-38603",
+            "name": "System Requirements",
+            "setKey": "ASYS"
+        },
+        "globalId": "GID-38603",
+        "id": 6113,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 13013,
+            "parent": {
+                "item": 6104
+            },
+            "sequence": "5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 116,
+        "createdBy": 5,
+        "createdDate": "2017-04-20T22:25:46.000+0000",
+        "documentKey": "AIS2-SET-208",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-208",
+            "globalId": "GID-49702",
+            "name": "Technical Safety Requirements",
+            "setKey": "TSR"
+        },
+        "globalId": "GID-49702",
+        "id": 6889,
+        "itemType": 31,
+        "lastActivityDate": "2017-04-20T22:25:50.000+0000",
+        "location": {
+            "globalSortOrder": 14014,
+            "parent": {
+                "item": 6104
+            },
+            "sequence": "5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-04-20T22:25:46.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 58,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-82",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-82",
+            "globalId": "GID-38604",
+            "name": "System Architecture",
+            "setKey": "D_DESC"
+        },
+        "globalId": "GID-38604",
+        "id": 6114,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 15015,
+            "parent": {
+                "item": 6104
+            },
+            "sequence": "5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 89,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-157",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-157",
+            "globalId": "GID-38605",
+            "name": "System Verification",
+            "setKey": "VER"
+        },
+        "globalId": "GID-38605",
+        "id": 6115,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 16016,
+            "parent": {
+                "item": 6104
+            },
+            "sequence": "5.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-CMP-26",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-CMP-26",
+            "globalId": "GID-38606",
+            "name": "Hardware"
+        },
+        "globalId": "GID-38606",
+        "id": 6116,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 17017,
+            "parent": {
+                "item": 6104
+            },
+            "sequence": "5.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 105,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-183",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-183",
+            "globalId": "GID-38608",
+            "name": "Hardware Requirements",
+            "setKey": "ASUB"
+        },
+        "globalId": "GID-38608",
+        "id": 6118,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 18018,
+            "parent": {
+                "item": 6116
+            },
+            "sequence": "5.5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 117,
+        "createdBy": 5,
+        "createdDate": "2017-04-20T22:26:14.000+0000",
+        "documentKey": "AIS2-SET-209",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-209",
+            "globalId": "GID-49703",
+            "name": "Hardware Safety Requirements",
+            "setKey": "SSR"
+        },
+        "globalId": "GID-49703",
+        "id": 6890,
+        "itemType": 31,
+        "lastActivityDate": "2017-04-20T22:26:17.000+0000",
+        "location": {
+            "globalSortOrder": 19019,
+            "parent": {
+                "item": 6116
+            },
+            "sequence": "5.5.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-04-20T22:26:14.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 95,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-169",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-169",
+            "globalId": "GID-38609",
+            "name": "Design Descriptions",
+            "setKey": "DES"
+        },
+        "globalId": "GID-38609",
+        "id": 6119,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 20020,
+            "parent": {
+                "item": 6116
+            },
+            "sequence": "5.5.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-158",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-158",
+            "globalId": "GID-38610",
+            "name": "Hardware Verification",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38610",
+        "id": 6120,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 21021,
+            "parent": {
+                "item": 6116
+            },
+            "sequence": "5.5.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-CMP-30",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-CMP-30",
+            "globalId": "GID-38607",
+            "name": "Software"
+        },
+        "globalId": "GID-38607",
+        "id": 6117,
+        "itemType": 30,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 22022,
+            "parent": {
+                "item": 6104
+            },
+            "sequence": "5.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 105,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-184",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-184",
+            "globalId": "GID-38611",
+            "name": "Software Requirements",
+            "setKey": "ASUB"
+        },
+        "globalId": "GID-38611",
+        "id": 6121,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 23023,
+            "parent": {
+                "item": 6117
+            },
+            "sequence": "5.6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 117,
+        "createdBy": 5,
+        "createdDate": "2017-04-20T22:26:32.000+0000",
+        "documentKey": "AIS2-SET-210",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-210",
+            "globalId": "GID-49704",
+            "name": "Software Safety Requirements",
+            "setKey": "SSR"
+        },
+        "globalId": "GID-49704",
+        "id": 6891,
+        "itemType": 31,
+        "lastActivityDate": "2017-04-20T22:26:36.000+0000",
+        "location": {
+            "globalSortOrder": 24024,
+            "parent": {
+                "item": 6117
+            },
+            "sequence": "5.6.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2017-04-20T22:26:32.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 29,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-138",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-138",
+            "globalId": "GID-38612",
+            "name": "Software Stories",
+            "setKey": "STY"
+        },
+        "globalId": "GID-38612",
+        "id": 6122,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 25025,
+            "parent": {
+                "item": 6117
+            },
+            "sequence": "5.6.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 61,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-165",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-165",
+            "globalId": "GID-38613",
+            "name": "Software Verification",
+            "setKey": "SVER"
+        },
+        "globalId": "GID-38613",
+        "id": 6123,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 26026,
+            "parent": {
+                "item": 6117
+            },
+            "sequence": "5.6.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 28,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-185",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-185",
+            "globalId": "GID-38595",
+            "name": "Change Requests",
+            "setKey": "CR"
+        },
+        "globalId": "GID-38595",
+        "id": 6105,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 27027,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 27,
+        "createdBy": 5,
+        "createdDate": "2016-04-19T09:38:29.000+0000",
+        "documentKey": "AIS2-SET-80",
+        "fields": {
+            "description": "",
+            "documentKey": "AIS2-SET-80",
+            "globalId": "GID-38596",
+            "name": "Defects",
+            "setKey": "BUG"
+        },
+        "globalId": "GID-38596",
+        "id": 6106,
+        "itemType": 31,
+        "lastActivityDate": "2016-04-19T09:38:29.000+0000",
+        "location": {
+            "globalSortOrder": 28028,
+            "parent": {
+                "project": 35
+            },
+            "sequence": "7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 5,
+        "modifiedDate": "2016-04-19T09:38:29.000+0000",
+        "project": 35,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

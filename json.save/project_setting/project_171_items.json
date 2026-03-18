@@ -1,0 +1,424 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:32:20.000+0000",
+        "documentKey": "TYPA-CMP-4",
+        "fields": {
+            "documentKey": "TYPA-CMP-4",
+            "globalId": "GID-83934",
+            "name": "エアバッグUser要求"
+        },
+        "globalId": "GID-83934",
+        "id": 196992,
+        "itemType": 30,
+        "lastActivityDate": "2024-10-08T00:32:20.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 171
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:32:20.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 161,
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:32:20.000+0000",
+        "documentKey": "TYPA-SET-3",
+        "fields": {
+            "documentKey": "TYPA-SET-3",
+            "globalId": "GID-83935",
+            "name": "ASE USER REQ",
+            "setKey": "UREQ"
+        },
+        "globalId": "GID-83935",
+        "id": 196993,
+        "itemType": 31,
+        "lastActivityDate": "2024-10-08T00:32:20.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 196992
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:32:20.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:32:20.000+0000",
+        "documentKey": "TYPA-UREQ-4",
+        "fields": {
+            "description": "<p>車両が衝突した際、即座にエアバッグが展開され、乗員を保護すること。横方向からの衝撃時にも展開されること</p>\n",
+            "documentKey": "TYPA-UREQ-4",
+            "globalId": "GID-83936",
+            "name": "エアバッグの動作タイミング"
+        },
+        "globalId": "GID-83936",
+        "id": 196994,
+        "itemType": 161,
+        "lastActivityDate": "2024-10-08T02:18:23.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 196993
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T02:18:23.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:32:20.000+0000",
+        "documentKey": "TYPA-UREQ-5",
+        "fields": {
+            "description": "<p>エアバッグが適切に動作する信頼性を保証していること。特に、重大な事故時に誤作動や未展開がないこと。</p>\n",
+            "documentKey": "TYPA-UREQ-5",
+            "globalId": "GID-83937",
+            "name": "エアバッグの信頼性"
+        },
+        "globalId": "GID-83937",
+        "id": 196995,
+        "itemType": 161,
+        "lastActivityDate": "2024-10-08T00:32:20.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 196993
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:32:20.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:32:20.000+0000",
+        "documentKey": "TYPA-UREQ-6",
+        "fields": {
+            "description": "<p>エアバッグが展開される際、乗員に対して過度な衝撃や傷害を与えないようにすること。</p>\n\n<p>基準の衝撃がない場合は展開されないように</p>\n",
+            "documentKey": "TYPA-UREQ-6",
+            "globalId": "GID-83938",
+            "name": "エアバッグの安全性"
+        },
+        "globalId": "GID-83938",
+        "id": 196996,
+        "itemType": 161,
+        "lastActivityDate": "2024-10-08T02:18:23.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 196993
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T02:18:23.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:33:08.000+0000",
+        "documentKey": "TYPA-CMP-5",
+        "fields": {
+            "documentKey": "TYPA-CMP-5",
+            "globalId": "GID-83944",
+            "name": "System要求"
+        },
+        "globalId": "GID-83944",
+        "id": 196997,
+        "itemType": 30,
+        "lastActivityDate": "2024-10-08T00:33:09.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "project": 171
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:33:08.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 144,
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:33:08.000+0000",
+        "documentKey": "TYPA-SET-4",
+        "fields": {
+            "documentKey": "TYPA-SET-4",
+            "globalId": "GID-83952",
+            "name": "ASE Requirement",
+            "setKey": "AREQ"
+        },
+        "globalId": "GID-83952",
+        "id": 196998,
+        "itemType": 31,
+        "lastActivityDate": "2024-10-08T00:33:09.000+0000",
+        "location": {
+            "globalSortOrder": 8583,
+            "parent": {
+                "item": 196997
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:33:08.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:33:08.000+0000",
+        "documentKey": "TYPA-AREQ-4",
+        "fields": {
+            "check$144": false,
+            "description": "<p>衝撃センサーは、時速20 km/h以上の正面衝突を感知した際にエアバッグを展開するための信号を送信すること。</p>\n",
+            "documentKey": "TYPA-AREQ-4",
+            "globalId": "GID-83953",
+            "name": "衝撃センサーの感度",
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-83953",
+        "id": 196999,
+        "itemType": 144,
+        "lastActivityDate": "2024-10-08T00:40:43.000+0000",
+        "location": {
+            "globalSortOrder": 9656,
+            "parent": {
+                "item": 196998
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2024-10-08T00:40:44.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:40:43.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:33:09.000+0000",
+        "documentKey": "TYPA-AREQ-5",
+        "fields": {
+            "check$144": false,
+            "description": "<p>エアバッグは、センサーからの信号を受信してから15ミリ秒以内に完全に展開されること。</p>\n",
+            "documentKey": "TYPA-AREQ-5",
+            "globalId": "GID-83954",
+            "name": "展開速度",
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-83954",
+        "id": 197000,
+        "itemType": 144,
+        "lastActivityDate": "2024-10-08T00:41:00.000+0000",
+        "location": {
+            "globalSortOrder": 10729,
+            "parent": {
+                "item": 196998
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2024-10-08T00:41:00.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:41:00.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:33:09.000+0000",
+        "documentKey": "TYPA-AREQ-6",
+        "fields": {
+            "check$144": false,
+            "description": "<p>エアバッグシステムは、-30°Cから+80°Cまでの温度範囲で正常に機能し、極端な温度下でも信頼性が保たれること。</p>\n",
+            "documentKey": "TYPA-AREQ-6",
+            "globalId": "GID-83955",
+            "name": "温度耐性",
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-83955",
+        "id": 197001,
+        "itemType": 144,
+        "lastActivityDate": "2024-10-08T00:41:14.000+0000",
+        "location": {
+            "globalSortOrder": 1073747188,
+            "parent": {
+                "item": 196998
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2024-10-08T00:41:15.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:41:14.000+0000",
+        "project": 171,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    }
+]

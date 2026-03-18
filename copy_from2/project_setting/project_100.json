@@ -1,0 +1,16 @@
+{
+    "createdBy": 14,
+    "createdDate": "2021-09-09T12:47:23.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Branch",
+        "projectGroup": 296,
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 100,
+    "isFolder": true,
+    "modifiedBy": 14,
+    "modifiedDate": "2021-09-09T12:47:23.000+0000",
+    "type": "projects"
+}

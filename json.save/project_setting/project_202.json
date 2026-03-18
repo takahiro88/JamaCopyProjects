@@ -1,0 +1,19 @@
+{
+    "createdBy": 14,
+    "createdDate": "2026-01-23T07:48:08.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Automotive Integrated System Sample Set",
+        "projectGroup": 296,
+        "projectKey": "AIS3",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 202,
+    "isFolder": false,
+    "modifiedBy": 14,
+    "modifiedDate": "2026-01-23T07:49:12.000+0000",
+    "parent": 200,
+    "projectKey": "AIS3",
+    "type": "projects"
+}

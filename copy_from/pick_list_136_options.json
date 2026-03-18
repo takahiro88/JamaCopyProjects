@@ -1,0 +1,73 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 387,
+        "name": "Unassigned",
+        "pickList": 136,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 389,
+        "name": "Accept",
+        "pickList": 136,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 390,
+        "name": "Pursue",
+        "pickList": 136,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 391,
+        "name": "Ignore",
+        "pickList": 136,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 392,
+        "name": "Mitigate",
+        "pickList": 136,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 393,
+        "name": "Avoid",
+        "pickList": 136,
+        "sortOrder": 6,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 536,
+        "name": "Unassigned",
+        "pickList": 243,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "EAEAFF",
+        "default": false,
+        "description": "",
+        "id": 537,
+        "name": "Negligible",
+        "pickList": 243,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "1"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "E6FFE1",
+        "default": false,
+        "description": "",
+        "id": 538,
+        "name": "Minor",
+        "pickList": 243,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": "2"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFFE1",
+        "default": false,
+        "description": "",
+        "id": 539,
+        "name": "Serious",
+        "pickList": 243,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": "3"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF9933",
+        "default": false,
+        "description": "",
+        "id": 540,
+        "name": "Critical",
+        "pickList": 243,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": "4"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCCCC",
+        "default": false,
+        "description": "",
+        "id": 541,
+        "name": "Catastrophic",
+        "pickList": 243,
+        "sortOrder": 6,
+        "type": "picklistoptions",
+        "value": "5"
+    }
+]

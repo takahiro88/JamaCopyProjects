@@ -1,0 +1,554 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-04T05:03:38.000+0000",
+        "documentKey": "ASE36D-VER-26",
+        "fields": {
+            "description": "",
+            "documentKey": "ASE36D-VER-26",
+            "globalId": "GID-61356",
+            "name": "Underwater immersion",
+            "status": 292,
+            "testCaseStatus": "SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "Fill water receptacle to 1m deep",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Ensure water is less than or equal to 75F",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Immerse sound processor for 30 minutes",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Sound processor meets minimum requirements for release",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 2,
+                "numPassed": 0,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-61356",
+        "id": 18671,
+        "itemType": 89,
+        "lastActivityDate": "2024-12-24T03:40:41.000+0000",
+        "location": {
+            "globalSortOrder": 174898,
+            "parent": {
+                "item": 18670
+            },
+            "sequence": "5.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2024-11-28T05:36:50.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2023-08-31T05:29:48.000+0000",
+        "project": 119,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-04T05:03:38.000+0000",
+        "documentKey": "ASE36D-VER-27",
+        "fields": {
+            "description": "",
+            "documentKey": "ASE36D-VER-27",
+            "globalId": "GID-61357",
+            "name": "Dust Test",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Place device in dust chamber",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Confirm settings are up to MIL-STD-80",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Start dust chamber",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Remove device",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Confirm device still works at production settings",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 1,
+                "numPassed": 1,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-61357",
+        "id": 18672,
+        "itemType": 89,
+        "lastActivityDate": "2025-03-19T04:34:18.000+0000",
+        "location": {
+            "globalSortOrder": 175971,
+            "parent": {
+                "item": 18670
+            },
+            "sequence": "5.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "lastLockedDate": "2024-11-28T05:36:51.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-08-06T09:46:33.000+0000",
+        "project": 119,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-04T05:03:38.000+0000",
+        "documentKey": "ASE36D-VER-28",
+        "fields": {
+            "description": "",
+            "documentKey": "ASE36D-VER-28",
+            "globalId": "GID-61358",
+            "name": "Collect SME data on single versus double stage",
+            "status": 292,
+            "testCaseStatus": "SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "Dr. Adams agrees single stage is what is best for the prospective patient.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Dr. Clyde agrees single stage is what is best for the prospective patient.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Dr. Jacob agrees single stage is what is best for the prospective patient.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Dr. Hala agrees single stage is what is best for the prospective patient.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Dr. Prudden agrees single stage is what is best for the prospective patient.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 2,
+                "numPassed": 0,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-61358",
+        "id": 18673,
+        "itemType": 89,
+        "lastActivityDate": "2024-12-24T03:40:41.000+0000",
+        "location": {
+            "globalSortOrder": 177044,
+            "parent": {
+                "item": 18670
+            },
+            "sequence": "5.2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2023-08-31T05:29:48.000+0000",
+        "project": 119,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-04T05:03:38.000+0000",
+        "documentKey": "ASE36D-VER-29",
+        "fields": {
+            "description": "<p>In a focus group of 10 patients with iOS devices, rate device application at least 7/10.</p>",
+            "documentKey": "ASE36D-VER-29",
+            "globalId": "GID-61359",
+            "name": "iOS Validation",
+            "status": 292,
+            "testCaseStatus": "FAILED",
+            "testCaseSteps": [
+                {
+                    "action": "Patient A rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient B rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient C rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient D rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient E rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient F rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient G rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient H rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient I rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient J rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 1,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 1,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-61359",
+        "id": 18674,
+        "itemType": 89,
+        "lastActivityDate": "2025-05-28T08:06:59.000+0000",
+        "location": {
+            "globalSortOrder": 178117,
+            "parent": {
+                "item": 18670
+            },
+            "sequence": "5.2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2023-08-31T05:35:56.000+0000",
+        "project": 119,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-04T05:03:38.000+0000",
+        "documentKey": "ASE36D-VER-30",
+        "fields": {
+            "description": "<p>In a focus group of 10 patients with Android devices, rate device application at least 7/10.aaa</p>\n",
+            "documentKey": "ASE36D-VER-30",
+            "globalId": "GID-61360",
+            "name": "Android Validation",
+            "status": 292,
+            "testCaseStatus": "PASSED",
+            "testCaseSteps": [
+                {
+                    "action": "Patient A rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient B rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient C rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient D rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient E rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient F rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient G rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient H rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient I rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient J rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 1,
+                "numPassed": 1,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-61360",
+        "id": 18675,
+        "itemType": 89,
+        "lastActivityDate": "2024-12-24T03:40:41.000+0000",
+        "location": {
+            "globalSortOrder": 179190,
+            "parent": {
+                "item": 18670
+            },
+            "sequence": "5.2.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2023-08-31T05:37:35.000+0000",
+        "project": 119,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2022-02-04T05:03:38.000+0000",
+        "documentKey": "ASE36D-VER-31",
+        "fields": {
+            "description": "<p>In a focus group of 10 patients with Windows Mobile devices, rate device application at least 7/10.</p>",
+            "documentKey": "ASE36D-VER-31",
+            "globalId": "GID-61361",
+            "name": "Windows Mobile Validation",
+            "status": 292,
+            "testCaseStatus": "SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "Patient A rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient B rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient C rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient D rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient E rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient F rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient G rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient H rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient I rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                },
+                {
+                    "action": "Patient J rates at least 7/10.",
+                    "expectedResult": "",
+                    "notes": ""
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 2,
+                "numPassed": 0,
+                "numTotalRuns": 2
+            }
+        },
+        "globalId": "GID-61361",
+        "id": 18676,
+        "itemType": 89,
+        "lastActivityDate": "2024-12-24T03:40:41.000+0000",
+        "location": {
+            "globalSortOrder": 182945,
+            "parent": {
+                "item": 18670
+            },
+            "sequence": "5.2.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2023-08-31T05:29:48.000+0000",
+        "project": 119,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

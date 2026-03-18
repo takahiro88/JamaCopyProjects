@@ -1,0 +1,38 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 297,
+        "name": "Proposed",
+        "pickList": 31,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 298,
+        "name": "Active",
+        "pickList": 31,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": false,
+        "description": "",
+        "id": 299,
+        "name": "Cancelled",
+        "pickList": 31,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

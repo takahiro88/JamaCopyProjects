@@ -1,0 +1,5577 @@
+[
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:55.000+0000",
+        "documentKey": "TT2_2-CMP-11",
+        "fields": {
+            "documentKey": "TT2_2-CMP-11",
+            "globalId": "GID-85343",
+            "name": "ステークフォルダー要求"
+        },
+        "globalId": "GID-85343",
+        "id": 199598,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-12T02:19:55.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:55.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 45,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-SET-8",
+        "fields": {
+            "documentKey": "TT2_2-SET-8",
+            "globalId": "GID-85344",
+            "name": "Stakeholder Requirements",
+            "setKey": "SHRQ"
+        },
+        "globalId": "GID-85344",
+        "id": 199599,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "item": 199598
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-SHRQ-1",
+        "fields": {
+            "description": "<p>マーケティングチーム:&nbsp;</p>\n",
+            "documentKey": "TT2_2-SHRQ-1",
+            "globalId": "GID-85345",
+            "name": "顧客データを活用したターゲティングとキャンペーンの効果測定",
+            "status": 292
+        },
+        "globalId": "GID-85345",
+        "id": 199600,
+        "itemType": 45,
+        "lastActivityDate": "2025-05-21T02:46:47.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 199599
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-SHRQ-2",
+        "fields": {
+            "description": "<p>経営陣</p>\n",
+            "documentKey": "TT2_2-SHRQ-2",
+            "globalId": "GID-85346",
+            "name": "営業活動のパフォーマンス分析と戦略的意思決定のためのデータ",
+            "status": 292
+        },
+        "globalId": "GID-85346",
+        "id": 199601,
+        "itemType": 45,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 199599
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-SHRQ-3",
+        "fields": {
+            "description": "",
+            "documentKey": "TT2_2-SHRQ-3",
+            "globalId": "GID-85347",
+            "name": "一貫した高品質なサービスと迅速な対応",
+            "status": 292
+        },
+        "globalId": "GID-85347",
+        "id": 199602,
+        "itemType": 45,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 199599
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-CMP-12",
+        "fields": {
+            "documentKey": "TT2_2-CMP-12",
+            "globalId": "GID-85348",
+            "name": "システム要求"
+        },
+        "globalId": "GID-85348",
+        "id": 199603,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 118,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-SET-15",
+        "fields": {
+            "description": "<p>要求仕様</p>\n",
+            "documentKey": "TT2_2-SET-15",
+            "globalId": "GID-85349",
+            "name": "System Requirements",
+            "setKey": "L1"
+        },
+        "globalId": "GID-85349",
+        "id": 199604,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 8583,
+            "parent": {
+                "item": 199603
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-L1-1",
+        "fields": {
+            "description": "<p>顧客情報を一元管理し、効率的にアクセス・更新できる機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L1-1",
+            "globalId": "GID-85350",
+            "key_driving_requirement$118": false,
+            "name": "顧客情報管理機能"
+        },
+        "globalId": "GID-85350",
+        "id": 199605,
+        "itemType": 118,
+        "lastActivityDate": "2025-05-21T02:46:47.000+0000",
+        "location": {
+            "globalSortOrder": 9656,
+            "parent": {
+                "item": 199604
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-L1-2",
+        "fields": {
+            "description": "<p>顧客とのコミュニケーション履歴を記録し、管理する機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L1-2",
+            "globalId": "GID-85351",
+            "key_driving_requirement$118": false,
+            "name": "コミュニケーション管理機能"
+        },
+        "globalId": "GID-85351",
+        "id": 199606,
+        "itemType": 118,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 10729,
+            "parent": {
+                "item": 199604
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-L1-3",
+        "fields": {
+            "description": "<p>営業活動の進捗を追跡し、管理する機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L1-3",
+            "globalId": "GID-85352",
+            "key_driving_requirement$118": false,
+            "name": "営業活動管理機能"
+        },
+        "globalId": "GID-85352",
+        "id": 199607,
+        "itemType": 118,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 11802,
+            "parent": {
+                "item": 199604
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-L1-4",
+        "fields": {
+            "description": "<p>顧客データや営業活動のデータを分析し、レポートを生成する機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L1-4",
+            "globalId": "GID-85353",
+            "key_driving_requirement$118": false,
+            "name": "レポート機能"
+        },
+        "globalId": "GID-85353",
+        "id": 199608,
+        "itemType": 118,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 12875,
+            "parent": {
+                "item": 199604
+            },
+            "sequence": "2.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 26,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:56.000+0000",
+        "documentKey": "TT2_2-SET-10",
+        "fields": {
+            "documentKey": "TT2_2-SET-10",
+            "globalId": "GID-85354",
+            "name": "Test Cases",
+            "setKey": "TC"
+        },
+        "globalId": "GID-85354",
+        "id": 199609,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:56.000+0000",
+        "location": {
+            "globalSortOrder": 13948,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:56.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-1",
+        "fields": {
+            "description": "<p>新規顧客情報が正しく登録されることを確認する。</p>\n",
+            "documentKey": "TT2_2-TC-1",
+            "globalId": "GID-85355",
+            "name": "新規顧客登録の正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目に正しい値を入力する \n2. 「登録」ボタンをクリックする\n",
+                    "expectedResult": "顧客情報がデータベースに登録され、一覧画面に表示される\n",
+                    "notes": "前提条件\n顧客情報入力画面が表示されていること"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85355",
+        "id": 199610,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 15021,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-2",
+        "fields": {
+            "description": "<p>必須項目が未入力の場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-2",
+            "globalId": "GID-85356",
+            "name": "新規顧客登録の異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目を空のままにする 2. 「登録」ボタンをクリックする",
+                    "expectedResult": "必須項目が未入力である旨のエラーメッセージが表示される",
+                    "notes": "顧客情報入力画面が表示されていること"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85356",
+        "id": 199611,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 16094,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-3",
+        "fields": {
+            "description": "<p>既存の顧客情報が正しく更新されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-3",
+            "globalId": "GID-85357",
+            "name": "顧客情報更新の正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 任意の項目を修正する \n2. 「更新」ボタンをクリックする",
+                    "expectedResult": "顧客情報がデータベースで更新され、一覧画面に反映される\n",
+                    "notes": "顧客情報更新画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85357",
+        "id": 199612,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 17167,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-4",
+        "fields": {
+            "description": "<p>存在しない顧客IDで更新を試みた場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-4",
+            "globalId": "GID-85358",
+            "name": "顧客情報更新の異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 存在しない顧客IDを入力する\n 2. 任意の項目を修正する \n3. 「更新」ボタンをクリックする",
+                    "expectedResult": "該当の顧客情報が存在しない旨のエラーメッセージが表示される\n",
+                    "notes": "顧客情報更新画面が表示されていること"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85358",
+        "id": 199613,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 18240,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-5",
+        "fields": {
+            "description": "<p>コミュニケーション履歴が正しく記録されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-5",
+            "globalId": "GID-85359",
+            "name": "コミュニケーション履歴記録の正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 日付、内容、担当者を入力する 2. 「記録」ボタンをクリックする\n",
+                    "expectedResult": "コミュニケーション履歴がデータベースに記録され、一覧画面に表示される\n",
+                    "notes": "コミュニケーション履歴記録画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85359",
+        "id": 199614,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 19313,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-6",
+        "fields": {
+            "description": "<p>必須項目が未入力の場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-6",
+            "globalId": "GID-85360",
+            "name": "コミュニケーション履歴記録の異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目を空のままにする\n 2. 「記録」ボタンをクリックする\n",
+                    "expectedResult": "必須項目が未入力である旨のエラーメッセージが表示される\n",
+                    "notes": "コミュニケーション履歴記録画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85360",
+        "id": 199615,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 20386,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-7",
+        "fields": {
+            "description": "<p>営業活動の進捗が正しく管理されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-7",
+            "globalId": "GID-85361",
+            "name": "営業活動進捗管理の正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 営業活動の進捗状況を更新する 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "営業活動の進捗状況がデータベースで更新され、一覧画面に反映される\n",
+                    "notes": "営業活動進捗管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85361",
+        "id": 199616,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 21459,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-8",
+        "fields": {
+            "description": "<p>不正な進捗状況を入力した場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-8",
+            "globalId": "GID-85362",
+            "name": "営業活動進捗管理の異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 範囲外の進捗状況を入力する\n 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "入力値が不正である旨のエラーメッセージが表示される\n",
+                    "notes": "営業活動進捗管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85362",
+        "id": 199617,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 22532,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-9",
+        "fields": {
+            "description": "<p>レポートが正しく生成されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-9",
+            "globalId": "GID-85363",
+            "name": "レポート生成の正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必要なパラメータを入力する \n2. 「生成」ボタンをクリックする\n",
+                    "expectedResult": "レポートが生成され、ダウンロード可能になる\n",
+                    "notes": "レポート生成画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85363",
+        "id": 199618,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 23605,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-10",
+        "fields": {
+            "description": "<p>パラメータが不足している場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-10",
+            "globalId": "GID-85364",
+            "name": "レポート生成の異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. パラメータを空のままにする\n 2. 「生成」ボタンをクリックする\n",
+                    "expectedResult": "パラメータが不足している旨のエラーメッセージが表示される\n",
+                    "notes": "レポート生成画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85364",
+        "id": 199619,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 24678,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.10",
+            "sortOrder": 9
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:57.000+0000",
+        "documentKey": "TT2_2-TC-11",
+        "fields": {
+            "description": "<p>顧客セグメントが正しく作成されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-11",
+            "globalId": "GID-85365",
+            "name": "顧客セグメンテーションの正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. セグメンテーション条件を入力する \n2. 「作成」ボタンをクリックする\n",
+                    "expectedResult": "顧客セグメントが作成され、一覧画面に表示される\n",
+                    "notes": "顧客セグメンテーション画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85365",
+        "id": 199620,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:57.000+0000",
+        "location": {
+            "globalSortOrder": 25751,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.11",
+            "sortOrder": 10
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:57.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-TC-12",
+        "fields": {
+            "description": "<p>不正なセグメンテーション条件を入力した場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-12",
+            "globalId": "GID-85366",
+            "name": "顧客セグメンテーションの異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 不正な条件を入力する \n2. 「作成」ボタンをクリックする\n",
+                    "expectedResult": "入力値が不正である旨のエラーメッセージが表示される\n",
+                    "notes": "顧客セグメンテーション画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85366",
+        "id": 199621,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 26824,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.12",
+            "sortOrder": 11
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-TC-13",
+        "fields": {
+            "description": "<p>顧客フィードバックが正しく管理されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-13",
+            "globalId": "GID-85367",
+            "name": "顧客フィードバック管理の正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客フィードバックを入力する 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "顧客フィードバックがデータベースに保存され、一覧画面に表示される\n",
+                    "notes": "顧客フィードバック管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85367",
+        "id": 199622,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 27897,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.13",
+            "sortOrder": 12
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-TC-14",
+        "fields": {
+            "description": "<p>必須項目が未入力の場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-14",
+            "globalId": "GID-85368",
+            "name": "顧客フィードバック管理の異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目を空のままにする 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "必須項目が未入力である旨のエラーメッセージが表示される\n",
+                    "notes": "顧客フィードバック管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85368",
+        "id": 199623,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 28970,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.14",
+            "sortOrder": 13
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-TC-15",
+        "fields": {
+            "description": "<p>ダッシュボードが正しく表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-15",
+            "globalId": "GID-85369",
+            "name": "ダッシュボードの正常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "-\n",
+                    "expectedResult": "ダッシュボードに各種情報が正しく表示される\n",
+                    "notes": "ダッシュボード画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85369",
+        "id": 199624,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 30043,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.15",
+            "sortOrder": 14
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-TC-16",
+        "fields": {
+            "description": "<p>データがない場合にダッシュボードが適切に表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TC-16",
+            "globalId": "GID-85370",
+            "name": "ダッシュボードの異常系テスト",
+            "priority": 300,
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "-\n",
+                    "expectedResult": "データがない旨のメッセージが表示される、またはデータがないことを考慮した表示になる\n",
+                    "notes": "ダッシュボード画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85370",
+        "id": 199625,
+        "itemType": 26,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 31116,
+            "parent": {
+                "item": 199609
+            },
+            "sequence": "3.16",
+            "sortOrder": 15
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-CMP-7",
+        "fields": {
+            "documentKey": "TT2_2-CMP-7",
+            "globalId": "GID-85371",
+            "name": "顧客管理機能"
+        },
+        "globalId": "GID-85371",
+        "id": 199626,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 32189,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 121,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-SET-17",
+        "fields": {
+            "documentKey": "TT2_2-SET-17",
+            "globalId": "GID-85372",
+            "name": "Subsystem Requirements",
+            "setKey": "L4"
+        },
+        "globalId": "GID-85372",
+        "id": 199627,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 33262,
+            "parent": {
+                "item": 199626
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-L4-1",
+        "fields": {
+            "description": "<p>顧客情報を一元管理するためのデータベースを構築する。</p>\n",
+            "documentKey": "TT2_2-L4-1",
+            "globalId": "GID-85373",
+            "key_driving_requirement$121": false,
+            "name": "顧客データベースの構築"
+        },
+        "globalId": "GID-85373",
+        "id": 199628,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 34335,
+            "parent": {
+                "item": 199627
+            },
+            "sequence": "4.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-L4-2",
+        "fields": {
+            "description": "<p>顧客情報を入力および更新するためのインターフェースを提供する。</p>\n",
+            "documentKey": "TT2_2-L4-2",
+            "globalId": "GID-85374",
+            "key_driving_requirement$121": false,
+            "name": "顧客情報の入力・更新機能"
+        },
+        "globalId": "GID-85374",
+        "id": 199629,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 35408,
+            "parent": {
+                "item": 199627
+            },
+            "sequence": "4.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:58.000+0000",
+        "documentKey": "TT2_2-L4-3",
+        "fields": {
+            "description": "<p>顧客データを基にセグメントを作成し、ターゲティングを行う機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L4-3",
+            "globalId": "GID-85375",
+            "key_driving_requirement$121": false,
+            "name": "顧客セグメンテーション機能"
+        },
+        "globalId": "GID-85375",
+        "id": 199630,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:58.000+0000",
+        "location": {
+            "globalSortOrder": 36481,
+            "parent": {
+                "item": 199627
+            },
+            "sequence": "4.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:58.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-CMP-8",
+        "fields": {
+            "description": "",
+            "documentKey": "TT2_2-CMP-8",
+            "globalId": "GID-85376",
+            "name": "コミュニケーション管理"
+        },
+        "globalId": "GID-85376",
+        "id": 199631,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 37554,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 121,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-SET-19",
+        "fields": {
+            "documentKey": "TT2_2-SET-19",
+            "globalId": "GID-85377",
+            "name": "Subsystem Requirements",
+            "setKey": "L4"
+        },
+        "globalId": "GID-85377",
+        "id": 199632,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 38627,
+            "parent": {
+                "item": 199631
+            },
+            "sequence": "5.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-L4-4",
+        "fields": {
+            "description": "<p>顧客とのコミュニケーション履歴を記録し、管理する機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L4-4",
+            "globalId": "GID-85378",
+            "key_driving_requirement$121": false,
+            "name": "コミュニケーション履歴の管理"
+        },
+        "globalId": "GID-85378",
+        "id": 199633,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 39700,
+            "parent": {
+                "item": 199632
+            },
+            "sequence": "5.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-L4-5",
+        "fields": {
+            "description": "<p>顧客からのフィードバックを収集し、管理する機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L4-5",
+            "globalId": "GID-85379",
+            "key_driving_requirement$121": false,
+            "name": "顧客フィードバック管理"
+        },
+        "globalId": "GID-85379",
+        "id": 199634,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 40773,
+            "parent": {
+                "item": 199632
+            },
+            "sequence": "5.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-CMP-9",
+        "fields": {
+            "documentKey": "TT2_2-CMP-9",
+            "globalId": "GID-85380",
+            "name": "営業活動管理機能"
+        },
+        "globalId": "GID-85380",
+        "id": 199635,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 41846,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 121,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-SET-20",
+        "fields": {
+            "documentKey": "TT2_2-SET-20",
+            "globalId": "GID-85381",
+            "name": "Subsystem Requirements",
+            "setKey": "L4"
+        },
+        "globalId": "GID-85381",
+        "id": 199636,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 42919,
+            "parent": {
+                "item": 199635
+            },
+            "sequence": "6.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-L4-6",
+        "fields": {
+            "description": "<p>営業活動の進捗を追跡し、管理するための機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L4-6",
+            "globalId": "GID-85382",
+            "key_driving_requirement$121": false,
+            "name": "営業活動の進捗管理"
+        },
+        "globalId": "GID-85382",
+        "id": 199637,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 43992,
+            "parent": {
+                "item": 199636
+            },
+            "sequence": "6.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-L4-7",
+        "fields": {
+            "description": "<p>営業活動や顧客データの概要を視覚的に表示するダッシュボードを提供する。</p>\n",
+            "documentKey": "TT2_2-L4-7",
+            "globalId": "GID-85383",
+            "key_driving_requirement$121": false,
+            "name": "ダッシュボード機能"
+        },
+        "globalId": "GID-85383",
+        "id": 199638,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 45065,
+            "parent": {
+                "item": 199636
+            },
+            "sequence": "6.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-CMP-10",
+        "fields": {
+            "documentKey": "TT2_2-CMP-10",
+            "globalId": "GID-85384",
+            "name": "レポート機能"
+        },
+        "globalId": "GID-85384",
+        "id": 199639,
+        "itemType": 30,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 46138,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 121,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-SET-21",
+        "fields": {
+            "documentKey": "TT2_2-SET-21",
+            "globalId": "GID-85385",
+            "name": "Subsystem Requirements",
+            "setKey": "L4"
+        },
+        "globalId": "GID-85385",
+        "id": 199640,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 47211,
+            "parent": {
+                "item": 199639
+            },
+            "sequence": "7.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-L4-8",
+        "fields": {
+            "description": "<p>顧客データや営業活動のデータを分析し、レポートを生成する機能を提供する。</p>\n",
+            "documentKey": "TT2_2-L4-8",
+            "globalId": "GID-85386",
+            "key_driving_requirement$121": false,
+            "name": "レポート機能の実装"
+        },
+        "globalId": "GID-85386",
+        "id": 199641,
+        "itemType": 121,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 48284,
+            "parent": {
+                "item": 199640
+            },
+            "sequence": "7.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-SET-18",
+        "fields": {
+            "documentKey": "TT2_2-SET-18",
+            "globalId": "GID-85387",
+            "name": "Functional Requirements",
+            "setKey": "FR"
+        },
+        "globalId": "GID-85387",
+        "id": 199642,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 49357,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:19:59.000+0000",
+        "documentKey": "TT2_2-FLD-5",
+        "fields": {
+            "documentKey": "TT2_2-FLD-5",
+            "globalId": "GID-85388",
+            "name": "機能要件"
+        },
+        "globalId": "GID-85388",
+        "id": 199643,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:19:59.000+0000",
+        "location": {
+            "globalSortOrder": 50430,
+            "parent": {
+                "item": 199642
+            },
+            "sequence": "8.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:19:59.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-8",
+        "fields": {
+            "description": "<p>新規顧客情報をシステムに登録する機能。</p>\n",
+            "documentKey": "TT2_2-FR-8",
+            "globalId": "GID-85389",
+            "name": "顧客情報の登録機能",
+            "status": 292
+        },
+        "globalId": "GID-85389",
+        "id": 199644,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 51503,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-9",
+        "fields": {
+            "description": "<p>既存の顧客情報を更新する機能。</p>\n",
+            "documentKey": "TT2_2-FR-9",
+            "globalId": "GID-85390",
+            "name": "顧客情報の更新機能",
+            "status": 292
+        },
+        "globalId": "GID-85390",
+        "id": 199645,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 52576,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-10",
+        "fields": {
+            "description": "<p>顧客とのコミュニケーション履歴を記録する機能。</p>\n",
+            "documentKey": "TT2_2-FR-10",
+            "globalId": "GID-85391",
+            "name": "コミュニケーション履歴の記録機能",
+            "status": 292
+        },
+        "globalId": "GID-85391",
+        "id": 199646,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 53649,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-11",
+        "fields": {
+            "description": "<p>営業活動の進捗を追跡し、管理する機能。</p>\n",
+            "documentKey": "TT2_2-FR-11",
+            "globalId": "GID-85392",
+            "name": "営業活動の進捗管理機能",
+            "status": 292
+        },
+        "globalId": "GID-85392",
+        "id": 199647,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 54722,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-12",
+        "fields": {
+            "description": "<p>顧客データや営業活動のデータを基にレポートを生成する機能。</p>\n",
+            "documentKey": "TT2_2-FR-12",
+            "globalId": "GID-85393",
+            "name": "レポート生成機能",
+            "status": 292
+        },
+        "globalId": "GID-85393",
+        "id": 199648,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 55795,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-13",
+        "fields": {
+            "description": "<p>顧客データを基にセグメントを作成し、ターゲティングを行う機能。</p>\n",
+            "documentKey": "TT2_2-FR-13",
+            "globalId": "GID-85394",
+            "name": "顧客セグメンテーション機能",
+            "status": 292
+        },
+        "globalId": "GID-85394",
+        "id": 199649,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 56868,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-14",
+        "fields": {
+            "description": "<p>顧客からのフィードバックを収集し、管理する機能。</p>\n",
+            "documentKey": "TT2_2-FR-14",
+            "globalId": "GID-85395",
+            "name": "顧客フィードバック管理機能",
+            "status": 292
+        },
+        "globalId": "GID-85395",
+        "id": 199650,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 57941,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-15",
+        "fields": {
+            "description": "<p>営業活動や顧客データの概要を視覚的に表示するダッシュボード機能。</p>\n",
+            "documentKey": "TT2_2-FR-15",
+            "globalId": "GID-85396",
+            "name": "ダッシュボード機能",
+            "status": 292
+        },
+        "globalId": "GID-85396",
+        "id": 199651,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 59014,
+            "parent": {
+                "item": 199643
+            },
+            "sequence": "8.1.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FLD-7",
+        "fields": {
+            "documentKey": "TT2_2-FLD-7",
+            "globalId": "GID-85397",
+            "name": "データ要件"
+        },
+        "globalId": "GID-85397",
+        "id": 199652,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 60087,
+            "parent": {
+                "item": 199642
+            },
+            "sequence": "8.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-19",
+        "fields": {
+            "description": "<p>顧客データは、氏名、住所、電話番号、メールアドレスなどの項目を含むこと。</p>\n",
+            "documentKey": "TT2_2-FR-19",
+            "globalId": "GID-85398",
+            "name": "顧客データ構造",
+            "status": 292
+        },
+        "globalId": "GID-85398",
+        "id": 199653,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 61160,
+            "parent": {
+                "item": 199652
+            },
+            "sequence": "8.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FR-20",
+        "fields": {
+            "description": "<p>コミュニケーション履歴データは、日付、内容、担当者などの項目を含むこと。</p>\n",
+            "documentKey": "TT2_2-FR-20",
+            "globalId": "GID-85399",
+            "name": "コミュニケーション履歴データ",
+            "status": 292
+        },
+        "globalId": "GID-85399",
+        "id": 199654,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 62233,
+            "parent": {
+                "item": 199652
+            },
+            "sequence": "8.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 67,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:00.000+0000",
+        "documentKey": "TT2_2-FLD-8",
+        "fields": {
+            "documentKey": "TT2_2-FLD-8",
+            "globalId": "GID-85400",
+            "name": "画面要件"
+        },
+        "globalId": "GID-85400",
+        "id": 199655,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:00.000+0000",
+        "location": {
+            "globalSortOrder": 63306,
+            "parent": {
+                "item": 199642
+            },
+            "sequence": "8.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:00.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FR-21",
+        "fields": {
+            "description": "<p>顧客情報を入力・更新するための画面。</p>\n",
+            "documentKey": "TT2_2-FR-21",
+            "globalId": "GID-85401",
+            "name": "顧客情報入力画面",
+            "status": 292
+        },
+        "globalId": "GID-85401",
+        "id": 199656,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 64379,
+            "parent": {
+                "item": 199655
+            },
+            "sequence": "8.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FR-22",
+        "fields": {
+            "description": "<p>顧客とのコミュニケーション履歴を表示・記録するための画面。</p>\n",
+            "documentKey": "TT2_2-FR-22",
+            "globalId": "GID-85402",
+            "name": "コミュニケーション履歴画面",
+            "status": 292
+        },
+        "globalId": "GID-85402",
+        "id": 199657,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 65452,
+            "parent": {
+                "item": 199655
+            },
+            "sequence": "8.3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FR-23",
+        "fields": {
+            "description": "<p>営業活動の進捗を表示・管理するための画面。</p>\n",
+            "documentKey": "TT2_2-FR-23",
+            "globalId": "GID-85403",
+            "name": "営業活動進捗管理画面",
+            "status": 292
+        },
+        "globalId": "GID-85403",
+        "id": 199658,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 66525,
+            "parent": {
+                "item": 199655
+            },
+            "sequence": "8.3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FR-24",
+        "fields": {
+            "description": "<p>レポートを表示・ダウンロードするための画面。</p>\n",
+            "documentKey": "TT2_2-FR-24",
+            "globalId": "GID-85404",
+            "name": "レポート画面",
+            "status": 292
+        },
+        "globalId": "GID-85404",
+        "id": 199659,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 67598,
+            "parent": {
+                "item": 199655
+            },
+            "sequence": "8.3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FR-25",
+        "fields": {
+            "description": "<p>顧客データを基にセグメントを作成し、ターゲティングを行うための画面。</p>\n",
+            "documentKey": "TT2_2-FR-25",
+            "globalId": "GID-85405",
+            "name": "顧客セグメンテーション画面",
+            "status": 292
+        },
+        "globalId": "GID-85405",
+        "id": 199660,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 68671,
+            "parent": {
+                "item": 199655
+            },
+            "sequence": "8.3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FR-26",
+        "fields": {
+            "description": "<p>営業活動や顧客データの概要を視覚的に表示するダッシュボード画面。</p>\n",
+            "documentKey": "TT2_2-FR-26",
+            "globalId": "GID-85406",
+            "name": "ダッシュボード画面",
+            "status": 292
+        },
+        "globalId": "GID-85406",
+        "id": 199661,
+        "itemType": 67,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 69744,
+            "parent": {
+                "item": 199655
+            },
+            "sequence": "8.3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 68,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-SET-22",
+        "fields": {
+            "documentKey": "TT2_2-SET-22",
+            "globalId": "GID-85407",
+            "name": "Non-Functional Requirements",
+            "setKey": "NFR"
+        },
+        "globalId": "GID-85407",
+        "id": 199662,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 70817,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 68,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-FLD-9",
+        "fields": {
+            "documentKey": "TT2_2-FLD-9",
+            "globalId": "GID-85408",
+            "name": "非機能要件"
+        },
+        "globalId": "GID-85408",
+        "id": 199663,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 71890,
+            "parent": {
+                "item": 199662
+            },
+            "sequence": "9.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-NFR-1",
+        "fields": {
+            "description": "<p>システムは同時に100ユーザーがアクセスしても応答時間が2秒以内であること。</p>\n",
+            "documentKey": "TT2_2-NFR-1",
+            "globalId": "GID-85409",
+            "name": "パフォーマンス要件",
+            "status": 292
+        },
+        "globalId": "GID-85409",
+        "id": 199664,
+        "itemType": 68,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 72963,
+            "parent": {
+                "item": 199663
+            },
+            "sequence": "9.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-NFR-2",
+        "fields": {
+            "description": "<p>顧客情報は暗号化され、アクセス権限が適切に管理されること。</p>\n",
+            "documentKey": "TT2_2-NFR-2",
+            "globalId": "GID-85410",
+            "name": "セキュリティ要件",
+            "status": 292
+        },
+        "globalId": "GID-85410",
+        "id": 199665,
+        "itemType": 68,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 74036,
+            "parent": {
+                "item": 199663
+            },
+            "sequence": "9.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-NFR-3",
+        "fields": {
+            "description": "<p>システムの稼働率は99.9%以上であること。</p>\n",
+            "documentKey": "TT2_2-NFR-3",
+            "globalId": "GID-85411",
+            "name": "可用性要件",
+            "status": 292
+        },
+        "globalId": "GID-85411",
+        "id": 199666,
+        "itemType": 68,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 75109,
+            "parent": {
+                "item": 199663
+            },
+            "sequence": "9.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 171,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:01.000+0000",
+        "documentKey": "TT2_2-SET-11",
+        "fields": {
+            "documentKey": "TT2_2-SET-11",
+            "globalId": "GID-85412",
+            "name": "NEW Test Cases",
+            "setKey": "TCHA"
+        },
+        "globalId": "GID-85412",
+        "id": 199667,
+        "itemType": 31,
+        "lastActivityDate": "2025-05-12T02:20:01.000+0000",
+        "location": {
+            "globalSortOrder": 76182,
+            "parent": {
+                "project": 184
+            },
+            "sequence": "10",
+            "sortOrder": 9
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:01.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 171,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-FLD-10",
+        "fields": {
+            "documentKey": "TT2_2-FLD-10",
+            "globalId": "GID-85413",
+            "name": "機能テスト"
+        },
+        "globalId": "GID-85413",
+        "id": 199668,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 77255,
+            "parent": {
+                "item": 199667
+            },
+            "sequence": "10.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-1",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>新規顧客情報が正しく登録されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-1",
+            "globalId": "GID-85414",
+            "name": "新規顧客登録の正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目に正しい値を入力する \n2. 「登録」ボタンをクリックする",
+                    "expectedResult": "顧客情報がデータベースに登録され、一覧画面に表示される\n",
+                    "notes": "顧客情報入力画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85414",
+        "id": 199669,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 78328,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-21T04:08:09.000+0000",
+            "locked": true,
+            "lockedBy": 34
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-2",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>必須項目が未入力の場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-2",
+            "globalId": "GID-85415",
+            "name": "新規顧客登録の異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目を空のままにする 2. 「登録」ボタンをクリックする\n",
+                    "expectedResult": "必須項目が未入力である旨のエラーメッセージが表示される\n",
+                    "notes": "顧客情報入力画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85415",
+        "id": 199670,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 79401,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-3",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>既存の顧客情報が正しく更新されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-3",
+            "globalId": "GID-85416",
+            "name": "顧客情報更新の正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 任意の項目を修正する 2. 「更新」ボタンをクリックする\t",
+                    "expectedResult": "顧客情報がデータベースで更新され、一覧画面に反映される\n",
+                    "notes": "顧客情報更新画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85416",
+        "id": 199671,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 80474,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-4",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>存在しない顧客IDで更新を試みた場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-4",
+            "globalId": "GID-85417",
+            "name": "顧客情報更新の異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 存在しない顧客IDを入力する 2. 任意の項目を修正する 3. 「更新」ボタンをクリックする\n",
+                    "expectedResult": "該当の顧客情報が存在しない旨のエラーメッセージが表示される\n",
+                    "notes": "顧客情報更新画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85417",
+        "id": 199672,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 81547,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-5",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>コミュニケーション履歴が正しく記録されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-5",
+            "globalId": "GID-85418",
+            "name": "コミュニケーション履歴記録の正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 日付、内容、担当者を入力する 2. 「記録」ボタンをクリックする\n",
+                    "expectedResult": "コミュニケーション履歴がデータベースに記録され、一覧画面に表示される\n",
+                    "notes": "コミュニケーション履歴記録画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85418",
+        "id": 199673,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 82620,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-6",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>必須項目が未入力の場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-6",
+            "globalId": "GID-85419",
+            "name": "コミュニケーション履歴記録の異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目を空のままにする 2. 「記録」ボタンをクリックする\n",
+                    "expectedResult": "必須項目が未入力である旨のエラーメッセージが表示される\n",
+                    "notes": "コミュニケーション履歴記録画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85419",
+        "id": 199674,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 83693,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-7",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>営業活動の進捗が正しく管理されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-7",
+            "globalId": "GID-85420",
+            "name": "営業活動進捗管理の正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 営業活動の進捗状況を更新する 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "営業活動の進捗状況がデータベースで更新され、一覧画面に反映される\n",
+                    "notes": "営業活動進捗管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85420",
+        "id": 199675,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 84766,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:02.000+0000",
+        "documentKey": "TT2_2-TCHA-8",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>不正な進捗状況を入力した場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-8",
+            "globalId": "GID-85421",
+            "name": "営業活動進捗管理の異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 範囲外の進捗状況を入力する 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "入力値が不正である旨のエラーメッセージが表示される\n",
+                    "notes": "営業活動進捗管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85421",
+        "id": 199676,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:02.000+0000",
+        "location": {
+            "globalSortOrder": 85839,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:02.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-9",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>レポートが正しく生成されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-9",
+            "globalId": "GID-85422",
+            "name": "レポート生成の正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必要なパラメータを入力する 2. 「生成」ボタンをクリックする\n",
+                    "expectedResult": "レポートが生成され、ダウンロード可能になる\n",
+                    "notes": "レポート生成画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85422",
+        "id": 199677,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 86912,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-10",
+        "fields": {
+            "Completion_Date$171": "2025-05-05",
+            "assignedTo": 39,
+            "description": "<p>パラメータが不足している場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-10",
+            "globalId": "GID-85423",
+            "name": "レポート生成の異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. パラメータを空のままにする 2. 「生成」ボタンをクリックする\n",
+                    "expectedResult": "パラメータが不足している旨のエラーメッセージが表示される\n",
+                    "notes": "レポート生成画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85423",
+        "id": 199678,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 87985,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.10",
+            "sortOrder": 9
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-11",
+        "fields": {
+            "Completion_Date$171": "2025-06-05",
+            "assignedTo": 39,
+            "description": "<p>顧客セグメントが正しく作成されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-11",
+            "globalId": "GID-85424",
+            "name": "顧客セグメンテーションの正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. セグメンテーション条件を入力する 2. 「作成」ボタンをクリックする\n",
+                    "expectedResult": "顧客セグメントが作成され、一覧画面に表示される\n",
+                    "notes": "顧客セグメンテーション画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85424",
+        "id": 199679,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 89058,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.11",
+            "sortOrder": 10
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-12",
+        "fields": {
+            "Completion_Date$171": "2025-06-05",
+            "assignedTo": 39,
+            "description": "<p>不正なセグメンテーション条件を入力した場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-12",
+            "globalId": "GID-85425",
+            "name": "顧客セグメンテーションの異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 不正な条件を入力する 2. 「作成」ボタンをクリックする\n",
+                    "expectedResult": "入力値が不正である旨のエラーメッセージが表示される\n",
+                    "notes": "顧客セグメンテーション画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85425",
+        "id": 199680,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 90131,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.12",
+            "sortOrder": 11
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-13",
+        "fields": {
+            "Completion_Date$171": "2025-06-05",
+            "assignedTo": 39,
+            "description": "<p>顧客フィードバックが正しく管理されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-13",
+            "globalId": "GID-85426",
+            "name": "顧客フィードバック管理の正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客フィードバックを入力する 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "顧客フィードバックがデータベースに保存され、一覧画面に表示される\n",
+                    "notes": "顧客フィードバック管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85426",
+        "id": 199681,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 91204,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.13",
+            "sortOrder": 12
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-14",
+        "fields": {
+            "Completion_Date$171": "2025-06-05",
+            "assignedTo": 39,
+            "description": "<p>必須項目が未入力の場合にエラーメッセージが表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-14",
+            "globalId": "GID-85427",
+            "name": "顧客フィードバック管理の異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 必須項目を空のままにする 2. 「保存」ボタンをクリックする\n",
+                    "expectedResult": "必須項目が未入力である旨のエラーメッセージが表示される\n",
+                    "notes": "顧客フィードバック管理画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85427",
+        "id": 199682,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 92277,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.14",
+            "sortOrder": 13
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-15",
+        "fields": {
+            "Completion_Date$171": "2025-06-05",
+            "assignedTo": 39,
+            "description": "<p>ダッシュボードが正しく表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-15",
+            "globalId": "GID-85428",
+            "name": "ダッシュボードの正常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "-\n",
+                    "expectedResult": "ダッシュボードに各種情報が正しく表示される\n",
+                    "notes": "ダッシュボード画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85428",
+        "id": 199683,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 93350,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.15",
+            "sortOrder": 14
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-16",
+        "fields": {
+            "Completion_Date$171": "2025-06-05",
+            "assignedTo": 39,
+            "description": "<p>データがない場合にダッシュボードが適切に表示されることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-16",
+            "globalId": "GID-85429",
+            "name": "ダッシュボードの異常系テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "-\n",
+                    "expectedResult": "データがない旨のメッセージが表示される、またはデータがないことを考慮した表示になる\n",
+                    "notes": "ダッシュボード画面が表示されていること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85429",
+        "id": 199684,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 94423,
+            "parent": {
+                "item": 199668
+            },
+            "sequence": "10.1.16",
+            "sortOrder": 15
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 171,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-FLD-12",
+        "fields": {
+            "documentKey": "TT2_2-FLD-12",
+            "globalId": "GID-85430",
+            "name": "データベーステスト"
+        },
+        "globalId": "GID-85430",
+        "id": 199685,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 95496,
+            "parent": {
+                "item": 199667
+            },
+            "sequence": "10.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:03.000+0000",
+        "documentKey": "TT2_2-TCHA-17",
+        "fields": {
+            "Completion_Date$171": "2025-06-12",
+            "assignedTo": 34,
+            "description": "<p>顧客データが正しい項目を含んでいることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-17",
+            "globalId": "GID-85431",
+            "name": "顧客データ構造テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客データを取得する\n2. 項目を確認する\n",
+                    "expectedResult": "氏名、住所、電話番号、メールアドレスが含まれている\n\n",
+                    "notes": "顧客データがシステムに登録されていること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85431",
+        "id": 199686,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:03.000+0000",
+        "location": {
+            "globalSortOrder": 96569,
+            "parent": {
+                "item": 199685
+            },
+            "sequence": "10.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:03.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-18",
+        "fields": {
+            "Completion_Date$171": "2025-06-12",
+            "assignedTo": 39,
+            "description": "<p>顧客データに欠損がある場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-18",
+            "globalId": "GID-85432",
+            "name": "顧客データ構造テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客データを取得する\n2. 項目に欠損がある場合の動作を確認する\n",
+                    "expectedResult": "システムが欠損を検知し、適切なエラーメッセージを表示する\n\n",
+                    "notes": "顧客データがシステムに登録されていること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85432",
+        "id": 199687,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 97642,
+            "parent": {
+                "item": 199685
+            },
+            "sequence": "10.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 171,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-FLD-13",
+        "fields": {
+            "documentKey": "TT2_2-FLD-13",
+            "globalId": "GID-85433",
+            "name": "画面テスト"
+        },
+        "globalId": "GID-85433",
+        "id": 199688,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 98715,
+            "parent": {
+                "item": 199667
+            },
+            "sequence": "10.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-19",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>顧客情報を正しく入力・更新できることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-19",
+            "globalId": "GID-85434",
+            "name": "顧客情報入力画面テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客情報入力画面を開く\n2. 顧客情報を入力・更新する\n",
+                    "expectedResult": "顧客情報が正しく入力・更新される\n\n",
+                    "notes": "顧客情報入力画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85434",
+        "id": 199689,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 99788,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-20",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>顧客情報入力時にエラーが発生した場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-20",
+            "globalId": "GID-85435",
+            "name": "顧客情報入力画面テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客情報入力画面を開く\n2. 顧客情報入力時にエラーを発生させる\n",
+                    "expectedResult": "システムがエラーメッセージを表示し、入力を再試行できる\n\n",
+                    "notes": "顧客情報入力画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85435",
+        "id": 199690,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 100861,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-21",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>顧客とのコミュニケーション履歴を正しく表示・記録できることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-21",
+            "globalId": "GID-85436",
+            "name": "コミュニケーション履歴画面テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. コミュニケーション履歴画面を開く\n2. コミュニケーション履歴を記録する\n",
+                    "expectedResult": "コミュニケーション履歴が正しく表示・記録される\n\n",
+                    "notes": "コミュニケーション履歴画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85436",
+        "id": 199691,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 101934,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-22",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>コミュニケーション履歴記録時にエラーが発生した場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-22",
+            "globalId": "GID-85437",
+            "name": "コミュニケーション履歴画面テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. コミュニケーション履歴画面を開く\n2. コミュニケーション履歴記録時にエラーを発生させる\n",
+                    "expectedResult": "システムがエラーメッセージを表示し、記録を再試行できる\n\n",
+                    "notes": "コミュニケーション履歴画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85437",
+        "id": 199692,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 103007,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-23",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>営業活動の進捗を正しく表示・管理できることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-23",
+            "globalId": "GID-85438",
+            "name": "営業活動進捗管理画面テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 営業活動進捗管理画面を開く\n2. 営業活動の進捗を入力・管理する\n",
+                    "expectedResult": "営業活動の進捗が正しく表示・管理される\n\n",
+                    "notes": "営業活動進捗管理画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85438",
+        "id": 199693,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 104080,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-24",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>営業活動進捗入力時にエラーが発生した場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-24",
+            "globalId": "GID-85439",
+            "name": "営業活動進捗管理画面テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "",
+                    "expectedResult": "",
+                    "notes": "営業活動進捗管理画面が表示されること\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85439",
+        "id": 199694,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 105153,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-25",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>レポートを正しく表示・ダウンロードできることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-25",
+            "globalId": "GID-85440",
+            "name": "レポート画面テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. レポート画面を開く\n2. レポートを表示・ダウンロードする\n",
+                    "expectedResult": "レポートが正しく表示・ダウンロードされる\n\n",
+                    "notes": "レポート画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85440",
+        "id": 199695,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 106226,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-26",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>レポート表示・ダウンロード時にエラーが発生した場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-26",
+            "globalId": "GID-85441",
+            "name": "レポート画面テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. レポート画面を開く\n2. レポート表示・ダウンロード時にエラーを発生させる\n",
+                    "expectedResult": "システムがエラーメッセージを表示し、再試行できる\n\n",
+                    "notes": "レポート画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85441",
+        "id": 199696,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 107299,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:04.000+0000",
+        "documentKey": "TT2_2-TCHA-27",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>顧客データを基にセグメントを作成し、ターゲティングを行えることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-27",
+            "globalId": "GID-85442",
+            "name": "顧客セグメンテーション画面テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客セグメンテーション画面を開く\n2. セグメントを作成し、ターゲティングを行う\n",
+                    "expectedResult": "セグメントが正しく作成され、ターゲティングが行える\n\n",
+                    "notes": "顧客セグメンテーション画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85442",
+        "id": 199697,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:04.000+0000",
+        "location": {
+            "globalSortOrder": 108372,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.9",
+            "sortOrder": 8
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:04.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-28",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>セグメント作成時にエラーが発生した場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-28",
+            "globalId": "GID-85443",
+            "name": "顧客セグメンテーション画面テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客セグメンテーション画面を開く\n2. セグメント作成時にエラーを発生させる\n",
+                    "expectedResult": "システムがエラーメッセージを表示し、再試行できる\n\n",
+                    "notes": "顧客セグメンテーション画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85443",
+        "id": 199698,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 109445,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.10",
+            "sortOrder": 9
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-29",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>営業活動や顧客データの概要を正しく表示できることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-29",
+            "globalId": "GID-85444",
+            "name": "ダッシュボード画面テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. ダッシュボード画面を開く\n2. 営業活動や顧客データの概要を確認する\n",
+                    "expectedResult": "営業活動や顧客データの概要が正しく表示される\n\n",
+                    "notes": "ダッシュボード画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85444",
+        "id": 199699,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 110518,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.11",
+            "sortOrder": 10
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-30",
+        "fields": {
+            "Completion_Date$171": "2025-06-19",
+            "assignedTo": 39,
+            "description": "<p>ダッシュボード表示時にエラーが発生した場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-30",
+            "globalId": "GID-85445",
+            "name": "ダッシュボード画面テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. ダッシュボード画面を開く\n2. ダッシュボード表示時にエラーを発生させる\n",
+                    "expectedResult": "システムがエラーメッセージを表示し、再試行できる\n\n",
+                    "notes": "ダッシュボード画面が表示されること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85445",
+        "id": 199700,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 111591,
+            "parent": {
+                "item": 199688
+            },
+            "sequence": "10.3.12",
+            "sortOrder": 11
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 171,
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-FLD-11",
+        "fields": {
+            "documentKey": "TT2_2-FLD-11",
+            "globalId": "GID-85446",
+            "name": "非機能テスト"
+        },
+        "globalId": "GID-85446",
+        "id": 199701,
+        "itemType": 32,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 112664,
+            "parent": {
+                "item": 199667
+            },
+            "sequence": "10.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-31",
+        "fields": {
+            "Completion_Date$171": "2025-06-26",
+            "description": "<p>システムが同時に100ユーザーがアクセスしても応答時間が2秒以内であることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-31",
+            "globalId": "GID-85447",
+            "name": "パフォーマンステスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 100ユーザーで同時アクセスをシミュレーションする\n2. 応答時間を測定する\n",
+                    "expectedResult": "応答時間が2秒以内である\n\n",
+                    "notes": "システムが稼働していること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85447",
+        "id": 199702,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 113737,
+            "parent": {
+                "item": 199701
+            },
+            "sequence": "10.4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-12T02:59:13.000+0000",
+            "locked": true,
+            "lockedBy": 34
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-32",
+        "fields": {
+            "Completion_Date$171": "2025-06-26",
+            "assignedTo": 39,
+            "description": "<p>システムが同時に100ユーザーがアクセスした際に応答時間が2秒を超える場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-32",
+            "globalId": "GID-85448",
+            "name": "パフォーマンステスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 100ユーザーで同時アクセスをシミュレーションする\n2. 応答時間が2秒を超える場合の動作を確認する\n",
+                    "expectedResult": "システムが適切にエラーメッセージを表示し、処理を継続する\n\n",
+                    "notes": "システムが稼働していること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85448",
+        "id": 199703,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 114810,
+            "parent": {
+                "item": 199701
+            },
+            "sequence": "10.4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-33",
+        "fields": {
+            "Completion_Date$171": "2025-06-26",
+            "description": "<p>顧客情報が暗号化され、アクセス権限が適切に管理されていることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-33",
+            "globalId": "GID-85449",
+            "name": "セキュリティテスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客情報にアクセスを試みる\n2. 暗号化の有無とアクセス権限を確認する\n",
+                    "expectedResult": "顧客情報が暗号化され、適切な権限がないとアクセスできない\n\n",
+                    "notes": "顧客情報がシステムに登録されていること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85449",
+        "id": 199704,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 115883,
+            "parent": {
+                "item": 199701
+            },
+            "sequence": "10.4.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-34",
+        "fields": {
+            "Completion_Date$171": "2025-06-26",
+            "description": "<p>顧客情報に不正アクセスが試みられた場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-34",
+            "globalId": "GID-85450",
+            "name": "セキュリティテスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. 顧客情報に不正アクセスを試みる\n2. システムの反応を確認する\n",
+                    "expectedResult": "v",
+                    "notes": "顧客情報がシステムに登録されていること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85450",
+        "id": 199705,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 116956,
+            "parent": {
+                "item": 199701
+            },
+            "sequence": "10.4.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-35",
+        "fields": {
+            "Completion_Date$171": "2025-06-26",
+            "description": "<p>システムの稼働率が99.9%以上であることを確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-35",
+            "globalId": "GID-85451",
+            "name": "可用性テスト",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. システムの稼働時間を記録する\n2. 稼働率を計算する\n",
+                    "expectedResult": "稼働率が99.9%以上である\n\n",
+                    "notes": "システムが稼働していること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85451",
+        "id": 199706,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 118029,
+            "parent": {
+                "item": 199701
+            },
+            "sequence": "10.4.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-05-12T02:20:05.000+0000",
+        "documentKey": "TT2_2-TCHA-36",
+        "fields": {
+            "Completion_Date$171": "2025-06-26",
+            "description": "<p>システムの稼働率が99.9%未満の場合の動作を確認する</p>\n",
+            "documentKey": "TT2_2-TCHA-36",
+            "globalId": "GID-85452",
+            "name": "可用性テスト（エラー）",
+            "testCaseStatus": "NOT_SCHEDULED",
+            "testCaseSteps": [
+                {
+                    "action": "1. システムの稼働時間を記録する\n2. 稼働率が99.9%未満の場合の動作を確認する\n",
+                    "expectedResult": "システムが適切なエラーメッセージを表示し、復旧プロセスを開始する\n\n",
+                    "notes": "システムが稼働していること\n\n"
+                }
+            ],
+            "testRunResults": {
+                "id": 0,
+                "numBlocked": 0,
+                "numFailed": 0,
+                "numInProgress": 0,
+                "numNotApplicable": 0,
+                "numNotRun": 0,
+                "numPassed": 0,
+                "numTotalRuns": 0
+            }
+        },
+        "globalId": "GID-85452",
+        "id": 199707,
+        "itemType": 171,
+        "lastActivityDate": "2025-05-12T02:20:05.000+0000",
+        "location": {
+            "globalSortOrder": 1073800838,
+            "parent": {
+                "item": 199701
+            },
+            "sequence": "10.4.6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-12T02:21:20.000+0000",
+            "locked": true,
+            "lockedBy": 34
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-05-12T02:20:05.000+0000",
+        "project": 184,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 431,
+        "name": "Unassigned",
+        "pickList": 167,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9CE78C",
+        "default": false,
+        "description": "",
+        "id": 432,
+        "name": "Improbable (1)",
+        "pickList": 167,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "1"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9BDFFF",
+        "default": false,
+        "description": "",
+        "id": 433,
+        "name": "Remote (2)",
+        "pickList": 167,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": "2"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFF66",
+        "default": false,
+        "description": "",
+        "id": 434,
+        "name": "Occasional (3)",
+        "pickList": 167,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": "3"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCC66",
+        "default": false,
+        "description": "",
+        "id": 435,
+        "name": "Probable (4)",
+        "pickList": 167,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": "4"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "E39191",
+        "default": false,
+        "description": "",
+        "id": 436,
+        "name": "Almost Certain (5)",
+        "pickList": 167,
+        "sortOrder": 6,
+        "type": "picklistoptions",
+        "value": "5"
+    }
+]

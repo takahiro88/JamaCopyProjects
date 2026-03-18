@@ -1,0 +1,78 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 419,
+        "name": "Unassigned",
+        "pickList": 165,
+        "sortOrder": 1,
+        "type": "picklistoptions"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFF66",
+        "default": false,
+        "description": "",
+        "id": 420,
+        "name": "Energy",
+        "pickList": 165,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9CE78C",
+        "default": false,
+        "description": "",
+        "id": 421,
+        "name": "Biological",
+        "pickList": 165,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9BDFFF",
+        "default": false,
+        "description": "",
+        "id": 422,
+        "name": "Chemical",
+        "pickList": 165,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "E39191",
+        "default": false,
+        "description": "",
+        "id": 423,
+        "name": "Operational",
+        "pickList": 165,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "9966FF",
+        "default": false,
+        "description": "",
+        "id": 424,
+        "name": "Information",
+        "pickList": 165,
+        "sortOrder": 6,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

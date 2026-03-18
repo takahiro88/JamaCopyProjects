@@ -1,0 +1,1930 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-06T06:57:11.000+0000",
+        "documentKey": "TUT1-ATT-1",
+        "fields": {
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84666",
+            "name": "shape_0.png"
+        },
+        "globalId": "GID-84666",
+        "id": 198474,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-06T06:57:11.000+0000",
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-06T06:57:11.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-06T06:59:46.000+0000",
+        "documentKey": "TUT1-ATT-2",
+        "fields": {
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84667",
+            "name": "shape_0.png"
+        },
+        "globalId": "GID-84667",
+        "id": 198475,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-06T06:59:46.000+0000",
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-06T06:59:46.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-06T07:01:11.000+0000",
+        "documentKey": "TUT1-ATT-3",
+        "fields": {
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84668",
+            "name": "shape_0.png"
+        },
+        "globalId": "GID-84668",
+        "id": 198476,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-06T07:01:11.000+0000",
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-06T07:01:11.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-06T07:03:26.000+0000",
+        "documentKey": "TUT1-ATT-4",
+        "fields": {
+            "description": "test",
+            "globalId": "GID-84669",
+            "name": "TestFIle"
+        },
+        "globalId": "GID-84669",
+        "id": 198477,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-06T07:03:26.000+0000",
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-06T07:03:26.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-06T07:07:07.000+0000",
+        "documentKey": "TUT1-ATT-5",
+        "fields": {
+            "description": "test-des",
+            "globalId": "GID-84670",
+            "name": "testa"
+        },
+        "globalId": "GID-84670",
+        "id": 198478,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-06T07:07:07.000+0000",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-06T07:07:07.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T04:02:11.000+0000",
+        "documentKey": "TUT1-ATT-6",
+        "fields": {
+            "description": "description1",
+            "globalId": "GID-84671",
+            "name": "testname"
+        },
+        "globalId": "GID-84671",
+        "id": 198479,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T04:02:11.000+0000",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T04:02:11.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T04:56:36.000+0000",
+        "documentKey": "TUT1-ATT-7",
+        "fields": {
+            "description": "description1",
+            "globalId": "GID-84672",
+            "name": "testname"
+        },
+        "globalId": "GID-84672",
+        "id": 198480,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T04:56:36.000+0000",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T04:56:36.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:32:59.000+0000",
+        "documentKey": "TUT1-ATT-8",
+        "fields": {
+            "attachment": 1328,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84673",
+            "name": "shape_0.png"
+        },
+        "fileName": "shape_0.png",
+        "fileSize": 12024,
+        "globalId": "GID-84673",
+        "id": 198481,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:00.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:00.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:01.000+0000",
+        "documentKey": "TUT1-ATT-9",
+        "fields": {
+            "attachment": 1329,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84674",
+            "name": "shape_1.png"
+        },
+        "fileName": "shape_1.png",
+        "fileSize": 11729,
+        "globalId": "GID-84674",
+        "id": 198483,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:02.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:02.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:03.000+0000",
+        "documentKey": "TUT1-ATT-10",
+        "fields": {
+            "attachment": 1330,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84675",
+            "name": "shape_2.png"
+        },
+        "fileName": "shape_2.png",
+        "fileSize": 2601,
+        "globalId": "GID-84675",
+        "id": 198485,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:04.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:04.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:06.000+0000",
+        "documentKey": "TUT1-ATT-11",
+        "fields": {
+            "attachment": 1331,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84676",
+            "name": "shape_3.png"
+        },
+        "fileName": "shape_3.png",
+        "fileSize": 1082,
+        "globalId": "GID-84676",
+        "id": 198487,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:06.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:06.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:51.000+0000",
+        "documentKey": "TUT1-ATT-12",
+        "fields": {
+            "attachment": 1332,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84677",
+            "name": "shape_0.png"
+        },
+        "fileName": "shape_0.png",
+        "fileSize": 12024,
+        "globalId": "GID-84677",
+        "id": 198489,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:52.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:52.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:53.000+0000",
+        "documentKey": "TUT1-ATT-13",
+        "fields": {
+            "attachment": 1333,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84678",
+            "name": "shape_1.png"
+        },
+        "fileName": "shape_1.png",
+        "fileSize": 11729,
+        "globalId": "GID-84678",
+        "id": 198491,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:54.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:54.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:55.000+0000",
+        "documentKey": "TUT1-ATT-14",
+        "fields": {
+            "attachment": 1334,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84679",
+            "name": "shape_2.png"
+        },
+        "fileName": "shape_2.png",
+        "fileSize": 2601,
+        "globalId": "GID-84679",
+        "id": 198493,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:56.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:56.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:33:57.000+0000",
+        "documentKey": "TUT1-ATT-15",
+        "fields": {
+            "attachment": 1335,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84680",
+            "name": "shape_3.png"
+        },
+        "fileName": "shape_3.png",
+        "fileSize": 1082,
+        "globalId": "GID-84680",
+        "id": 198495,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:33:58.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:33:58.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:35:30.000+0000",
+        "documentKey": "TUT1-ATT-16",
+        "fields": {
+            "attachment": 1336,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84681",
+            "name": "shape_0.png"
+        },
+        "fileName": "shape_0.png",
+        "fileSize": 12024,
+        "globalId": "GID-84681",
+        "id": 198497,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:35:31.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:35:31.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:35:32.000+0000",
+        "documentKey": "TUT1-ATT-17",
+        "fields": {
+            "attachment": 1337,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84682",
+            "name": "shape_1.png"
+        },
+        "fileName": "shape_1.png",
+        "fileSize": 11729,
+        "globalId": "GID-84682",
+        "id": 198499,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:35:33.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:35:33.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:35:34.000+0000",
+        "documentKey": "TUT1-ATT-18",
+        "fields": {
+            "attachment": 1338,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84683",
+            "name": "shape_2.png"
+        },
+        "fileName": "shape_2.png",
+        "fileSize": 2601,
+        "globalId": "GID-84683",
+        "id": 198501,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:35:35.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:35:35.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:35:36.000+0000",
+        "documentKey": "TUT1-ATT-19",
+        "fields": {
+            "attachment": 1339,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84684",
+            "name": "shape_3.png"
+        },
+        "fileName": "shape_3.png",
+        "fileSize": 1082,
+        "globalId": "GID-84684",
+        "id": 198503,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-07T05:35:37.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:35:37.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:07:33.000+0000",
+        "documentKey": "TUT1-ATT-20",
+        "fields": {
+            "attachment": 1340,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84686",
+            "name": "shape_0.png"
+        },
+        "fileName": "shape_0.png",
+        "fileSize": 12024,
+        "globalId": "GID-84686",
+        "id": 198506,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:07:34.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:07:34.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:07:36.000+0000",
+        "documentKey": "TUT1-ATT-21",
+        "fields": {
+            "attachment": 1341,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84687",
+            "name": "shape_1.png"
+        },
+        "fileName": "shape_1.png",
+        "fileSize": 11729,
+        "globalId": "GID-84687",
+        "id": 198508,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:07:37.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:07:37.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:07:38.000+0000",
+        "documentKey": "TUT1-ATT-22",
+        "fields": {
+            "attachment": 1342,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84688",
+            "name": "shape_2.png"
+        },
+        "fileName": "shape_2.png",
+        "fileSize": 2601,
+        "globalId": "GID-84688",
+        "id": 198510,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:07:39.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:07:39.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:07:40.000+0000",
+        "documentKey": "TUT1-ATT-23",
+        "fields": {
+            "attachment": 1343,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84689",
+            "name": "shape_3.png"
+        },
+        "fileName": "shape_3.png",
+        "fileSize": 1082,
+        "globalId": "GID-84689",
+        "id": 198512,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:07:41.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:07:41.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:09:42.000+0000",
+        "documentKey": "TUT1-ATT-24",
+        "fields": {
+            "attachment": 1344,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84691",
+            "name": "shape_0.png"
+        },
+        "fileName": "shape_0.png",
+        "fileSize": 12024,
+        "globalId": "GID-84691",
+        "id": 198515,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:09:43.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:09:43.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:09:44.000+0000",
+        "documentKey": "TUT1-ATT-25",
+        "fields": {
+            "attachment": 1345,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84692",
+            "name": "shape_1.png"
+        },
+        "fileName": "shape_1.png",
+        "fileSize": 11729,
+        "globalId": "GID-84692",
+        "id": 198517,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:09:45.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:09:45.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:09:46.000+0000",
+        "documentKey": "TUT1-ATT-26",
+        "fields": {
+            "attachment": 1346,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84693",
+            "name": "shape_2.png"
+        },
+        "fileName": "shape_2.png",
+        "fileSize": 2601,
+        "globalId": "GID-84693",
+        "id": 198519,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:09:47.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:09:47.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:09:49.000+0000",
+        "documentKey": "TUT1-ATT-27",
+        "fields": {
+            "attachment": 1347,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84694",
+            "name": "shape_3.png"
+        },
+        "fileName": "shape_3.png",
+        "fileSize": 1082,
+        "globalId": "GID-84694",
+        "id": 198521,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-08T05:09:50.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:09:49.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-10T07:18:27.000+0000",
+        "documentKey": "TUT1-ATT-28",
+        "fields": {
+            "attachment": 1348,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84696",
+            "name": "image_0_0.png"
+        },
+        "fileName": "image_0_0.png",
+        "fileSize": 393,
+        "globalId": "GID-84696",
+        "id": 198525,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-10T07:18:30.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-10T07:18:30.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-10T07:18:33.000+0000",
+        "documentKey": "TUT1-ATT-29",
+        "fields": {
+            "attachment": 1349,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84697",
+            "name": "image_0_1.png"
+        },
+        "fileName": "image_0_1.png",
+        "fileSize": 393,
+        "globalId": "GID-84697",
+        "id": 198527,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-10T07:18:35.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-10T07:18:35.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-10T07:18:39.000+0000",
+        "documentKey": "TUT1-ATT-30",
+        "fields": {
+            "attachment": 1350,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84698",
+            "name": "image_0_2.png"
+        },
+        "fileName": "image_0_2.png",
+        "fileSize": 575,
+        "globalId": "GID-84698",
+        "id": 198529,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-10T07:18:42.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-10T07:18:42.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-10T07:18:46.000+0000",
+        "documentKey": "TUT1-ATT-31",
+        "fields": {
+            "attachment": 1351,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84699",
+            "name": "image_0_3.png"
+        },
+        "fileName": "image_0_3.png",
+        "fileSize": 431,
+        "globalId": "GID-84699",
+        "id": 198531,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-10T07:18:49.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-10T07:18:49.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-10T07:18:51.000+0000",
+        "documentKey": "TUT1-ATT-32",
+        "fields": {
+            "attachment": 1352,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84700",
+            "name": "image_0_4.png"
+        },
+        "fileName": "image_0_4.png",
+        "fileSize": 455,
+        "globalId": "GID-84700",
+        "id": 198533,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-10T07:18:54.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-10T07:18:54.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-26T22:50:11.000+0000",
+        "documentKey": "TUT1-ATT-33",
+        "fields": {
+            "attachment": 1353,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84702",
+            "name": "shape_0.png"
+        },
+        "fileName": "shape_0.png",
+        "fileSize": 12024,
+        "globalId": "GID-84702",
+        "id": 198575,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-26T22:50:12.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-26T22:50:12.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-26T22:50:13.000+0000",
+        "documentKey": "TUT1-ATT-34",
+        "fields": {
+            "attachment": 1354,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84703",
+            "name": "shape_1.png"
+        },
+        "fileName": "shape_1.png",
+        "fileSize": 11729,
+        "globalId": "GID-84703",
+        "id": 198577,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-26T22:50:14.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-26T22:50:14.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-26T22:50:16.000+0000",
+        "documentKey": "TUT1-ATT-35",
+        "fields": {
+            "attachment": 1355,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84704",
+            "name": "shape_2.png"
+        },
+        "fileName": "shape_2.png",
+        "fileSize": 2601,
+        "globalId": "GID-84704",
+        "id": 198579,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-26T22:50:17.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-26T22:50:17.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-26T22:50:18.000+0000",
+        "documentKey": "TUT1-ATT-36",
+        "fields": {
+            "attachment": 1356,
+            "description": "Test file is converted from drawio to png.",
+            "globalId": "GID-84705",
+            "name": "shape_3.png"
+        },
+        "fileName": "shape_3.png",
+        "fileSize": 1082,
+        "globalId": "GID-84705",
+        "id": 198581,
+        "itemType": 22,
+        "lastActivityDate": "2025-01-26T22:50:19.000+0000",
+        "mimeType": "image/png",
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-26T22:50:19.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET"
+                ]
+            }
+        },
+        "type": "attachments",
+        "version": 2
+    },
+    {
+        "childItemType": 38,
+        "createdBy": 34,
+        "createdDate": "2024-12-18T23:17:29.000+0000",
+        "documentKey": "TUT1-SET-1",
+        "fields": {
+            "documentKey": "TUT1-SET-1",
+            "globalId": "GID-84652",
+            "name": "Epicst文書登録test",
+            "setKey": "EPIC"
+        },
+        "globalId": "GID-84652",
+        "id": 198440,
+        "itemType": 31,
+        "lastActivityDate": "2024-12-18T23:17:29.000+0000",
+        "location": {
+            "globalSortOrder": 2145,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2024-12-18T23:17:31.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2024-12-18T23:17:29.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "archived": false,
+        "createdBy": 34,
+        "createdDate": "2024-07-12T05:26:58.000+0000",
+        "documentKey": "TUT1-TSTPL-1",
+        "fields": {
+            "description": "<h2>Goals</h2>\n\n<pre>このテストプランの目標は、新しいリリースのソフトウェアが指定された要件と機能仕様を満たしていることを確認することです。また、主要な機能が正常に動作し、既知のバグが修正されていることを検証します。</pre>\n\n<p>&nbsp;</p>\n\n<h2>Roles and Responsibilities</h2>\n\n<pre>- テストマネージャー: テストプロセス全体を監督し、リソースを管理します。\n- テストエンジニア: テストケースを作成・実行し、結果を記録します。\n- 品質保証担当者: テスト結果をレビューし、品質基準が満たされていることを確認します。</pre>\n\n<h2>Participants</h2>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\" summary=\"The participants in this test plan.\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">Name</th>\n\t\t\t<th scope=\"col\">Role</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<pre>山田太郎        \n</pre>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>テストマネージャー</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>鈴木一郎</td>\n\t\t\t<td>テストエンジニア</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>佐藤花子</td>\n\t\t\t<td>品質保証担当者</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<h2>Schedule</h2>\n\n<pre>テスト計画の作成: 2024年8月1日 - 2024年8月5日\nテストケースの作成: 2024年8月6日 - 2024年8月20日\nテスト実行: 2024年8月21日 - 2024年9月10日\n結果分析と報告: 2024年9月11日 - 2024年9月20日</pre>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<h2>Environment(s)</h2>\n\n<pre>テストは以下の環境で実施されます：\n- オペレーティングシステム: Windows 10\n- データベース: MySQL 8.0\n- テストツール: Selenium WebDriver\n- ハードウェア: Intel i7プロセッサ、16GB RAM、500GB SSD</pre>\n\n<p>&nbsp;</p>\n",
+            "documentKey": "TUT1-TSTPL-1",
+            "globalId": "GID-83214",
+            "name": "trainingtest1",
+            "project": 157
+        },
+        "globalId": "GID-83214",
+        "id": 195571,
+        "itemType": 35,
+        "lastActivityDate": "2024-07-12T05:26:58.000+0000",
+        "modifiedBy": 34,
+        "modifiedDate": "2024-07-12T05:26:58.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "testplans",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-12-20T01:31:31.000+0000",
+        "documentKey": "TUT1-CMP-1",
+        "fields": {
+            "documentKey": "TUT1-CMP-1",
+            "globalId": "GID-84653",
+            "name": "WordImport"
+        },
+        "globalId": "GID-84653",
+        "id": 198441,
+        "itemType": 30,
+        "lastActivityDate": "2024-12-20T01:31:31.000+0000",
+        "location": {
+            "globalSortOrder": 3218,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-12-20T01:31:31.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 140,
+        "createdBy": 14,
+        "createdDate": "2024-12-20T01:32:09.000+0000",
+        "documentKey": "TUT1-SET-2",
+        "fields": {
+            "documentKey": "TUT1-SET-2",
+            "globalId": "GID-84654",
+            "name": "STD ASE User Requirement",
+            "setKey": "SUR"
+        },
+        "globalId": "GID-84654",
+        "id": 198442,
+        "itemType": 31,
+        "lastActivityDate": "2024-12-20T01:32:09.000+0000",
+        "location": {
+            "globalSortOrder": 4291,
+            "parent": {
+                "item": 198441
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-12-20T01:32:09.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-07T05:35:44.000+0000",
+        "documentKey": "TUT1-SUR-1",
+        "fields": {
+            "description": "<p>アーキテクチャ</p><p>a.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入された図形（テキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1336/v/shape_0.png\" alt=\"SmartArt 0\" /><p></p><p>a'.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入されたテキストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1337/v/shape_1.png\" alt=\"SmartArt 1\" /><p></p><p>b.&nbsp; 本文に挿入された図形（日本語のテキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1338/v/shape_2.png\" alt=\"SmartArt 2\" /><p>c.&nbsp; 本文に挿入されたテクストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1339/v/shape_3.png\" alt=\"SmartArt 3\" />",
+            "documentKey": "TUT1-SUR-1",
+            "globalId": "GID-84685",
+            "name": "アーキテクチャ",
+            "status_123$140": 617
+        },
+        "globalId": "GID-84685",
+        "id": 198505,
+        "itemType": 140,
+        "lastActivityDate": "2025-01-07T05:35:44.000+0000",
+        "location": {
+            "globalSortOrder": 5364,
+            "parent": {
+                "item": 198442
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-12T00:05:14.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-07T05:35:44.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:07:45.000+0000",
+        "documentKey": "TUT1-SUR-2",
+        "fields": {
+            "description": "<p>アーキテクチャ</p><p>a.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入された図形（テキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1340/v/shape_0.png\" alt=\"SmartArt 0\" /><p></p><p>a'.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入されたテキストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1341/v/shape_1.png\" alt=\"SmartArt 1\" /><p></p><p>b.&nbsp; 本文に挿入された図形（日本語のテキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1342/v/shape_2.png\" alt=\"SmartArt 2\" /><p>c.&nbsp; 本文に挿入されたテクストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1343/v/shape_3.png\" alt=\"SmartArt 3\" />",
+            "documentKey": "TUT1-SUR-2",
+            "globalId": "GID-84690",
+            "name": "アーキテクチャ",
+            "status_123$140": 617
+        },
+        "globalId": "GID-84690",
+        "id": 198514,
+        "itemType": 140,
+        "lastActivityDate": "2025-01-08T05:07:45.000+0000",
+        "location": {
+            "globalSortOrder": 6437,
+            "parent": {
+                "item": 198442
+            },
+            "sequence": "2.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:07:45.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-08T05:09:54.000+0000",
+        "documentKey": "TUT1-SUR-3",
+        "fields": {
+            "description": "<p>アーキテクチャ</p><p>a.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入された図形（テキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1344/v/shape_0.png\" alt=\"SmartArt 0\" /><p></p><p>a'.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入されたテキストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1345/v/shape_1.png\" alt=\"SmartArt 1\" /><p></p><p>b.&nbsp; 本文に挿入された図形（日本語のテキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1346/v/shape_2.png\" alt=\"SmartArt 2\" /><p>c.&nbsp; 本文に挿入されたテクストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1347/v/shape_3.png\" alt=\"SmartArt 3\" />",
+            "documentKey": "TUT1-SUR-3",
+            "globalId": "GID-84695",
+            "name": "アーキテクチャ",
+            "status_123$140": 617
+        },
+        "globalId": "GID-84695",
+        "id": 198523,
+        "itemType": 140,
+        "lastActivityDate": "2025-01-08T05:09:54.000+0000",
+        "location": {
+            "globalSortOrder": 7510,
+            "parent": {
+                "item": 198442
+            },
+            "sequence": "2.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-08T05:09:54.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-10T07:18:57.000+0000",
+        "documentKey": "TUT1-SUR-4",
+        "fields": {
+            "description": "<div style=\"width:595.3pt;height:841.9pt\">\n<p style=\"top:118.5pt;left:85.1pt;line-height:16.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:16.0pt;color:#000000\">アーキテクチャ</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:16.0pt;color:#000000\"> </span></p>\n<p style=\"top:156.5pt;left:96.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">a.</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入された図形（テキストあり）</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:363.6pt;left:522.2pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:377.3pt;left:96.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:395.4pt;left:96.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">a'.</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入されたテキストボックス</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:602.4pt;left:522.2pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:616.1pt;left:96.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:634.2pt;left:96.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">b.</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> 本文に挿入された図形（日本語のテキストあり）</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:683.8pt;left:183.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:697.5pt;left:96.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">c.</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> 本文に挿入されたテクストボックス</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:733.6pt;left:191.7pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48054058,0,-0,.48188234,69.520008,404.23997)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAASgAAABVCAYAAAD6zHmyAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABO0lEQVR4nO3OoQGAAAwEse6/NCzA60NExOfu7gH4qTwAsOQBgCUP\nACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwA\nsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDA\nkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBL\nHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5\nAGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQB\ngCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AODTCx0D62gm7+yrAAAA\nAElFTkSuQmCC\" />\n<p style=\"top:333.2pt;left:141.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48054058,0,-0,.48188234,259.92,404.23997)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAASgAAABVCAYAAAD6zHmyAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABO0lEQVR4nO3OoQGAAAwEse6/NCzA60NExOfu7gH4qTwAsOQBgCUP\nACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwA\nsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDA\nkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBL\nHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5\nAGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQB\ngCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AODTCx0D62gm7+yrAAAA\nAElFTkSuQmCC\" />\n<p style=\"top:333.2pt;left:284.0pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48054058,0,-0,.48376475,448.40003,404.16)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAASgAAABVCAYAAAD6zHmyAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABO0lEQVR4nO3OoQGAAAwEse6/NCzA60NExOfu7gH4qTwAsOQBgCUP\nACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwA\nsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDA\nkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBL\nHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5\nAGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQB\ngCUPACx5AGDJAwBLHgBY8gDAkgcAljwAsOQBgCUPACx5AODTCx0D62gm7+yrAAAA\nAElFTkSuQmCC\" />\n<p style=\"top:333.1pt;left:425.4pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48114289,0,-0,.48238809,268.16,209.95996)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAARgAAACGCAYAAAAGlZULAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAAB8UlEQVR4nO3OsQnAQBAEseu/abuKZ2FQoFx3dx/AI/MA0DUPAF3z\nANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd\n8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8A\nXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUP\nAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1\nDwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQ\nNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA\n0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3z\nANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd\n8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMA0DUPAF3zANA1DwBd8wDQNQ8A\nXfMA0DUPAF3zANA1DwBd8wDQNQ8AXfMAEPUDsCMF/xvVkAEAAAAASUVORK5CYII=\" />\n<p style=\"top:197.3pt;left:284.1pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48000003,0,-0,.48344089,85.44,722.2399)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAAQgAAABdCAYAAABZwvgPAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABYUlEQVR4nO3OIQHAQBAEsfNvulXweAcEhOfu7gN4mAeArnkA6JoH\ngK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOia\nB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDo\nmgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA\n6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55\nAOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4Cu\neQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeA\nrnkA6JoHgK55AOiaB4CueQDomgeArnkAiPoB0P6Nqm5ZKoYAAAAASUVORK5CYII=\" />\n<p style=\"top:573.2pt;left:141.0pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48000003,0,-0,.48344089,275.83998,546.88)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAAQgAAABdCAYAAABZwvgPAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABYUlEQVR4nO3OIQHAQBAEsfNvulXweAcEhOfu7gN4mAeArnkA6JoH\ngK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOia\nB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDo\nmgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA\n6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55\nAOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4Cu\neQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeA\nrnkA6JoHgK55AOiaB4CueQDomgeArnkAiPoB0P6Nqm5ZKoYAAAAASUVORK5CYII=\" />\n<p style=\"top:441.7pt;left:283.9pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48000003,0,-0,.48344089,275.83998,722.2399)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAAQgAAABdCAYAAABZwvgPAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABYUlEQVR4nO3OIQHAQBAEsfNvulXweAcEhOfu7gN4mAeArnkA6JoH\ngK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOia\nB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDo\nmgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA\n6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55\nAOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4Cu\neQDomgeArnkA6JoHgK55AOiaB4CueQDomgeArnkA6JoHgK55AOiaB4CueQDomgeA\nrnkA6JoHgK55AOiaB4CueQDomgeArnkAiPoB0P6Nqm5ZKoYAAAAASUVORK5CYII=\" />\n<p style=\"top:573.2pt;left:283.9pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<img style=\"position:absolute;transform:matrix(.48139943,0,-0,.48344089,423.71998,722.2399)\" src=\"data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAAVcAAABdCAYAAAAR3SXKAAAACXBIWXMAAA7EAAAO\nxAGVKw4bAAABeUlEQVR4nO3OsQnAQBAEseu/abuJh4VBgXLd3X0APDcPABTNAwBF\n8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA\n0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwA\nUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQP\nABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTN\nAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF\n8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA\n0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwAUDQPABTNAwBF8wBA0TwA\nkPMDCrAlqkqg0mAAAAAASUVORK5CYII=\" />\n<p style=\"top:573.2pt;left:424.0pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n<p style=\"top:671.1pt;left:116.4pt;line-height:11.0pt\"><span style=\"font-family:YuMincho,serif;font-size:11.0pt;color:#ffffff\">数値管理</span><span style=\"font-family:YuMincho,serif;font-size:11.0pt;color:#ffffff\"> </span></p>\n<p style=\"top:728.4pt;left:121.8pt;line-height:11.0pt\"><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\">数値管理</span><span style=\"font-family:MeiryoUI,sans-serif;font-size:11.0pt;color:#000000\"> </span></p>\n</div>\n<img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1348/v/image_0_0.png\" alt=\"Image 0_0\" /><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1349/v/image_0_1.png\" alt=\"Image 0_1\" /><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1350/v/image_0_2.png\" alt=\"Image 0_2\" /><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1351/v/image_0_3.png\" alt=\"Image 0_3\" /><img src=\"https://acceleratedsoftware.jamacloud.com//attachment/1352/v/image_0_4.png\" alt=\"Image 0_4\" />",
+            "documentKey": "TUT1-SUR-4",
+            "globalId": "GID-84701",
+            "name": "Sample_importWordToJama.docx",
+            "status_123$140": 617
+        },
+        "globalId": "GID-84701",
+        "id": 198535,
+        "itemType": 140,
+        "lastActivityDate": "2025-01-10T07:18:57.000+0000",
+        "location": {
+            "globalSortOrder": 8583,
+            "parent": {
+                "item": 198442
+            },
+            "sequence": "2.1.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "lastLockedDate": "2025-05-12T00:05:14.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-10T07:18:57.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-01-26T22:50:20.000+0000",
+        "documentKey": "TUT1-SUR-5",
+        "fields": {
+            "description": "<p>アーキテクチャ</p><p>a.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入された図形（テキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1353/v/shape_0.png\" alt=\"SmartArt 0\" /><p></p><p>a'.&nbsp; 図形&gt;「新しい描画キャンバス」を挿入後に、キャンバス内に挿入されたテキストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1354/v/shape_1.png\" alt=\"SmartArt 1\" /><p></p><p>b.&nbsp; 本文に挿入された図形（日本語のテキストあり）</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1355/v/shape_2.png\" alt=\"SmartArt 2\" /><p>c.&nbsp; 本文に挿入されたテクストボックス</p><p></p><img src=\"https://acceleratedsoftware.jamacloud.com/attachment/1356/v/shape_3.png\" alt=\"SmartArt 3\" />",
+            "documentKey": "TUT1-SUR-5",
+            "globalId": "GID-84706",
+            "name": "アーキテクチャ",
+            "status_123$140": 617
+        },
+        "globalId": "GID-84706",
+        "id": 198583,
+        "itemType": 140,
+        "lastActivityDate": "2025-01-26T22:50:21.000+0000",
+        "location": {
+            "globalSortOrder": 9656,
+            "parent": {
+                "item": 198442
+            },
+            "sequence": "2.1.5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-01-26T22:50:20.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-02-03T08:17:13.000+0000",
+        "documentKey": "TUT1-CMP-2",
+        "fields": {
+            "documentKey": "TUT1-CMP-2",
+            "globalId": "GID-84707",
+            "name": "タスク管理アプリ開発"
+        },
+        "globalId": "GID-84707",
+        "id": 198584,
+        "itemType": 30,
+        "lastActivityDate": "2025-02-03T08:17:13.000+0000",
+        "location": {
+            "globalSortOrder": 10729,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "lastLockedDate": "2025-02-03T08:17:16.000+0000",
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-03T08:17:13.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 34,
+        "createdDate": "2025-02-07T06:42:11.000+0000",
+        "documentKey": "TUT1-SET-3",
+        "fields": {
+            "description": "<p>&nbsp;ユーザーインターフェースは直感的で使いやすいものでなければならない。</p>\n",
+            "documentKey": "TUT1-SET-3",
+            "globalId": "GID-84709",
+            "name": "ユーザーインターフェース要件",
+            "setKey": "UI_REQ_001"
+        },
+        "globalId": "GID-84709",
+        "id": 198589,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-07T06:42:11.000+0000",
+        "location": {
+            "globalSortOrder": 11802,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-07T06:42:11.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 34,
+        "createdDate": "2025-02-10T05:57:14.000+0000",
+        "documentKey": "TUT1-FLD-1",
+        "fields": {
+            "documentKey": "TUT1-FLD-1",
+            "globalId": "GID-84713",
+            "name": "testcase"
+        },
+        "globalId": "GID-84713",
+        "id": 198593,
+        "itemType": 32,
+        "lastActivityDate": "2025-02-10T05:57:14.000+0000",
+        "location": {
+            "globalSortOrder": 12338,
+            "parent": {
+                "item": 198589
+            },
+            "sequence": "4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-10T05:57:14.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 34,
+        "createdDate": "2025-02-10T06:54:19.000+0000",
+        "documentKey": "TUT1-FLD-2",
+        "fields": {
+            "documentKey": "TUT1-FLD-2",
+            "globalId": "GID-84714",
+            "name": "test2"
+        },
+        "globalId": "GID-84714",
+        "id": 198594,
+        "itemType": 32,
+        "lastActivityDate": "2025-02-10T06:54:19.000+0000",
+        "location": {
+            "globalSortOrder": 12606,
+            "parent": {
+                "item": 198589
+            },
+            "sequence": "4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-10T06:54:19.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 34,
+        "createdDate": "2025-02-07T06:58:58.000+0000",
+        "documentKey": "TUT1-SET-4",
+        "fields": {
+            "description": "<p>システムはユーザーデータを保護するために最新のセキュリティプロトコルを使用する必要がある。</p>\n",
+            "documentKey": "TUT1-SET-4",
+            "globalId": "GID-84710",
+            "name": "セキュリティ要件",
+            "setKey": "SEC_REQ_001"
+        },
+        "globalId": "GID-84710",
+        "id": 198590,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-07T06:58:58.000+0000",
+        "location": {
+            "globalSortOrder": 12875,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "5",
+            "sortOrder": 4
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-07T06:58:58.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 34,
+        "createdDate": "2025-02-07T07:01:19.000+0000",
+        "documentKey": "TUT1-SET-5",
+        "fields": {
+            "description": "<p>システムは同時に1000ユーザーをサポートできるパフォーマンスを持つべきである</p>\n",
+            "documentKey": "TUT1-SET-5",
+            "globalId": "GID-84711",
+            "name": "パフォーマンス要件",
+            "setKey": "PERF_REQ_001"
+        },
+        "globalId": "GID-84711",
+        "id": 198591,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-07T07:01:19.000+0000",
+        "location": {
+            "globalSortOrder": 13948,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "6",
+            "sortOrder": 5
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-07T07:01:19.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 24,
+        "createdBy": 34,
+        "createdDate": "2025-02-07T07:02:02.000+0000",
+        "documentKey": "TUT1-SET-6",
+        "fields": {
+            "description": "<p>システムは主要なブラウザと互換性があるべきである。</p>\n",
+            "documentKey": "TUT1-SET-6",
+            "globalId": "GID-84712",
+            "name": "互換性要件",
+            "setKey": "COMP_REQ_001"
+        },
+        "globalId": "GID-84712",
+        "id": 198592,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-07T07:02:02.000+0000",
+        "location": {
+            "globalSortOrder": 15021,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "7",
+            "sortOrder": 6
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-07T07:02:02.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 34,
+        "createdDate": "2025-02-13T00:01:09.000+0000",
+        "documentKey": "TUT1-CMP-3",
+        "fields": {
+            "documentKey": "TUT1-CMP-3",
+            "globalId": "GID-84715",
+            "name": "顧客管理システム"
+        },
+        "globalId": "GID-84715",
+        "id": 198595,
+        "itemType": 30,
+        "lastActivityDate": "2025-02-13T00:01:09.000+0000",
+        "location": {
+            "globalSortOrder": 16094,
+            "parent": {
+                "project": 157
+            },
+            "sequence": "8",
+            "sortOrder": 7
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-13T00:01:09.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 34,
+        "createdDate": "2025-02-13T00:28:30.000+0000",
+        "documentKey": "TUT1-SET-7",
+        "fields": {
+            "description": "<p>顧客情報を一元管理し、効率的にアクセス・更新できる機能を提供する。</p>\n",
+            "documentKey": "TUT1-SET-7",
+            "globalId": "GID-84716",
+            "name": "顧客情報管理機能",
+            "setKey": "SREQ_001"
+        },
+        "globalId": "GID-84716",
+        "id": 198596,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-13T00:28:30.000+0000",
+        "location": {
+            "globalSortOrder": 17167,
+            "parent": {
+                "item": 198595
+            },
+            "sequence": "8.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-13T00:28:30.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 34,
+        "createdDate": "2025-02-13T00:29:36.000+0000",
+        "documentKey": "TUT1-SET-8",
+        "fields": {
+            "description": "<p>顧客とのコミュニケーション履歴を記録し、管理する機能を提供する。</p>\n",
+            "documentKey": "TUT1-SET-8",
+            "globalId": "GID-84717",
+            "name": "コミュニケーション管理機能",
+            "setKey": "SREQ_002"
+        },
+        "globalId": "GID-84717",
+        "id": 198597,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-13T00:29:36.000+0000",
+        "location": {
+            "globalSortOrder": 18240,
+            "parent": {
+                "item": 198595
+            },
+            "sequence": "8.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-13T00:29:36.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 34,
+        "createdDate": "2025-02-13T00:30:39.000+0000",
+        "documentKey": "TUT1-SET-9",
+        "fields": {
+            "description": "<p>営業活動の進捗を追跡し、管理する機能を提供する。</p>\n",
+            "documentKey": "TUT1-SET-9",
+            "globalId": "GID-84718",
+            "name": "営業活動管理機能",
+            "setKey": "SREQ_003"
+        },
+        "globalId": "GID-84718",
+        "id": 198598,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-13T00:30:39.000+0000",
+        "location": {
+            "globalSortOrder": 19313,
+            "parent": {
+                "item": 198595
+            },
+            "sequence": "8.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-13T00:30:39.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 86,
+        "createdBy": 34,
+        "createdDate": "2025-02-13T00:31:23.000+0000",
+        "documentKey": "TUT1-SET-10",
+        "fields": {
+            "description": "<p>顧客データや営業活動のデータを分析し、レポートを生成する機能を提供する。</p>\n",
+            "documentKey": "TUT1-SET-10",
+            "globalId": "GID-84719",
+            "name": "レポート機能",
+            "setKey": "SREQ_004"
+        },
+        "globalId": "GID-84719",
+        "id": 198599,
+        "itemType": 31,
+        "lastActivityDate": "2025-02-13T00:31:23.000+0000",
+        "location": {
+            "globalSortOrder": 1073751480,
+            "parent": {
+                "item": 198595
+            },
+            "sequence": "8.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 34,
+        "modifiedDate": "2025-02-13T00:31:23.000+0000",
+        "project": 157,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

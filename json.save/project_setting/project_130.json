@@ -1,0 +1,19 @@
+{
+    "createdBy": 26,
+    "createdDate": "2022-05-13T07:06:34.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Semiconductor Sample Set for learning(SM)",
+        "projectGroup": 296,
+        "projectKey": "SSS4l",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 130,
+    "isFolder": false,
+    "modifiedBy": 26,
+    "modifiedDate": "2022-05-13T07:06:34.000+0000",
+    "parent": 127,
+    "projectKey": "SSS4l",
+    "type": "projects"
+}

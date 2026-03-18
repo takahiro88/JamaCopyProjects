@@ -1,0 +1,10 @@
+[
+    {
+        "fromItem": 16447,
+        "id": 5586,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 16446,
+        "type": "relationships"
+    }
+]

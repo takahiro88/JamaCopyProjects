@@ -1,0 +1,79 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "FF0000",
+        "default": false,
+        "description": "",
+        "id": 559,
+        "name": "Catastrophic (5)",
+        "pickList": 247,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": "5"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCCCC",
+        "default": false,
+        "description": "",
+        "id": 560,
+        "name": "Hazardous (4)",
+        "pickList": 247,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": "4"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFCC66",
+        "default": false,
+        "description": "",
+        "id": 561,
+        "name": "Major (3)",
+        "pickList": 247,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": "3"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "FFFFCC",
+        "default": false,
+        "description": "",
+        "id": 562,
+        "name": "Minor (2)",
+        "pickList": 247,
+        "sortOrder": 4,
+        "type": "picklistoptions",
+        "value": "2"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "DDDDDD",
+        "default": false,
+        "description": "",
+        "id": 563,
+        "name": "No Safety Effect (1)",
+        "pickList": 247,
+        "sortOrder": 5,
+        "type": "picklistoptions",
+        "value": "1"
+    },
+    {
+        "active": true,
+        "archived": false,
+        "default": true,
+        "description": "",
+        "id": 564,
+        "name": "Unassigned",
+        "pickList": 247,
+        "sortOrder": 6,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

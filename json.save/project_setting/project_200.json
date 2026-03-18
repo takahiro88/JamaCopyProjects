@@ -1,0 +1,16 @@
+{
+    "createdBy": 14,
+    "createdDate": "2026-01-23T07:46:03.000+0000",
+    "fields": {
+        "description": "",
+        "name": "D-Reference",
+        "projectGroup": 296,
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 200,
+    "isFolder": true,
+    "modifiedBy": 14,
+    "modifiedDate": "2026-01-23T07:46:03.000+0000",
+    "type": "projects"
+}

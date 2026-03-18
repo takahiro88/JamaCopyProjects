@@ -1,0 +1,498 @@
+[
+    {
+        "fromItem": 2404,
+        "id": 259,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2492,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2404,
+        "id": 260,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2493,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2404,
+        "id": 261,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2494,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2411,
+        "id": 265,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2502,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2411,
+        "id": 266,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2503,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2411,
+        "id": 267,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2504,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2412,
+        "id": 268,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2506,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2420,
+        "id": 271,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2510,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2502,
+        "id": 272,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2525,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2502,
+        "id": 273,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2537,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2492,
+        "id": 275,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2542,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2494,
+        "id": 276,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2543,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2510,
+        "id": 277,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2539,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2510,
+        "id": 278,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2544,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2506,
+        "id": 279,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2547,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2498,
+        "id": 280,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2549,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2525,
+        "id": 282,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2555,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2542,
+        "id": 283,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2556,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2543,
+        "id": 284,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2557,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2544,
+        "id": 285,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2558,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2547,
+        "id": 286,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2559,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2549,
+        "id": 287,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2560,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2549,
+        "id": 288,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2561,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2552,
+        "id": 289,
+        "relationshipType": 4,
+        "suspect": true,
+        "toItem": 2563,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2552,
+        "id": 290,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2599,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2552,
+        "id": 291,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2600,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2555,
+        "id": 292,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2602,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 293,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2603,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 294,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2604,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 295,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2606,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2557,
+        "id": 296,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2607,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2539,
+        "id": 430,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2552,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2558,
+        "id": 445,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3009,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2559,
+        "id": 446,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3010,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2559,
+        "id": 447,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3011,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2559,
+        "id": 448,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3012,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2560,
+        "id": 449,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3013,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 450,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3014,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2558,
+        "id": 451,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3015,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2603,
+        "id": 452,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3016,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2604,
+        "id": 453,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3019,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2606,
+        "id": 454,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3020,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 455,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3016,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 456,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3019,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2556,
+        "id": 457,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3020,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2563,
+        "id": 458,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3023,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2552,
+        "id": 460,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3023,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2599,
+        "id": 461,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3025,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2552,
+        "id": 462,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3025,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2555,
+        "id": 463,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3028,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2602,
+        "id": 464,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3028,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2607,
+        "id": 465,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3029,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2557,
+        "id": 466,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3029,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 3019,
+        "id": 467,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3055,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 3042,
+        "id": 468,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3055,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 3009,
+        "id": 469,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3082,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 3014,
+        "id": 470,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 3084,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 6548,
+        "id": 902,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 6549,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 6596,
+        "id": 903,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 6599,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 6596,
+        "id": 904,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 6600,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 6596,
+        "id": 905,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 6601,
+        "type": "relationships"
+    },
+    {
+        "fromItem": 2404,
+        "id": 907,
+        "relationshipType": 4,
+        "suspect": false,
+        "toItem": 2498,
+        "type": "relationships"
+    }
+]

@@ -1,0 +1,1074 @@
+[
+    {
+        "createdBy": 14,
+        "createdDate": "2024-06-17T18:28:27.000+0000",
+        "documentKey": "AT123-CMP-21",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-CMP-21",
+            "globalId": "GID-83276",
+            "name": "App2"
+        },
+        "globalId": "GID-83276",
+        "id": 195238,
+        "itemType": 30,
+        "lastActivityDate": "2024-07-29T06:56:48.000+0000",
+        "location": {
+            "globalSortOrder": 25751,
+            "parent": {
+                "project": 159
+            },
+            "sequence": "1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-07-29T06:56:48.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "childItemType": 141,
+        "createdBy": 14,
+        "createdDate": "2024-06-17T18:28:27.000+0000",
+        "documentKey": "AT123-SET-55",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-SET-55",
+            "globalId": "GID-83277",
+            "name": "STD ASE System Requirement",
+            "setKey": "SYRD_SPEC_REQ"
+        },
+        "globalId": "GID-83277",
+        "id": 195239,
+        "itemType": 31,
+        "lastActivityDate": "2024-07-29T06:56:49.000+0000",
+        "location": {
+            "globalSortOrder": 26824,
+            "parent": {
+                "item": 195238
+            },
+            "sequence": "1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-07-29T06:56:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-06-17T18:28:27.000+0000",
+        "documentKey": "AT123-SYRD_SPEC_REQ-6",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-SYRD_SPEC_REQ-6",
+            "globalId": "GID-83278",
+            "name": "STest3"
+        },
+        "globalId": "GID-83278",
+        "id": 195240,
+        "itemType": 141,
+        "lastActivityDate": "2024-07-29T06:56:49.000+0000",
+        "location": {
+            "globalSortOrder": 27897,
+            "parent": {
+                "item": 195239
+            },
+            "sequence": "1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-07-29T06:56:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-06-17T18:28:27.000+0000",
+        "documentKey": "AT123-SYRD_SPEC_REQ-7",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-SYRD_SPEC_REQ-7",
+            "globalId": "GID-83279",
+            "name": "Stest1"
+        },
+        "globalId": "GID-83279",
+        "id": 195241,
+        "itemType": 141,
+        "lastActivityDate": "2024-07-29T06:56:49.000+0000",
+        "location": {
+            "globalSortOrder": 536887542,
+            "parent": {
+                "item": 195239
+            },
+            "sequence": "1.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-07-29T06:56:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-06-17T18:28:27.000+0000",
+        "documentKey": "AT123-SYRD_SPEC_REQ-8",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-SYRD_SPEC_REQ-8",
+            "globalId": "GID-83280",
+            "name": "STest2"
+        },
+        "globalId": "GID-83280",
+        "id": 195242,
+        "itemType": 141,
+        "lastActivityDate": "2024-07-29T06:56:49.000+0000",
+        "location": {
+            "globalSortOrder": 536888615,
+            "parent": {
+                "item": 195239
+            },
+            "sequence": "1.1.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-07-29T06:56:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:08.000+0000",
+        "documentKey": "AT123-CMP-24",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-CMP-24",
+            "globalId": "GID-82753",
+            "name": "Item Test"
+        },
+        "globalId": "GID-82753",
+        "id": 197007,
+        "itemType": 30,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536889688,
+            "parent": {
+                "project": 159
+            },
+            "sequence": "2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:08.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:08.000+0000",
+        "documentKey": "AT123-CMP-25",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-CMP-25",
+            "globalId": "GID-82754",
+            "name": "sync change test"
+        },
+        "globalId": "GID-82754",
+        "id": 197008,
+        "itemType": 30,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536890761,
+            "parent": {
+                "item": 197007
+            },
+            "sequence": "2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:08.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 139,
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:08.000+0000",
+        "documentKey": "AT123-SET-59",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-SET-59",
+            "globalId": "GID-82756",
+            "name": "ATest",
+            "setKey": "AIT"
+        },
+        "globalId": "GID-82756",
+        "id": 197009,
+        "itemType": 31,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536891834,
+            "parent": {
+                "item": 197008
+            },
+            "sequence": "2.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:08.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AIT-2",
+        "fields": {
+            "description": "<p>Syncしたい変更</p>\n",
+            "description2$139": "<p>Syncしない変更</p>",
+            "documentKey": "AT123-AIT-2",
+            "globalId": "GID-82757",
+            "name": "TEST1"
+        },
+        "globalId": "GID-82757",
+        "id": 197010,
+        "itemType": 139,
+        "lastActivityDate": "2026-01-22T04:51:15.000+0000",
+        "location": {
+            "globalSortOrder": 536892907,
+            "parent": {
+                "item": 197009
+            },
+            "sequence": "2.1.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2026-01-22T04:51:15.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 3
+    },
+    {
+        "childItemType": 160,
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-SET-60",
+        "fields": {
+            "documentKey": "AT123-SET-60",
+            "globalId": "GID-83852",
+            "name": "ASE Risk",
+            "setKey": "AR"
+        },
+        "globalId": "GID-83852",
+        "id": 197011,
+        "itemType": 31,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536893980,
+            "parent": {
+                "item": 197007
+            },
+            "sequence": "2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AR-1",
+        "fields": {
+            "documentKey": "AT123-AR-1",
+            "globalId": "GID-83853",
+            "name": "Risk1",
+            "risk_score$160": 10
+        },
+        "globalId": "GID-83853",
+        "id": 197012,
+        "itemType": 160,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536895053,
+            "parent": {
+                "item": 197011
+            },
+            "sequence": "2.2.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AR-2",
+        "fields": {
+            "documentKey": "AT123-AR-2",
+            "globalId": "GID-83854",
+            "name": "Risk2",
+            "risk_score$160": 30
+        },
+        "globalId": "GID-83854",
+        "id": 197013,
+        "itemType": 160,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536896126,
+            "parent": {
+                "item": 197011
+            },
+            "sequence": "2.2.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 144,
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-SET-61",
+        "fields": {
+            "documentKey": "AT123-SET-61",
+            "globalId": "GID-83309",
+            "name": "ASE Requirement",
+            "setKey": "AREQ"
+        },
+        "globalId": "GID-83309",
+        "id": 197014,
+        "itemType": 31,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536897199,
+            "parent": {
+                "item": 197007
+            },
+            "sequence": "2.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AREQ-1",
+        "fields": {
+            "check$144": false,
+            "description": "",
+            "documentKey": "AT123-AREQ-1",
+            "globalId": "GID-83306",
+            "name": "STest3",
+            "status": 617
+        },
+        "globalId": "GID-83306",
+        "id": 197015,
+        "itemType": 144,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 536898272,
+            "parent": {
+                "item": 197014
+            },
+            "sequence": "2.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AREQ-2",
+        "fields": {
+            "check$144": false,
+            "description": "",
+            "documentKey": "AT123-AREQ-2",
+            "globalId": "GID-83307",
+            "name": "Stest1",
+            "status": 617
+        },
+        "globalId": "GID-83307",
+        "id": 197016,
+        "itemType": 144,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 536899345,
+            "parent": {
+                "item": 197014
+            },
+            "sequence": "2.3.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AREQ-3",
+        "fields": {
+            "attach_files$144": "<p>DR-0002</p>",
+            "check$144": false,
+            "description": "<p>&nbsp;</p>\n\n<p>アイテム</p>\n\n<p>変</p>\n\n<p>更</p>\n",
+            "documentKey": "AT123-AREQ-3",
+            "globalId": "GID-83272",
+            "name": "UREQ1",
+            "spec_type$144": [
+                641,
+                642
+            ],
+            "status": 623,
+            "txtbox$144": "DR-0002",
+            "txtfld$144": "DR-0002"
+        },
+        "globalId": "GID-83272",
+        "id": 197017,
+        "itemType": 144,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 536900418,
+            "parent": {
+                "item": 197014
+            },
+            "sequence": "2.3.3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 2
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-21T01:24:49.000+0000",
+        "documentKey": "AT123-AREQ-9",
+        "fields": {
+            "check$144": false,
+            "description": "<p>細かいシステムの要求</p>\n",
+            "documentKey": "AT123-AREQ-9",
+            "globalId": "GID-83273",
+            "name": "UREQ 1-1",
+            "spec_type$144": [
+                641
+            ],
+            "status": 619
+        },
+        "globalId": "GID-83273",
+        "id": 198574,
+        "itemType": 144,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 536900954,
+            "parent": {
+                "item": 197017
+            },
+            "sequence": "2.3.3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AREQ-4",
+        "fields": {
+            "check$144": false,
+            "documentKey": "AT123-AREQ-4",
+            "globalId": "GID-83720",
+            "name": "Stest4",
+            "score_average$144": "20",
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-83720",
+        "id": 197018,
+        "itemType": 144,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536901491,
+            "parent": {
+                "item": 197014
+            },
+            "sequence": "2.3.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 144,
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-SET-62",
+        "fields": {
+            "documentKey": "AT123-SET-62",
+            "globalId": "GID-83818",
+            "name": "ASE Requirement2",
+            "setKey": "AREQ"
+        },
+        "globalId": "GID-83818",
+        "id": 197019,
+        "itemType": 31,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536902564,
+            "parent": {
+                "item": 197007
+            },
+            "sequence": "2.4",
+            "sortOrder": 3
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AREQ-5",
+        "fields": {
+            "check$144": false,
+            "documentKey": "AT123-AREQ-5",
+            "globalId": "GID-83821",
+            "name": "test",
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-83821",
+        "id": 197020,
+        "itemType": 144,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536903637,
+            "parent": {
+                "item": 197019
+            },
+            "sequence": "2.4.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2024-10-08T00:48:09.000+0000",
+        "documentKey": "AT123-AREQ-6",
+        "fields": {
+            "check$144": false,
+            "description": "<h1>1.概要</h1><p>プロジェクト管理やスケジュール管理、時間測定などもできるツールです。パーソナルモードとチームモードがありますが、チームで利用すればワークスペースを共有し、メンバーへのタスクの割り当てをサポートします。</p><p><a href=\"https://app.clickup.com/\">https://app.clickup.com/</a> </p><p>Zaiperと組み合わせた自動化もできます。</p><p><a href=\"https://zapier.com/app/dashboard?redirect=true\">https://zapier.com/app/dashboard?redirect=true</a></p><p></p><p>ワークスペースはそれぞれ完全に独立したものになります。</p><p> </p><p>ワークスペースのビューはプロジェクト、タスク、ノート、タイムライン、カレンダー、ガントチャートがあり、作成できるものにはスペース、フォルダ、リスト、タスク、サブタスク、チェックリストがあります。</p><p></p><h1>2. 基本操作</h1><h2>2.1 初期設定</h2><p>ワークスペースを作成しスペースを作成します。スペースは各部署のような役割となります。基本は共有ですがPrivateのスペースも作成できます。</p><h2>2.1.1 ワークスペース設定</h2><p>Setting-&gt;App で Google Calenderとの同期設定を行えます &lt;=<strong>未検証</strong></p><h2>2.1.2 スペース設定</h2><p>スペースにはカラー、ステータスやステップなどを作成しワークフローを管理できます。</p><p></p><h1>Appendex_1  Zapier</h1><h2>A1  ルールを作成</h2><p>Create Zapで新しいルール作成の開始</p><p>GmailをトリガにClickUPでタスクを作る</p><p>GmailとClickupを下図の左右にそれぞれ入力</p><p><strong>When this happens...</strong> ではメールがフォルダに入った事をトリガにしたい場合は　New Emailを、メール内の特定の文字をトリガにしたい場合は　New Email Matching Searchを選択する</p><p>NewEmailにした場合、フォルダの選択画面が後程出てきます。 ClickUpのSpaceやListの選択も後で出てきます。</p><p></p>",
+            "documentKey": "AT123-AREQ-6",
+            "globalId": "GID-83820",
+            "name": "Clickup",
+            "status": 617,
+            "testlist$144": 611
+        },
+        "globalId": "GID-83820",
+        "id": 197021,
+        "itemType": 144,
+        "lastActivityDate": "2024-10-08T00:48:10.000+0000",
+        "location": {
+            "globalSortOrder": 536904710,
+            "parent": {
+                "item": 197019
+            },
+            "sequence": "2.4.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2024-10-08T00:48:09.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-21T01:24:49.000+0000",
+        "documentKey": "AT123-CMP-26",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-CMP-26",
+            "globalId": "GID-83270",
+            "name": "App1"
+        },
+        "globalId": "GID-83270",
+        "id": 198567,
+        "itemType": 30,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 536905783,
+            "parent": {
+                "project": 159
+            },
+            "sequence": "3",
+            "sortOrder": 2
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "childItemType": 144,
+        "createdBy": 14,
+        "createdDate": "2025-01-21T01:24:49.000+0000",
+        "documentKey": "AT123-SET-63",
+        "fields": {
+            "description": "",
+            "documentKey": "AT123-SET-63",
+            "globalId": "GID-83271",
+            "name": "ASE Requirement",
+            "setKey": "AREQ"
+        },
+        "globalId": "GID-83271",
+        "id": 198568,
+        "itemType": 31,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 536906856,
+            "parent": {
+                "item": 198567
+            },
+            "sequence": "3.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-21T01:24:49.000+0000",
+        "documentKey": "AT123-AREQ-7",
+        "fields": {
+            "attach_files$144": "<p>DR-0001,DR-0002</p>",
+            "check$144": false,
+            "description": "",
+            "documentKey": "AT123-AREQ-7",
+            "globalId": "GID-83274",
+            "name": "UREQ3",
+            "spec_type$144": [
+                641
+            ],
+            "status": 621,
+            "txtbox$144": "DR-0001,DR-0002",
+            "txtfld$144": "DR-0001,DR-0002"
+        },
+        "globalId": "GID-83274",
+        "id": 198569,
+        "itemType": 144,
+        "lastActivityDate": "2025-01-21T01:28:12.000+0000",
+        "location": {
+            "globalSortOrder": 536907929,
+            "parent": {
+                "item": 198568
+            },
+            "sequence": "3.1.1",
+            "sortOrder": 0
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    },
+    {
+        "createdBy": 14,
+        "createdDate": "2025-01-21T01:24:49.000+0000",
+        "documentKey": "AT123-AREQ-8",
+        "fields": {
+            "assignedTo": 29,
+            "check$144": false,
+            "description": "<p>This is newer version.&nbsp;&nbsp;</p>\n",
+            "documentKey": "AT123-AREQ-8",
+            "globalId": "GID-83275",
+            "name": "TEST_REQ1",
+            "status": 621
+        },
+        "globalId": "GID-83275",
+        "id": 198570,
+        "itemType": 144,
+        "lastActivityDate": "2025-01-21T01:24:49.000+0000",
+        "location": {
+            "globalSortOrder": 1342195788,
+            "parent": {
+                "item": 198568
+            },
+            "sequence": "3.1.2",
+            "sortOrder": 1
+        },
+        "lock": {
+            "locked": false
+        },
+        "modifiedBy": 14,
+        "modifiedDate": "2025-01-21T01:24:49.000+0000",
+        "project": 159,
+        "resources": {
+            "self": {
+                "allowed": [
+                    "GET",
+                    "PUT",
+                    "PATCH",
+                    "DELETE"
+                ]
+            }
+        },
+        "type": "items",
+        "version": 1
+    }
+]

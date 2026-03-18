@@ -1,0 +1,17 @@
+{
+    "createdBy": 14,
+    "createdDate": "2023-09-28T14:02:51.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Failer",
+        "projectGroup": 296,
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 152,
+    "isFolder": true,
+    "modifiedBy": 14,
+    "modifiedDate": "2023-09-28T14:02:51.000+0000",
+    "parent": 150,
+    "type": "projects"
+}

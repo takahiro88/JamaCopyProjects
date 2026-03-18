@@ -1,0 +1,41 @@
+[
+    {
+        "active": true,
+        "archived": false,
+        "color": "",
+        "default": false,
+        "description": "",
+        "id": 326,
+        "name": "1",
+        "pickList": 85,
+        "sortOrder": 1,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "",
+        "default": false,
+        "description": "",
+        "id": 327,
+        "name": "2",
+        "pickList": 85,
+        "sortOrder": 2,
+        "type": "picklistoptions",
+        "value": ""
+    },
+    {
+        "active": true,
+        "archived": false,
+        "color": "",
+        "default": false,
+        "description": "",
+        "id": 328,
+        "name": "3",
+        "pickList": 85,
+        "sortOrder": 3,
+        "type": "picklistoptions",
+        "value": ""
+    }
+]

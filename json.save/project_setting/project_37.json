@@ -1,0 +1,19 @@
+{
+    "createdBy": 5,
+    "createdDate": "2015-05-20T11:40:06.000+0000",
+    "fields": {
+        "description": "",
+        "name": "Integrated System Framework",
+        "projectGroup": 296,
+        "projectKey": "SYS",
+        "statusId": 298,
+        "text1": ""
+    },
+    "id": 37,
+    "isFolder": false,
+    "modifiedBy": 5,
+    "modifiedDate": "2016-04-19T09:23:31.000+0000",
+    "parent": 28,
+    "projectKey": "SYS",
+    "type": "projects"
+}
