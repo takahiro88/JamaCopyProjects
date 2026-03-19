@@ -4,3 +4,6 @@ copy_from/*
 output/*
 logs/*
 .vscode/*
+.venv/
+venv/
+__pycache__/
