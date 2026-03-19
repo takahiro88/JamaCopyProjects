@@ -29,7 +29,6 @@ Jama Project Copierは、Jama Connect インスタンス間でプロジェクト
 
 ### 必要パッケージ
 ```bash
-pip install py-jama-rest-client
 pip install requests
 ```
 
@@ -78,192 +77,8 @@ copy_from/
 
 ## 使用方法
 
-### 1. 基本的なプロジェクトコピー
-
-```python
-from JamaCopyProjects import JamaProjectCopier
-
-# インスタンス作成
-copier = JamaProjectCopier()
-
-# 利用可能プロジェクト一覧
-available_projects = copier.scan_copy_from_projects()
-print(f"Available projects: {available_projects}")
-
-# タイプマッピング作成
-project_infos = {204: {'name': 'Source Project'}}
-used_item_types, used_relationship_types = copier.collect_used_types_from_projects(project_infos)
-mappings = copier.create_filtered_type_mappings(used_item_types, used_relationship_types)
-
-# プロジェクトコピー実行
-copier.copy_project(
-    source_project_id=204,
-    new_project_name="Copied Project",
-    project_key="COPY001",
-    type_id_mapping=mappings[0],
-    relationship_type_mapping=mappings[3],
-    picklist_option_mapping=mappings[5]
-)
-```
-
-### 2. 複数プロジェクト一括処理
-
-```python
-# 複数プロジェクトの一括処理
-for project_id in available_projects:
-    project_name, project_key, is_folder, parent_id = copier.load_project_info(project_id)
-    
-    if not is_folder:  # 通常プロジェクトのみ
-        copier.copy_project(
-            source_project_id=project_id,
-            new_project_name=f"Copy_{project_name}",
-            project_key=f"CPY{project_id}",
-            type_id_mapping=mappings[0],
-            relationship_type_mapping=mappings[3],
-            picklist_option_mapping=mappings[5]
-        )
-```
-
-## 詳細機能
-
-### アイテムタイプ同期
-- **自動作成**: 不足するアイテムタイプの自動生成
-- **フィールド追加**: 新規フィールドの適切な設定
-- **画像処理**: アイテムタイプアイコンの自動変換
-
-### ピックリスト管理
-- **名前マッピング**: 同名ピックリストの自動関連付け
-- **オプション作成**: 不足オプションの自動生成
-- **値変換**: フィールド値の適切なマッピング
-
-### テスト機能詳細
-
-#### テストプラン処理
-```python
-# itemType 35 (TESTPLAN) の処理
-post_testplan(project_id, name, description)
-```
-
-#### テストグループ構造
-```python
-# Default Test Group を除外した処理
-for testgroup in testgroups:
-    if testgroup['name'] != "Default Test Group":
-        post_testgroup(testplan_id, name)
-```
-
-#### テストサイクル作成
-```python
-# 開始・終了日付必須
-post_testplans_testcycles(
-    testplan_id, 
-    testcycle_name, 
-    start_date, 
-    end_date, 
-    testgroups_to_include=group_ids,
-    testrun_status_to_include=statuses
-)
-```
-
-## エラーハンドリング
-
-### 一般的な問題と対処法
-
-#### 1. 認証エラー
-```
-Error: Authorization failed
-```
-- 環境変数の設定確認
-- 認証情報の有効性検証
-- Jama URLの末尾スラッシュ除去
-
-#### 2. ファイル不足エラー
-```
-Error: project_204_items.json does not exist
-```
-- `SaveJamaItems.py`での事前データ取得実行
-- ファイルパスとプロジェクトID確認
-
-#### 3. API制限エラー
-```
-Error: Rate limit exceeded
-```
-- 処理間隔の調整
-- `allowed_results_per_page`設定の最適化
-
-### ログメッセージ解説
-
-| レベル | 表示 | 意味 |
-|--------|------|------|
-| 📋 | Including type | アイテムタイプがマッピング対象に含まれた |
-| 🔄 | Mapped | 値やIDが正常にマッピングされた |
-| ✅ | Successfully | 処理が正常に完了した |
-| ⚠️ | Warning | 警告（処理は継続） |
-| ❌ | Error | エラー（当該項目はスキップ） |
-| 🚨 | Critical Error | 致命的エラー（処理中断） |
-
-## パフォーマンス最適化
-
-### 推奨設定
-```python
-# 大量データ処理用設定
-super().__init__(
-    JAMA_URL, 
-    credentials=CREDENTIALS, 
-    verify=False, 
-    allowed_results_per_page=50  # API制限に応じて調整
-)
-```
-
-### 処理時間目安
-- 小規模プロジェクト（〜100アイテム）: 5-10分
-- 中規模プロジェクト（〜1000アイテム）: 30-60分  
-- 大規模プロジェクト（1000+アイテム）: 1-3時間
-
-## 制限事項
-
-### 対応外機能
-- **ATTACHMENT アイテム**: 別APIでの処理が必要
-- **ユーザー・グループ**: ユーザー管理関連は対象外
-- **カスタムワークフロー**: 標準フィールドのみ対応
-
-### API制限
-- Jama Connect APIの呼び出し制限に従う
-- 同時接続数の制限
-- データサイズ制限（大容量ファイル非対応）
-
-### 注意事項
-- **プロジェクトキー重複**: 既存キーとの衝突回避必要
-- **権限要件**: 管理者権限推奨
-- **データ整合性**: コピー前後の検証推奨
-
-## トラブルシューティング
-
-### デバッグモード有効化
-```python
-import logging
-logging.basicConfig(level=logging.DEBUG)
-```
-
-### よくある問題
-
-#### プロジェクト作成失敗
-```python
-# キー重複の確認
-existing_projects = list(copier.get_projects())
-for project in existing_projects:
-    if project.get('fields', {}).get('projectKey') == 'YOUR_KEY':
-        print("Key already exists!")
-```
-
-#### フィールドマッピング失敗
-```python
-# フィールド名の確認
-for field in source_fields:
-    print(f"Field: {field.get('name')} (Type: {field.get('fieldType')})")
-```
-
-## サポート・問い合わせ
+### プロジェクトコピー
+ python JamaCopyProjects.py
 
 ### ログファイル
 処理結果は以下に保存されます：
@@ -275,9 +90,8 @@ output/
 ```
 
 ### 技術仕様
-- **Python**: 3.7以上
+- **Python**: 3.12以上
 - **Jama Connect**: 8.25以上推奨
-- **py-jama-rest-client**: 1.13以上
 
 ---
 
