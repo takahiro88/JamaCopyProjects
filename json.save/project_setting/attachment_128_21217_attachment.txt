@@ -1,1 +1,0 @@
-File attachment test with .txt extension.

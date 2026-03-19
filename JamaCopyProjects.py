@@ -155,7 +155,7 @@ class JamaProjectCopier(JamaClient):
             
         except Exception as e:
             self.print_error(f"Error getting target pick lists: {str(e)}")
-            return {}
+            raise Exception(f"Login failed. Check your credentials: {str(e)}")
 
     def create_picklist_mappings(self, source_picklists_by_id, target_picklists_by_id):
         """
@@ -383,6 +383,8 @@ class JamaProjectCopier(JamaClient):
                             # 特例: PAGE_WHITE_STACKをPAGE_STACKに変換
                             if image == 'PAGE_WHITE_STACK':
                                 image = 'PAGE_STACK'
+                            if image == 'APPLICATION_VIEW_LIST':
+                                image = 'APPLICATION_LIST'
                     
                     print(f"Creating item type '{type_key}' - display: '{display}', displayPlural: '{display_plural}', image: {image}, category: {category}")
                     
@@ -541,6 +543,8 @@ class JamaProjectCopier(JamaClient):
                             field_type = 'INTEGER'
                         if field_type == 'ROLLUP':
                             continue
+                        if field_type == 'DOCUMENT_TYPE_ITEM_LOOKUP' :
+                            field_type = 'MULTI_LOOKUP'
                         self.post_item_type_field(
                             item_type_id=target_type_id,
                             name=field_name,
@@ -709,10 +713,13 @@ class JamaProjectCopier(JamaClient):
 
     def _create_automatic_mapping(self, source_types_by_key, target_types_by_key, exact_matches, missing_types, different_types):
         """
-        自動マッピングロジックを実行
+        自動マッピングロジックを実行（relationship type用に改良）
         """
         type_mapping = {}
         mapping_log = []
+        
+        print(f"📊 Creating mappings for {len(source_types_by_key)} source types using {len(target_types_by_key)} target types")
+        print(f"📊 Exact matches: {len(exact_matches)}, Different attributes: {len(different_types)}, Missing: {len(missing_types)}")
         
         # 1. 完全一致のマッピング
         for match in exact_matches:
@@ -738,16 +745,20 @@ class JamaProjectCopier(JamaClient):
             })
 
         # 3. 不足しているタイプは名前の類似性で最適なターゲットを探す
+        # Relationship typeでは複数のsourceが同じtargetにマップされることを許可
         available_targets = [{'id': k, 'name': v.get('name', ''), 'type': v.get('type', '')} 
                            for k, v in target_types_by_key.items() 
                            if k not in type_mapping.values()]
+        
+        # 全ターゲットのバックアップを保持（再利用のため）
+        all_available_targets = available_targets.copy()
         
         for missing in missing_types:
             best_match = self._find_best_match(missing, available_targets)
             
             if best_match:
                 type_mapping[missing['source_id']] = best_match['id']
-                available_targets.remove(best_match)  # 一度使ったターゲットは除外
+                available_targets.remove(best_match)  # 一度使ったターゲットは優先リストから除外
                 mapping_log.append({
                     'source_id': missing['source_id'],
                     'target_id': best_match['id'],
@@ -770,6 +781,29 @@ class JamaProjectCopier(JamaClient):
                         'mapping_type': 'fallback',
                         'warning': 'No good match found - using fallback mapping'
                     })
+                elif all_available_targets:
+                    # 優先リストが空の場合、全ターゲットリストから再利用
+                    reuse_target = all_available_targets[0]
+                    type_mapping[missing['source_id']] = reuse_target['id']
+                    mapping_log.append({
+                        'source_id': missing['source_id'],
+                        'target_id': reuse_target['id'],
+                        'source_name': missing['source_name'],
+                        'target_name': reuse_target['name'],
+                        'mapping_type': 'reuse_fallback',
+                        'warning': 'Reused target type - multiple source types mapped to same target'
+                    })
+
+        # マッピング完了の確認
+        total_expected_mappings = len(exact_matches) + len(different_types) + len(missing_types)
+        actual_mappings = len(type_mapping)
+        print(f"📊 Mapping completed: {actual_mappings}/{total_expected_mappings} types mapped")
+        
+        if actual_mappings != total_expected_mappings:
+            self.print_warning(f"⚠️ Mapping count mismatch! Expected {total_expected_mappings} but got {actual_mappings}")
+            unmapped_sources = [missing['source_id'] for missing in missing_types if missing['source_id'] not in type_mapping]
+            if unmapped_sources:
+                self.print_error(f"❌ Unmapped source types: {unmapped_sources}")
 
         # マッピング結果をログ出力
         print("\n=== Relationship Type Mapping Results ===")
@@ -785,6 +819,8 @@ class JamaProjectCopier(JamaClient):
                 print(f"🔄 {log_entry['source_id']}: '{log_entry['source_name']}' -> '{log_entry['target_name']}' (AUTO-MAPPED - {warning})")
             elif mapping_type == 'fallback':
                 print(f"❓ {log_entry['source_id']}: '{log_entry['source_name']}' -> '{log_entry['target_name']}' (FALLBACK - {warning})")
+            elif mapping_type == 'reuse_fallback':
+                print(f"🔄 {log_entry['source_id']}: '{log_entry['source_name']}' -> '{log_entry['target_name']}' (REUSED - {warning})")
 
         # マッピングログをファイルに保存
         try:
@@ -1358,6 +1394,9 @@ class JamaProjectCopier(JamaClient):
                 if target_field.get('readOnly',False):
                     if not target_field.get('readOnlyAllowApiOverwrite',True):
                         continue
+                #User 情報はコピーできないため、スキップ
+                if target_field.get('fieldType') == "USER":
+                        continue
                 if target_field.get('pickList') is None: # picklistでないフィールドはマッピングの必要なし
                     updated_fields[field_name] = field_value
                     continue
@@ -1397,7 +1436,7 @@ class JamaProjectCopier(JamaClient):
 
             # コピーできないフィールド値を削除
             import re
-            fields_to_remove = ['documentKey', 'globalId','assignedTo']
+            fields_to_remove = ['documentKey', 'globalId','assignedTo', 'createdDate', 'modifiedDate', 'createdBy', 'modifiedBy', 'lastActivityDate']
             
             # フィールド名をチェックして除去対象を決定
             fields_to_delete = []
@@ -1467,6 +1506,18 @@ class JamaProjectCopier(JamaClient):
                         retry = False
                     else:
                         self.print_warning(f"Retry {retry_count} for item {old_id}: {str(e)}")
+                        msg = str(e)
+                        if "You cannot set read-only fields"  in msg:
+                            #Read-onlyフィールドが原因の場合、エラーメッセージからフィールド名を抽出して削除してリトライ
+                            m = re.search(r'fields:\s*([A-Za-z0-9_,\s]+)', msg)
+                            if m:
+                                del_fields_names = [f.strip() for f in m.group(1).split(',') if f.strip()]
+                                for field_name in del_fields_names:
+                                    if field_name in dct_fields:
+                                        dct_fields.pop(field_name, None)
+                                        print(f"Removed read-only field '{field_name}' from item {old_id}")
+                                print(f"Removed {len(del_fields_names)} read-only field(s) and retrying...")
+
                         time.sleep(1)  # 1秒待ってリトライ
 
         # ========== Test関連の処理 ==========
@@ -1772,6 +1823,9 @@ class JamaProjectCopier(JamaClient):
             self.print_error("Error: Type mappings must be provided.")
             return False, None
 
+        #item type情報をリフレッシュ
+        self.target_item_types_cache = self.get_item_types()
+
         # アイテムをコピー
         old_id_to_new_id, created_items = self.copy_items(items_data, target_project_id, source_project_id,type_id_mapping, picklist_option_mapping)
         
@@ -1820,7 +1874,8 @@ def main():
     # 標準出力をファイルにも出力するように設定
     original_stdout = sys.stdout
     sys.stdout = TeeOutput(log_file)
-    
+    debug = False  # デバッグモードを有効にして、実際のコピー処理をスキップ（ログは出力される）
+
     try:
         # 実行開始ログ
         print("=" * 80)
@@ -1894,7 +1949,16 @@ def main():
             relationship_type_mapping = {}
             picklist_option_mapping = {}  # 空の辞書として初期化
         else:
-            type_id_mapping, created_types, relationship_validation_success, relationship_type_mapping, picklist_id_mapping, picklist_option_mapping = copier.create_filtered_type_mappings(used_item_types, used_relationship_types)
+            if debug:
+                print("Debug mode: Skipping type mapping creation. Using empty mappings.")
+                type_id_mapping = {}
+                created_types = []
+                relationship_validation_success = True
+                relationship_type_mapping = {}
+                picklist_id_mapping = {}
+                picklist_option_mapping = {}
+            else:
+                type_id_mapping, created_types, relationship_validation_success, relationship_type_mapping, picklist_id_mapping, picklist_option_mapping = copier.create_filtered_type_mappings(used_item_types, used_relationship_types)
             
             if not relationship_validation_success:
                 print("🚫 Type mapping validation failed. Aborting all project copying.")
@@ -1909,7 +1973,8 @@ def main():
         # 1. フォルダプロジェクトを最初に作成
         for source_project_id in folder_projects:
             print(f"\n=== Processing Project Folder {source_project_id} ===")
-            
+            if debug:
+                continue
             project_info = project_infos[source_project_id]
             success, target_project_id = copier.copy_project(
                 source_project_id, 
@@ -1941,6 +2006,8 @@ def main():
         # 2. 通常のプロジェクトを作成
         for source_project_id in regular_projects:
             print(f"\n=== Processing Regular Project {source_project_id} ===")
+            if debug:
+                continue
             
             project_info = project_infos[source_project_id]
             success, target_project_id = copier.copy_project(
@@ -1995,6 +2062,44 @@ def main():
         print(f"Log file saved: {log_filename}")
         print("=" * 80)
         
+        #終了状態を保存
+        ret_json = copier.get_projects()
+        print ("プロジェクトの状態を保存します:")
+
+        #print ("\n アイテムタイプを調べます")
+        type_list = []
+        for ret_type in copier.get_item_types():
+            type_list.append(ret_type)
+            #print(json.dumps(ret_type, indent=4, sort_keys=True, separators=(',', ': ')))
+        # JSONファイルに保存
+        download_dir = "output"
+        output_filename = os.path.join(download_dir, "project_itemtypes.json")
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(type_list, f, indent=4, sort_keys=True, separators=(',', ': '), ensure_ascii=False)
+        print(f"itemTypeを {output_filename} に保存しました。")
+
+        # Get the list of projects from Jama
+        # The client will return to us a JSON array of Projects, where each project is a JSON object.
+        pick_lists = copier.get_pick_lists()
+        output_filename = os.path.join(download_dir, "pick_lists.json")
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(pick_lists, f, indent=4, sort_keys=True, separators=(',', ': '), ensure_ascii=False)
+        print(f"pickListsを {output_filename} に保存しました。")
+        #
+        for picklist in pick_lists:
+            pick_list_options = copier.get_pick_list_options(picklist['id'])
+            output_filename = os.path.join(download_dir, f"pick_list_{picklist['id']}_options.json")
+            with open(output_filename, 'w', encoding='utf-8') as f:
+                json.dump(pick_list_options, f, indent=4, sort_keys=True, separators=(',', ': '), ensure_ascii=False)
+            print(f"pickList optionsを {output_filename} に保存しました。")
+
+
+        rel_types = copier.get_relationship_types()
+        output_filename = os.path.join(download_dir, "relationshiptypes.json")
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(rel_types, f, indent=4, sort_keys=True, separators=(',', ': '), ensure_ascii=False)
+        print(f"relationshipTypesを {output_filename} に保存しました。")
+
     except Exception as e:
         print("=" * 80)
         print(f"ERROR: An unexpected error occurred: {str(e)}")
@@ -2003,6 +2108,7 @@ def main():
         print(f"Execution failed: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("=" * 80)
         
+
     finally:
         # 標準出力を元に戻してログファイルを閉じる
         sys.stdout = original_stdout
